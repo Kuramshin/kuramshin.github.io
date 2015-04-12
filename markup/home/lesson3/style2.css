@@ -1,0 +1,12 @@
+
+article header+p {
+
+    font-size: large;
+    color: red;
+}
+
+article p:last-child {
+
+    color: #999;
+}
+
