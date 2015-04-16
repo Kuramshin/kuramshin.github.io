@@ -1,19 +1,17 @@
-body {font-size: 15px;
-}
+body {font-size: 15px;}
 
 input[type="checkbox"] {display:none;}
+
 span {display: none;
     border-radius: 10px;
     padding: 5px 7px;
-    color: white}
+    color: white;}
 
-div>label {opacity: 0.3}
+div>label {opacity: 0.3;}
 
 #red:checked ~.red {display: inline; background: red;}
 #green:checked ~.green {display: inline; background: green;}
 #blue:checked ~.blue {display: inline; background: blue;}
-
-
 
 label[for="red"] {text-decoration: underline;
         margin-right: 20px; color: red; }
@@ -24,11 +22,8 @@ label[for="green"] {text-decoration: underline;
 label[for="blue"] {text-decoration: underline;
     margin-right: 20px; color: blue;}
 
+#red:checked ~label[for="red"] {opacity: 1;}
 
+#green:checked ~label[for="green"] {opacity: 1;}
 
-
-#red:checked ~label[for="red"] {opacity: 1}
-
-#green:checked ~label[for="green"] {opacity: 1}
-
-#blue:checked ~label[for="blue"] {opacity: 1}
+#blue:checked ~label[for="blue"] {opacity: 1;}
