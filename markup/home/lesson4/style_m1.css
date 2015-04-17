@@ -3,6 +3,7 @@
     font-family: Impact;
     src: url(fonts/Impact.ttf);
 }*/
+body {font-weight:100;}
 
 div {
     width: 900px;
