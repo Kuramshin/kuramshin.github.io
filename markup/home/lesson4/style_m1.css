@@ -3,13 +3,13 @@ div {
     width: 900px;
     height: 50px;
     margin: auto;
-    }
+}
 
 nav {
     width: 100%;
     margin: 12px auto;
-    background: #D700FF;
-    background: linear-gradient(to top, #D700FF, blueviolet);
+    background: AE01EC;
+    background: linear-gradient(to top, #c800ff, #D700FF);
 }
 
 span {
@@ -25,6 +25,7 @@ span {
 span:first-child {margin-left: 40px;}
 
 a {
+    display: block;
     text-decoration: none;
     line-height: 25px;
     color: white;
@@ -32,8 +33,9 @@ a {
     padding: 0 5px;
 }
 
-span:hover, a:hover {background: #EDEDEE;
+ a:hover {background: #EDEDEE;
     color: #B8B09E;
 }
 
-span:hover {box-shadow: 0 0 2px;}
+span:hover {height: 25px;
+    box-shadow: 0 0 3px;}

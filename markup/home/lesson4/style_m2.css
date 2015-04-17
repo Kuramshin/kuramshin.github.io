@@ -4,7 +4,7 @@ nav {
     height: 25px;
     margin: 12px auto;
     background: #D700FF;
-    background: linear-gradient(to top, #D700FF, blueviolet);
+    background: linear-gradient(to top, #c800ff, #D700FF);
 }
 
 nav>div {
