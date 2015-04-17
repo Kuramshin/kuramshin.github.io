@@ -3,7 +3,6 @@
     font-family: Impact;
     src: url(fonts/Impact.ttf);
 }*/
-body {font-weight:100;}
 
 div {
     width: 900px;
@@ -23,7 +22,6 @@ span {
     display: inline-block;
     height: 25px;
     font-size: 12px;
-    font-weight:100;
     text-transform: uppercase;
     margin-right: 10px;
     font-family: Impact; /*, serif */
