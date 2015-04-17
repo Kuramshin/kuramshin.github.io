@@ -22,6 +22,7 @@ span {
     display: inline-block;
     height: 25px;
     font-size: 12px;
+    font-weight:100;
     text-transform: uppercase;
     margin-right: 10px;
     font-family: Impact; /*, serif */
