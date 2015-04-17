@@ -24,7 +24,7 @@ span {
     font-size: 12px;
     text-transform: uppercase;
     margin-right: 10px;
-    font-family: Impact; /*, serif */
+    font-family: Impact, Arial, Geneva, Helvetica, sans-serif; /*, serif */
 }
 
 span:first-child {margin-left: 40px;}
