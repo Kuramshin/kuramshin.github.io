@@ -1,5 +1,5 @@
-nav {
 
+nav {
     width: 900px;
     height: 25px;
     margin: 12px auto;
@@ -20,14 +20,15 @@ a {
     padding: 0 5px;
     font-size: 14px;
     text-transform: uppercase;
-}
+   }
 
 nav>div:first-child {
     margin-left: 40px;
 }
 
 nav>div:last-child {
-    margin-left: 150px;
+   margin-right: 40px;
+    float: right;
 }
 nav>div {margin-right: 15px;}
 

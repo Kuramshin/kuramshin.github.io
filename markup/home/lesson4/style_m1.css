@@ -1,13 +1,12 @@
 
 div {
     width: 900px;
-    height: 50px;
     margin: auto;
 }
 
 nav {
     width: 100%;
-    margin: 12px auto;
+    margin: auto;
     background: #D700FF;
     background: linear-gradient(to top, #c800ff, #D700FF);
 }
@@ -38,4 +37,4 @@ a {
 }
 
 span:hover {height: 25px;
-    box-shadow: 0 0 3px;}
+    box-shadow: 0 0 2px;}
