@@ -1,8 +1,8 @@
-
 nav {
+
     width: 900px;
     height: 25px;
-    margin: auto;
+    margin: 12px auto;
     background: #D700FF;
     background: linear-gradient(to top, #c800ff, #D700FF);
 }
@@ -20,15 +20,14 @@ a {
     padding: 0 5px;
     font-size: 14px;
     text-transform: uppercase;
-   }
+}
 
 nav>div:first-child {
     margin-left: 40px;
 }
 
 nav>div:last-child {
-   margin-right: 40px;
-    float: right;
+    margin-left: 150px;
 }
 nav>div {margin-right: 15px;}
 
