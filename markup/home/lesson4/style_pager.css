@@ -17,7 +17,7 @@ span:not(.nav) {
     border: 1px solid #DDDDDD;
     text-align: center;
     border-radius: 5px;
-    font-size: 14px;
+    font-size: 12px;
     margin-right: 2px;
 }
 
@@ -31,21 +31,33 @@ span.nav {
 /*пробовал добавлять элемент "<<" через спец символ, не получилось, пришлось таким способом*/
 
 .nav:nth-child(1):before, .nav:nth-child(2):before {
-
+/*
     content: "<<";
     color: #A13AD1;
     font-size: 12px;
     font-weight: bold;
     margin-right: 3px;
+    */
+    content: '\ab';
+    font-size: 12px;
+    padding-right: 3px;
+    color: #A13AD1;
+    height: 25px;
 }
 
 .nav:nth-last-child(1):after, .nav:nth-last-child(2):after {
-
+/*
     content: ">>";
     color: #A13AD1;
     font-size: 12px;
     font-weight: bold;
     margin-left: 3px;
+    */
+    content: '\bb';
+    font-size: 12px;
+    padding-left: 3px;
+    color: #A13AD1;
+    height: 25px;
 }
 
 .nav:nth-child(1), .nav:nth-last-child(2) {margin-right: 20px;}
@@ -62,6 +74,7 @@ a {
     color: #A13AD1;
     text-align: center;
     border-radius: 5px;
+    vertical-align: middle;
 
 }
 
