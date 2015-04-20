@@ -22,11 +22,11 @@ a {
 }
 
 nav>div:first-child {
-    margin-left: 40px;
+    margin-left: 60px;
 }
 
 nav>div:last-child {
-    margin-right: 40px;
+    margin-right: 60px;
     float: right;
 }
 nav>div {margin-right: 15px;}
