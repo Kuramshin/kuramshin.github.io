@@ -62,7 +62,7 @@ a {
     color: #A13AD1;
     text-align: center;
     border-radius: 5px;
-    -padding: 0 3px;
+
 }
 
 span:not(.nav):hover, a:hover {background: #A13AD1;
