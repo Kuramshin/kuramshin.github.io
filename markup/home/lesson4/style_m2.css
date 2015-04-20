@@ -1,7 +1,7 @@
 nav {
     width: 900px;
     height: 25px;
-    margin: 12px auto;
+    margin: auto;
     background: #D700FF;
     background: linear-gradient(to top, #c800ff, #D700FF);
 }
@@ -26,7 +26,8 @@ nav>div:first-child {
 }
 
 nav>div:last-child {
-    margin-left: 150px;
+    margin-right: 40px;
+    float: right;
 }
 nav>div {margin-right: 15px;}
 
