@@ -1,8 +1,11 @@
-body {
+/** {
     margin: 0;
     padding: 0;
     font-family: "Trebuchet MS", sans-serif;
 }
+*/
+* {font-family: "Trebuchet MS", sans-serif;}
+
 #container {
     width: 290px;
     height: 460px;
@@ -39,18 +42,19 @@ body {
     }
 
 #header_1 span {
+    position: relative;
     width: 100%;
-    height: 100%;
+    height: 50%;
     vertical-align: middle;
 line-height: 100%;
     display: block;
-    margin: 0 auto;
+    margin: 5% auto;
 }
 
 #price p {
-   - border: 1px solid red;
+
     font-size: 72px;
-    margin: 0 auto;
+    margin: -10% auto 0 auto;
     text-align: center;
 }
 
@@ -72,18 +76,18 @@ line-height: 100%;
     height: 30%;
     margin: 0 auto;
     font-weight: bold;
-    -border: 1px solid black;
+    list-style-image: url("img/task2_03.gif")
 }
 
 
 
 ul li {
     width: 100%;
-    -list-style-type: none;
-    text-align: center;
+    text-align: left;
     font-size: 12px;
+    color: #91949B;
     line-height: 250%;
-    list-style-image: url("img/task2_03.gif")
+
 }
 
 li:nth-child(2n+1) {
