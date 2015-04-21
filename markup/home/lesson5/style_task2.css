@@ -54,6 +54,7 @@ line-height: 100%;
 #price p {
 
     font-size: 72px;
+    font-weight: bold;
     margin: -10% auto 0 auto;
     text-align: center;
 }
