@@ -35,7 +35,6 @@
     height: 15%;
     width: 100%;
     text-transform: uppercase;
-    margin-top: 0 auto;
     font-size: 22px;
     text-align: center;
     vertical-align: middle;
@@ -77,12 +76,19 @@ line-height: 100%;
     height: 30%;
     margin: 0 auto;
     font-weight: bold;
-    list-style-image: url("img/task2_03.gif")
+   }
+
+ul {width: 100%;
+    margin-left: -15%;}
+
+li:before {
+    content:  url("img/task2_03.gif");
+    margin-right: 15px;
+    margin-left: 30px;
 }
 
-
-
 ul li {
+    list-style-type: none;
     width: 100%;
     text-align: left;
     font-size: 12px;
