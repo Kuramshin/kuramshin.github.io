@@ -11,7 +11,7 @@ body {
     box-shadow: 0 0 15px #a8c0cd;
     margin: 0 auto;
     border: 4px solid #EE8129;
-}
+    }
 
 #header {
     width: 100%;
@@ -25,6 +25,7 @@ body {
     font-size: 22px;
     background: #EE8129;
     border: 1px solid #EE8129;
+
 }
 
 #header_1 {
@@ -35,16 +36,19 @@ body {
     font-size: 22px;
     text-align: center;
     border-bottom: 1px solid white;
+    vertical-align: middle;
     }
 
-#header_1 p {
-    margin-top: 5%;
-
+ span {
+    width: 100%;
+    height: 200%;
+    vertical-align: middle;
+line-height: 100%;
 }
 
 #price p {
    - border: 1px solid red;
-    font-size: 62px;
+    font-size: 72px;
     margin: 0 auto;
     text-align: center;
 }
@@ -67,7 +71,7 @@ body {
     height: 30%;
     margin: 0 auto;
     font-weight: bold;
-    border: 1px solid black;
+    -border: 1px solid black;
 }
 
 
@@ -99,7 +103,7 @@ li:nth-child(2n+2) {
 
 button {
     background: #EE8129;
-    margin: 2% auto;
+    margin: 0 auto;
     color: white;
     width: 90%;
     height: 38px;
