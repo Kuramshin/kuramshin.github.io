@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 150px;
+
+}
+
+
+.sivtsev {
+    width: 600px;
+    margin: 20px auto;
+    border: 1px solid lightgrey;
+    position: relative;
+}
+
+p {display: flex;
+    line-height: 150px;
+    margin: 0 5px 75px 5px;
+    text-align: justify;}
+
+
+p.sight20 {
+    margin-bottom: 10px;
+}
+p.sight01 {
+    margin-top: 10px;
+}
+
+.sight02 {font-size: 90%}
+.sight03 {font-size: 80%}
+.sight04 {font-size: 70%}
+.sight05 {font-size: 60%}
+.sight06 {font-size: 50%}
+.sight07 {font-size: 40%}
+.sight08 {font-size: 30%}
+.sight09 {font-size: 20%}
+.sight10 {font-size: 10%}
+.sight15 {font-size: 7%}
+.sight20 {font-size: 5%;}
+
+
+.uline {
+    position: absolute;
+    width: 95%;
+    border-bottom: 1px solid red;
+    margin: 0 auto;
+    bottom: 150px;
+    left: 2.5%;
+}
+
+
+
