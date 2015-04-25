@@ -1,21 +1,26 @@
 .testimonials {
     width: 1400px;
-    height: 315px;
+    height: auto;
     background: url(images/Layer-66-copy-2.png);
     margin: 10px auto;
-    position: relative;
 }
+
 .testimonials_bg {
     width: 1400px;
-    height: 315px;
+    height: auto;
     background: rgba(0, 0, 0, 0.7);
 }
 
+.testimonials_title {
+
+    height: 130px;
+}
 .testimonials h2 {
     font-size: 29px;
     color: #2E69A0;
     text-align: center;
     line-height: 130px;
+
 }
 
 .testimonials h2 span {
@@ -23,7 +28,7 @@
     font-weight: 400;
 }
 
-.testimonials_cont {margin: 0 auto; left: 140px; position: relative;}
+.testimonials_cont {margin: 0 auto 60px; left: 140px; position: relative;  display: inline-block;}
 
 .testimonials_photo {width: 99px;
     height: 98px; margin: 0 17px;
@@ -47,6 +52,7 @@
 
 .testimonials_photo, .testimonials_item {
     float: left;
+
 }
 
 .testimonials_item_c_name, .testimonials_item_c_type {
