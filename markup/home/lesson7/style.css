@@ -13,8 +13,8 @@ body {
     border: 1px solid lightgrey;
     position: relative;
     padding: 7px 7px 0 7px;
-   /* color: rgba(0,0,0,0);
-    text-shadow: 0 0 5px #555; */
+    color: rgba(0,0,0,0);
+    text-shadow: 0 0 5px #555;
 
     -webkit-filter: blur(3px);
     -moz-filter: blur(3px);
