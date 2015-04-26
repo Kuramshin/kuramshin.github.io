@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 150px;
-
+    color: #555555;
 }
 
 
@@ -19,8 +19,6 @@ body {
     -o-filter: blur(2px);
     filter: blur(2px);
 }
-
-
 
 p {
     width: 600px;
