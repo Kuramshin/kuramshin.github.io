@@ -185,4 +185,14 @@
     border: 1px solid #EE8129;
     border-bottom: 3px solid #9b4e1c;
     border-radius: 5px;
+    cursor: pointer;
+}
+
+button {cursor: pointer; !important;}
+
+.blue .cont_price_btn button, .green .cont_price_btn button {
+    background: #4956AC;
+    cursor: pointer;
+    border: 1px solid #4956AC;
+    border-bottom: 3px solid #2C306F;
 }
