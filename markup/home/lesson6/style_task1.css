@@ -7,7 +7,7 @@
     margin: 0 auto;
     border: 1px solid black;
     position: relative;
-    }
+     }
 
 
 .cont_price_bg h2 {
@@ -187,10 +187,12 @@
     border-radius: 5px;
     cursor: pointer;
 }
+.cont_price_bg {z-index: 1;}
 
-button {cursor: pointer; !important;}
+.cont_price_btn {z-index: 2;
+}
 
-.blue .cont_price_btn button, .green .cont_price_btn button {
+.blue button, .green button {
     background: #4956AC;
     cursor: pointer;
     border: 1px solid #4956AC;
