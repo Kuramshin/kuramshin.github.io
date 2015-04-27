@@ -1,4 +1,41 @@
-.intro {
+.intro {width: 1400px;
+    height: 585px;
+    margin: 0 auto;
+    background: url(images/MergedLayers.png);
+    color: #ffffff;
+}
 
+.intro__title {margin: 0 auto; text-align: center;}
 
+h1.intro__title {
+    padding-top: 152px;
+    font-weight: 700;
+    font-size: 48px;
+    font-family: FuturaBT;
+    margin-bottom: -10px;}
+
+h1 span {font-weight: 300;
+    font-size: 36px;
+    font-family: FuturaBT;}
+
+.intro__annotation {
+    text-align: center;
+    font: italic 20px / 30px Calibri;
+    padding: 35px;
+}
+
+.intro a {
+    width: 245px;
+    height: 57px;
+    line-height: 57px;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: OpenSans;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    border: 1px solid #97A9BB;
+    margin: 0 auto;
 }
