@@ -13,22 +13,24 @@ body {
     position: relative;
     padding: 7px 7px 0 7px;
     color: #555;
-
+/*
        color: rgba(0,0,0,0);
        text-shadow: 0 0 5px #555;
-    /*
+*/
        -webkit-filter: blur(2px);
        -moz-filter: blur(2px);
        -ms-filter: blur(2px);
        -o-filter: blur(2px);
-       filter: blur(2px); */
+       filter: blur(2px);
 }
 
 p {
-    width: 400px;
+   width: 400px;
    line-height: 1em;
-     text-align: justify;
-margin: 0}
+   text-align: justify;
+   margin: 0;
+}
+
 
 p:after {
   display: inline-block;
@@ -37,6 +39,8 @@ p:after {
   margin: 20px;
 
 }
+
+p.sight20 {margin-bottom: -20px;}
 
 .sight01 {font-size: 120%;
     margin-top: 0;}
@@ -55,10 +59,9 @@ p:after {
 
 .uline {
     position: absolute;
-    width: 98%;
+    width: 95%;
     border-bottom: 1px solid red;
-    margin: 0 auto;
-    bottom: 1.6em;
-}
+    bottom: 1.3em;
+    }
 
 
