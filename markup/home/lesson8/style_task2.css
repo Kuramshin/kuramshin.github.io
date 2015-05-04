@@ -1,0 +1,46 @@
+.arrow_box {
+    height: 40px;
+    width: 40%;
+    min-width: 400px;
+    background: linear-gradient( to bottom, #FFCD5D , rgb(237, 192, 92));
+    padding: 5px;
+    font-size: 11px;
+    font-family: Arial,Helvetica,sans-serif;
+    margin: 50px auto;
+    position: relative;
+
+}
+
+
+.arrow_box:after {
+    content: '';
+    border: 15px solid transparent;
+    border-top: 25px solid white;
+    border-bottom: 25px solid white;
+    position: absolute;
+    right: -15px;
+    top: 0;
+}
+
+
+input[type="text"] {
+    width: 75%;
+    min-width: 30%;
+    height: 17px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+input.arrow_button {
+    padding: 2px 10px;
+    margin-left: -3px;
+
+}
+
+span {
+    height: 10px;
+    margin-top: 5px;
+}
+span.cl2 {
+    border-bottom: 1px dotted black;
+}
