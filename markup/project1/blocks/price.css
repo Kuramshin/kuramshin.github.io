@@ -133,13 +133,14 @@
 
 
 .cont_price_list {
-    width: 90%; /*260 на 135 */
+    width: 90%;
     height: 30%;
     margin: 0 auto;
     font-weight: bold;
 }
 
 .cont_price_list ul {width: 100%;
+    height: 32%;
     margin-left: -15%;}
 
 .cont_price_list li:before {
@@ -151,8 +152,9 @@
 .cont_price_list ul li {
     list-style-type: none;
     width: 100%;
+    height: 60%;
     text-align: left;
-    font-size: 12px;
+    font-size: 10px;
     color: #91949B;
     line-height: 250%;
 }
