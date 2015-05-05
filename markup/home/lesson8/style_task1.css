@@ -1,7 +1,7 @@
 .arrow_box {
     height: 40px;
-    width: 40%;
-    min-width: 400px;
+    width: 600px;
+    min-width: 30%;
     background: #FFCD5D;
     padding: 5px;
     font-size: 11px;
@@ -35,13 +35,14 @@ span.checkbox {
 }
 
 input[type="text"] {
-    width: 80%;
+    width: 85%;
     min-width: 30%;
     height: 17px;
-    margin-right: 5px;
+    margin-right: 2px;
+    position: relative;
 }
 
 input.arrow_button {
     padding: 2px 10px;
-    margin-left: -3px;
+    position: absolute;
 }
