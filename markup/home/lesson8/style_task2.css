@@ -1,7 +1,7 @@
 .arrow_box {
     height: 40px;
-    width: 40%;
-    min-width: 400px;
+    width: 600px;
+    min-width: 30%;
     /*background: linear-gradient( to bottom, #FFCD5D , rgb(237, 192, 92));*/
     background: rgba(241,231,103,1);
     background: -moz-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(255,205,93,1) 100%);
@@ -32,16 +32,17 @@
 
 
 input[type="text"] {
-    width: 75%;
+    width: 85%;
     min-width: 30%;
     height: 17px;
     margin-right: 5px;
     margin-bottom: 5px;
+    position: relative;
 }
 
 input.arrow_button {
     padding: 2px 10px;
-    margin-left: -3px;
+    position: absolute;
 
 }
 
