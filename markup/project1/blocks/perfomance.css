@@ -1,0 +1,45 @@
+.perfomance {
+    width:1400px;
+    height: 563px;
+    margin: 0 auto;
+}
+
+.perfomance_inner {
+    margin: 0 190px;
+
+}
+
+.perf_title {
+    text-align: center;
+    font: 700 30px / 25px 'Trebuchet MS';
+    color: #40525c;
+    text-transform: uppercase;
+    margin: 60px;
+}
+
+.perf_item {
+    width: 33%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+
+h2.pref_item_cont_title {
+    font: 300 30px FuturaBT;
+    text-transform: uppercase;
+    color: #3070a8;
+}
+
+.pref_item_cont {
+
+    font: 400 14px / 25px OpenSans;
+    color: #999999;
+    padding: 0 35px;
+
+}
+
+.test {width: 1400px;
+    height: 500px;
+    border: 1px solid red;
+    margin: 0 auto}
+

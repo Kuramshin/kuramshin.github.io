@@ -1,0 +1,51 @@
+.middle-section {
+    width: 1400px;
+    height: 577px;
+    background: url(images/middle-block-bg.jpg);
+    margin: 0 auto;
+    position: relative;
+
+}
+
+
+.middle-section_inner {
+    position: absolute;
+    margin: 70px 190px 0;
+}
+
+
+.middle-section_title {
+    width: 800px;
+    font-weight: 300;
+    font-size: 26px;
+    font-family: FuturaBT;
+    line-height: 48px;
+    text-transform: uppercase;
+    color: #ee8129;
+}
+
+.middle-section_cont  span {
+    font: italic 19px / 30px OpenSans;
+    color: #ffffff;
+    margin-bottom: 50px;
+}
+
+.middle-section_cont  ul {
+
+    margin: 30px 0 0;
+}
+
+
+.middle-section_cont li {
+    width: 604px;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: OpenSans;
+    line-height: 30px;
+    margin-bottom: 15px;
+    color: #9d9d9d;
+}
+
+.middle-section_cont li:nth-child(2) {
+    color: #3070a8;
+}

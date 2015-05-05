@@ -1,0 +1,27 @@
+.footer {
+    width: 1400px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #3070a8;
+    text-align: center;
+
+}
+
+
+.footer_inner {
+    color: #ffffff;
+    font: 400 14px / 30px OpenSans;
+    padding: 20px;
+}
+
+.footer_inner span {
+
+    color: #ffffff;
+    font: 700 14px / 30px OpenSans;
+}
+
+.footer_inner a {
+    text-decoration: none;
+    color: #1d1b1b;
+    font: 700 14px / 30px OpenSans;
+}
