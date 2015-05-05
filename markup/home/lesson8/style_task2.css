@@ -2,7 +2,15 @@
     height: 40px;
     width: 40%;
     min-width: 400px;
-    background: linear-gradient( to bottom, #FFCD5D , rgb(237, 192, 92));
+    /*background: linear-gradient( to bottom, #FFCD5D , rgb(237, 192, 92));*/
+    background: rgba(241,231,103,1);
+    background: -moz-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(255,205,93,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(241,231,103,1)), color-stop(100%, rgba(255,205,93,1)));
+    background: -webkit-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(255,205,93,1) 100%);
+    background: -o-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(255,205,93,1) 100%);
+    background: -ms-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(255,205,93,1) 100%);
+    background: linear-gradient(to bottom, rgba(241,231,103,1) 0%, rgba(255,205,93,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#ffcd5d', GradientType=0 );
     padding: 5px;
     font-size: 11px;
     font-family: Arial,Helvetica,sans-serif;
