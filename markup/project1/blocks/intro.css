@@ -39,3 +39,8 @@ h1 span {font-weight: 300;
     border: 1px solid #97A9BB;
     margin: 0 auto;
 }
+
+.intro a:hover {
+    background: rgba(90, 133, 178, 0.4);
+
+}
