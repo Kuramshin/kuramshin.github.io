@@ -11,12 +11,12 @@ h1.intro__title {
     padding-top: 152px;
     font-weight: 700;
     font-size: 48px;
-    font-family: FuturaBT;
+    font-family: FuturaBT sans-serif;
     margin-bottom: -10px;}
 
 h1 span {font-weight: 300;
     font-size: 36px;
-    font-family: FuturaBT;}
+    font-family: FuturaBT sans-serif;}
 
 .intro__annotation {
     text-align: center;
@@ -32,7 +32,7 @@ h1 span {font-weight: 300;
     text-decoration: none;
     text-transform: uppercase;
     text-align: center;
-    font-family: OpenSans;
+    font-family: OpenSans sans-serif;
     font-size: 16px;
     font-weight: 600;
     color: #ffffff;
@@ -42,5 +42,4 @@ h1 span {font-weight: 300;
 
 .intro a:hover {
     background: rgba(90, 133, 178, 0.4);
-
 }
