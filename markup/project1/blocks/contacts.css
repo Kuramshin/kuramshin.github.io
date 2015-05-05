@@ -35,7 +35,7 @@
 .contacts_item ul li:nth-child(1):before {
     content: url(images/Layer-97.png);
     margin-right: 30px;
-    padding-top: 5px;
+    vertical-align: bottom;
 
 }
 
