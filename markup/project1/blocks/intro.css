@@ -1,7 +1,8 @@
-.intro {width: 1400px;
+.intro {
+    width: 1400px;
     height: 585px;
     margin: 0 auto;
-    background: url(images/MergedLayers.png);
+    background: url(images/MergedLayers.png) no-repeat;
     color: #ffffff;
 }
 

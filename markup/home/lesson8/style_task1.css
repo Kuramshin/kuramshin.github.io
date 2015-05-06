@@ -1,12 +1,12 @@
 .arrow_box {
     height: 40px;
-    width: 600px;
-    min-width: 30%;
+    width: 490px;
+    min-width: 50%;
     background: #FFCD5D;
     padding: 5px;
     font-size: 11px;
     font-family: Arial,Helvetica,sans-serif;
-    margin: 50px auto;
+    -margin: 50px auto;
     position: relative;
 }
 
@@ -36,7 +36,6 @@ span.checkbox {
 
 input[type="text"] {
     width: 85%;
-    min-width: 30%;
     height: 17px;
     margin-right: 2px;
     position: relative;
