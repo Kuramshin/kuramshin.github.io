@@ -1,7 +1,12 @@
 .middle-section {
-    width: 1400px;
+    max-width: 1400px;
+    min-width: 1022px;
     height: 577px;
     background: url(images/middle-block-bg.jpg);
+    background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
     margin: 0 auto;
     position: relative;
 
@@ -9,8 +14,11 @@
 
 
 .middle-section_inner {
-    position: absolute;
-    margin: 70px 190px 0;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    /* position: absolute; */
+    padding: 70px 190px 0;
 }
 
 

@@ -1,40 +1,65 @@
 .testimonials {
-    width: 1400px;
+    max-width: 1400px;
+    min-width: 1020px;
     height: auto;
-    background: url(images/Layer-66-copy-2.png);
+    background: url(images/Layer-66-copy-2.png) no-repeat;
+    background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    text-align: center;
     margin: 0 auto;
 }
 
 .testimonials_bg {
-    width: 1400px;
+    max-width: 1400px;
+    min-width: 1020px;
     height: auto;
+    text-align: center;
     background: rgba(0, 0, 0, 0.7);
 }
 
-.testimonials_title {
-
-    height: 130px;
-}
 .testimonials h2 {
-    font-size: 29px;
     color: #2E69A0;
     text-align: center;
-    line-height: 130px;
-
+    padding: 50px;
+    margin: 0 auto;
+    font: 700 40px / 18px FuturaBT;
 }
 
 .testimonials h2 span {
     color: #EE8129;
-    font-weight: 400;
+    font: 300 40px / 18px FuturaBT;
+
 }
 
-.testimonials_cont {margin: 0 auto 60px; left: 140px; position: relative;  display: inline-block;}
-
-.testimonials_photo {width: 99px;
-    height: 98px; margin: 0 17px;
+.testimonials_cont {
+    width:100%;
+    margin: 0 120px 60px;
+    display: inline-block;
+    text-align: center;
 }
 
-.testimonials_item {width: 380px;
+.testimonials_cont_inner {
+    display: inline-block;
+    min-height: 50px;
+    position: relative;
+    margin-right: 117px;
+}
+
+
+.testimonials_photo img {
+    width: 99px;
+    height: 98px;
+    margin: 0 -25px;
+    position: absolute;
+    top: 0;
+    left: -20%;
+}
+
+.testimonials_item {
+    max-width: 380px;
+    min-width: 300px;
     height: auto;
     background: white;
     margin-left: 10px;
@@ -43,16 +68,11 @@
 }
 
 .testimonials_item:before {
-    content: '';
+    content: " ";
     border: 17px solid transparent;	border-right: 17px solid white;
     position: absolute;
     left: -32px;
     top:34px;
-}
-
-.testimonials_photo, .testimonials_item {
-    float: left;
-
 }
 
 .testimonials_item_c_name, .testimonials_item_c_type {
@@ -66,6 +86,7 @@
 
 .testimonials_item_text {
     clear: both;
+    text-align: left;
     margin: 0 0 5px 32px;
     padding: 5px;
     padding-top: 10px;
@@ -76,4 +97,4 @@
     overflow: hidden;
 }
 
-.testimonials_photo {left: 190px;}
+

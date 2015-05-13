@@ -1,32 +1,34 @@
-body {magrin: 0;
-    padding: 0;
-}
-
 .header {
     margin: 0 auto;
-    width: 1400px;
+    width: 100%;
+    max-width: 1400px;
+    min-width: 1022px;
     height: 116px;
 }
 
-.header__iner {
+.header:after {
+    content: " ";
+    display: block;
+    clear: both;
+}
+
+.header__inner {
     width: 1022px;
     height: 100%;
     margin: 0 auto;
 }
 
 .logo {
-
     width: 282px;
     height: 100%;
 }
 
-.logo img {margin-top: 15%;
+.logo img {
+    margin-top: 15%;
 }
 
 .menu {
-    width: 563px;
-    height: 100px;
-    border: 1px solid red;
+    float: right;
 }
 
 ul.menu__list {
@@ -37,7 +39,7 @@ ul.menu__list {
     position: relative;
     vertical-align: bottom;
     top: -116px;
-    float: right;
+
 }
 
 li.menu__item {
@@ -69,4 +71,3 @@ li.menu__item a:hover {
     border-bottom: 4px solid #3070A8;
 
 }
-

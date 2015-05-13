@@ -1,9 +1,20 @@
 .intro {
-    width: 1400px;
+    max-width: 1400px;
+    min-width: 1022px;
     height: 585px;
     margin: 0 auto;
     background: url(images/MergedLayers.png) no-repeat;
+    background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
     color: #ffffff;
+}
+
+.intro__inner {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
 }
 
 .intro__title {margin: 0 auto; text-align: center;}
