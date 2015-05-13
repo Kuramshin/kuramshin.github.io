@@ -55,7 +55,7 @@
 }
 
 .contacts_item ul li:nth-child(6):before {
-    content: url(images/con.png);
+   /* content: url(images/convert.png); */
     margin-right: 30px;
 }
 
