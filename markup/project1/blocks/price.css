@@ -6,8 +6,6 @@ body {font-family: "Trebuchet MS", sans-serif;}
     min-width: 1022px;
     height: 700px;
     margin: 0 auto;
-    /*position: relative;*/
-    /* background: yellow;*/
 }
 
 .cont_price_bg:after {
