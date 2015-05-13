@@ -34,8 +34,9 @@
 }
 
 .testimonials_cont {
-    width:100%;
-    margin: 0 120px 60px;
+    width: 100%;
+    max-width:1200px;
+    margin: 0 0 60px 5px;
     display: inline-block;
     text-align: center;
 }
@@ -44,7 +45,7 @@
     display: inline-block;
     min-height: 50px;
     position: relative;
-    margin-right: 117px;
+    margin-left: 120px;
 }
 
 
@@ -54,8 +55,9 @@
     margin: 0 -25px;
     position: absolute;
     top: 0;
-    left: -20%;
+    left: -18%;
 }
+
 
 .testimonials_item {
     max-width: 380px;
