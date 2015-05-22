@@ -1,0 +1,130 @@
+.footer {
+    max-width: 1920px;
+    min-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+.footer_top {
+    width: 100%;
+    height: 191px;
+    position: relative;
+    background-color: #f2f2f2;
+}
+
+.people_img {
+    margin: 0 auto;
+    width: 225px;
+    height: 364px;
+    background: url(../images/people_img_1.png) no-repeat;
+    position: absolute;
+    right: 10%;
+    top: -173px;
+}
+
+.footer_top_inner_link {
+    width: 540px;
+    height: 60px;
+    background-color: #e74c3c;
+    top: 50%;
+    margin-top: -30px;
+    left: 10%;
+    position: absolute;
+}
+
+.footer_top_inner_link:hover {
+opacity: 0.9;
+}
+
+.footer_top_inner_link a {
+    text-decoration: none;
+    color: #ffffff;
+    font: 400 25px / 42px Helvetica;
+    text-transform: uppercase;
+    line-height: 60px;
+    margin-left: 20px;
+}
+
+.footer_top_inner_link a:after {
+    content: " ";
+    width: 32px;
+    height: 32px;
+    display: block;
+    position: absolute;
+    border:2px solid #ffffff;
+    border-radius: 50%;
+    left: 480px;
+    top:13px;
+    
+}
+
+.footer_top_inner_link img {
+margin-left: 25px;
+}
+
+.footer_bottom {
+    width: 100%;
+    height: 194px;
+    background: #3498db;
+    color: #ffffff;
+    margin: 0 auto;
+}
+
+.footer_bottom_inner {
+    width: 100%;
+    padding-left: 10%;
+    margin: 0 auto;
+}
+.footer_bottom_logo {
+float: left;
+box-sizing: border-box;
+padding-right: 20px;
+}
+
+.footer_logo_circle {
+border-radius: 50%;
+border: 2px solid white;
+width: 53px;
+height: 53px;
+text-align: center;
+float: left;
+margin: 60px 10px;
+}
+
+.footer_logo_circle p {
+    color: #ffffff;
+    font: 400 22px / 53px Helvetica;
+
+}
+.social_net {
+margin-top: 60px;
+}
+
+.footer_bottom_logo, .social_net {
+display: inline-block;
+}
+
+.footer_logo_text {
+text-transform: uppercase;
+font: 400 26px / 42px Helvetica;
+width: 250px;
+line-height: 1.1em;
+margin-top: 60px;
+border-right: 1px solid #2A80BC;
+
+}
+
+.social_net span {
+vertical-align: top;
+color: #ffffff;
+font: 400 13px / 32px Helvetica;
+}
+
+.footer_bottom_logo {
+border-right: #297FBA;
+}
+
+.footer p.copyright {
+margin-top: 0; 
+color: #ffffff;
+font: 400 13px / 20px Helvetica;
+}

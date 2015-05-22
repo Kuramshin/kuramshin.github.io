@@ -1,0 +1,121 @@
+.intro {
+    max-width: 1920px;
+    min-width: 1000px;
+    width: 100%;
+    height: 351px;
+    background: url(../images/heder_bottom_bg.png) no-repeat;
+    color: white;
+    margin: 0 auto;
+} 
+
+.intro_inner {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 3% 0 0 10%; 
+    position: relative;
+    
+}
+
+
+.intro_txt h1 {
+    color: #ffffff;
+    font: 700 50px / 42px Helvetica;
+    text-transform: uppercase;
+    margin: 30px 0 10px;
+    padding:0;
+}
+    
+.intro_txt p {
+    color: #ffffff;
+    font: 400 30px / 40px Helvetica;
+    width: 550px;
+    text-align: left;
+    margin: 10px 0;
+}
+
+.intro_form {
+    position: absolute;
+    width: 360px;
+    height: 541px;
+    box-sizing: border-box;
+    border-bottom: 5px solid #3497D9;
+    top:30px;
+    right: 10%;
+    background-color: #ffffff;
+}
+
+.intro_form h2 {
+    color: #333333;
+    font: 400 25px / 20px Helvetica;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 78px;
+}
+
+.intro_form form {
+    margin: 0 20px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.intro_form form input[name="select_course"] {
+background: url(../images/row_down.png) no-repeat center right 10px;
+background-color: #f2f2f2;
+}
+
+
+.intro_form form input {
+    width: 320px;
+    height: 36px;
+    margin-bottom: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #E5E5E5;
+    padding-left: 17px;
+    color: #333333;
+    font: 400 15px / 20px Helvetica;
+    box-sizing: border-box;
+} 
+
+
+
+.intro_form form textarea {
+    width: 320px;
+    height: 76px;
+    resize: none;
+    margin-bottom: 7px;
+    padding: 10px 17px;
+    background-color: #f2f2f2;
+     border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    color: #333333;
+    font: 400 15px / 20px Helvetica;
+}
+
+::-webkit-resizer {
+    display: none;
+}
+
+/*
+.intro_form form input[name="adress"] {
+height: 76px;
+    color: #333333;
+    font: 400 15px / 20px Helvetica;
+     padding-left: 17px;
+}
+*/
+::-webkit-input-placeholder {
+    color: #333333;
+    font: 400 15px / 20px Helvetica;
+}
+
+.intro_form form input[type="submit"] {
+    background-color: #e74c3c;
+    margin: 18px auto;
+    width: 220px;
+    height: 50px;
+    color: #ffffff;
+    font: 400 25px / 28px Helvetica;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
