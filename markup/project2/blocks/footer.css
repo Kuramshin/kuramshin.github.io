@@ -218,8 +218,21 @@
         font-size: 20px;
         line-height: 32px;
         text-align: center;
+        margin-left: 0;
 
     }
+    .footer_top_inner_link a:after {
+        left: 132px;
+        top:78px;
+    }
 
+    .footer_top_inner_link img {
+        position: absolute;
+        margin-top: 45px;
+       left: 120px;
+
+
+
+    }
 
 }
