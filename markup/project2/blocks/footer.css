@@ -234,20 +234,25 @@
     }
 
 .footer_bottom_inner {
-    padding: auto 10px;
+    -padding: auto 10px;
 
 }
     .footer_bottom_logo {
         float: none;
-        padding-right: 0;
+        padding: 30px 20px 10px;
+
+        text-align: center;
+
     }
 
     .footer_logo_circle {
         float: none;
+        margin: 0 auto;
     }
 
     .footer_bottom_logo, .social_net {
         display: block;
+        box-sizing: border-box;
     }
 
     .footer_logo_text {
@@ -261,6 +266,10 @@
 
     }
 
-
+    .footer p.copyright {
+        margin: 0 auto;
+        text-align: center;
+        line-height: 18px;
+    }
 
 }
