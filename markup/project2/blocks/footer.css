@@ -1,6 +1,5 @@
 .footer {
     max-width: 1920px;
-    min-width: 1000px;
     width: 100%;
     margin: 0 auto;
 }
@@ -9,6 +8,7 @@
     height: 191px;
     position: relative;
     background-color: #f2f2f2;
+    margin: 0 auto;
 }
 
 .people_img {
@@ -32,7 +32,7 @@
 }
 
 .footer_top_inner_link:hover {
-opacity: 0.9;
+    opacity: 0.9;
 }
 
 .footer_top_inner_link a {
@@ -54,11 +54,11 @@ opacity: 0.9;
     border-radius: 50%;
     left: 480px;
     top:13px;
-    
+
 }
 
 .footer_top_inner_link img {
-margin-left: 25px;
+    margin-left: 25px;
 }
 
 .footer_bottom {
@@ -73,21 +73,22 @@ margin-left: 25px;
     width: 100%;
     padding-left: 10%;
     margin: 0 auto;
+    box-sizing: border-box;
 }
 .footer_bottom_logo {
-float: left;
-box-sizing: border-box;
-padding-right: 20px;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 20px;
 }
 
 .footer_logo_circle {
-border-radius: 50%;
-border: 2px solid white;
-width: 53px;
-height: 53px;
-text-align: center;
-float: left;
-margin: 60px 10px;
+    border-radius: 50%;
+    border: 2px solid white;
+    width: 53px;
+    height: 53px;
+    text-align: center;
+    float: left;
+    margin: 60px 10px;
 }
 
 .footer_logo_circle p {
@@ -96,35 +97,88 @@ margin: 60px 10px;
 
 }
 .social_net {
-margin-top: 60px;
+    margin-top: 60px;
 }
 
 .footer_bottom_logo, .social_net {
-display: inline-block;
+    display: inline-block;
 }
 
 .footer_logo_text {
-text-transform: uppercase;
-font: 400 26px / 42px Helvetica;
-width: 250px;
-line-height: 1.1em;
-margin-top: 60px;
-border-right: 1px solid #2A80BC;
+    text-transform: uppercase;
+    font: 400 26px / 42px Helvetica;
+    width: 250px;
+    line-height: 1.1em;
+    margin-top: 60px;
+    border-right: 1px solid #2A80BC;
 
 }
 
 .social_net span {
-vertical-align: top;
-color: #ffffff;
-font: 400 13px / 32px Helvetica;
+    vertical-align: top;
+    color: #ffffff;
+    font: 400 13px / 32px Helvetica;
 }
 
 .footer_bottom_logo {
-border-right: #297FBA;
+    border-right: #297FBA;
 }
 
 .footer p.copyright {
-margin-top: 0; 
-color: #ffffff;
-font: 400 13px / 20px Helvetica;
+    margin-top: 0;
+    color: #ffffff;
+    font: 400 13px / 20px Helvetica;
+}
+
+@media screen and (max-width: 1000px) and (min-width: 800px)
+{
+    .footer_top, .footer_bottom
+    {
+        width: 800px;
+    }
+
+    .people_img {
+
+        right: 20px;
+    }
+
+    .footer_top_inner_link {
+        width: 470px;
+        height: 60px;
+        left: 20px;
+    }
+
+    .footer_top_inner_link a {
+
+        font: 400 20px / 60px Helvetica;
+    }
+
+    .footer_top_inner_link a:after {
+        left:410px;
+        top:12px;
+    }
+
+    .footer_top_inner_link img {
+        margin-left: 45px;
+    }
+
+
+    .footer_bottom_inner {
+        padding-left: 20px;
+    }
+    .footer p.copyright {
+        color: #ffffff;
+        font: 400 13px / 18px Helvetica;
+        width: 750px;
+
+    }
+
+}
+
+@media screen and (max-width: 799px) and (min-width: 320px)
+{
+    .footer_top, .footer_bottom
+    {
+        width: 300px;
+    }
 }

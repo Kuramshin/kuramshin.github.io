@@ -6,7 +6,6 @@
 
 .testimonials_inner {
     width: 100%;
-    min-width: 990px;
     height: 100%;
     box-sizing: border-box;
     padding: 0 30% 3% 10%;
@@ -27,7 +26,7 @@
     quotes: none;
 }
 
- .testimonials_items span {
+.testimonials_items span {
     font-size: 50px;
     color: #f2f2f2;
     position: absolute;
@@ -42,7 +41,7 @@
     top: 90px;
     bottom: 0;
     right: -5%;
-    
+
 }
 
 .testimonials_author {
@@ -85,4 +84,40 @@
     background-color: #f2f2f2;
     opacity: 1;
     cursor: pointer;
+}
+
+@media screen and (max-width: 1000px) and (min-width: 800px)
+{
+    .testimonials_inner
+    {
+        width: 800px;
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 228px;
+
+    }
+
+    .testimonials h2 {
+
+        font-size: 20px;
+    }
+
+
+    .testimonials_items span:last-child {
+        right: -30%;
+        top:110px;
+    }
+
+    .testimonials_pager {
+
+        margin-right: 20px;
+    }
+}
+
+@media screen and (max-width: 799px) and (min-width: 320px)
+{
+    .testimonials_inner
+    {
+        width: 300px;
+    }
 }
