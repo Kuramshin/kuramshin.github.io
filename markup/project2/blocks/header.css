@@ -87,13 +87,15 @@ h2, h3, h4, h5, h6, p, span, a, ul, li, form, input, textarea {
 
 
     .header {
+        width: 320px;
         height: 160px;
 
 
     }
     .header_inner
     {height: 160px;
-        width: 320px;
+        min-width: 320px;
+        width: 100%;
         padding: 10px;
 
     }
@@ -102,7 +104,7 @@ h2, h3, h4, h5, h6, p, span, a, ul, li, form, input, textarea {
         display: block;
     }
 
-    .cirle_logo, .logo,.social_net_bl {
+    .cirle_logo, .logo, .social_net_bl {
         float: none;
         margin: 0 auto;
     }
@@ -130,5 +132,9 @@ box-sizing: border-box;
         text-align: center;
         margin-top: 10px;
     }
+    .social_net_bl span {
+        font-size: 13px;
+    }
+
 
 }

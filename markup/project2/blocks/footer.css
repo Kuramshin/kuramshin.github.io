@@ -177,8 +177,49 @@
 
 @media screen and (max-width: 799px) and (min-width: 320px)
 {
+    .footer {
+        width: 320px;
+    }
+
     .footer_top, .footer_bottom
     {
-        width: 300px;
+        min-width: 320px;
     }
+
+    .footer_top {
+
+        height: 241px;
+    }
+
+    .footer_bottom {
+
+        height: 315px;
+    }
+
+    .people_img {
+        top:-123px;
+       margin: 0 20px 0;
+        z-index: 4;
+    }
+
+    .footer_top_inner_link {
+        width: 300px;
+        height: 130px;
+        text-align: center;
+        z-index: 5;
+        top: 37%;
+        left: 10px;
+        box-sizing: border-box;
+        padding: 10px 25px;
+    }
+
+    .footer_top_inner_link a {
+
+        font-size: 20px;
+        line-height: 32px;
+        text-align: center;
+
+    }
+
+
 }

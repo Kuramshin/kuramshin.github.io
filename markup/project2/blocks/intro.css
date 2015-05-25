@@ -186,7 +186,7 @@ text-align: center;
        text-align: center;
         font: 400 16px / 28px Helvetica;
         width: 300px;
-        margin: auto 5px;
+        margin: 0 5px 25px;
     }
 
     .intro_form form input, .intro_form form textarea {
