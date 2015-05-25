@@ -107,10 +107,15 @@ h2, h3, h4, h5, h6, p, span, a, ul, li, form, input, textarea {
         margin: 0 auto;
     }
 
+    .text_logo {
+        width: 180px;
+        margin: 0 auto;
+    }
+
     .text_logo p {
-        margin: auto 5px;
+        margin: auto 0;
         font: 400 20px / 42px Helvetica;
-        width: 300px;
+        width: 180px;
         text-align: center;
         border-bottom: 1px solid #2A80BC;
 
@@ -118,6 +123,7 @@ h2, h3, h4, h5, h6, p, span, a, ul, li, form, input, textarea {
     .logo {
 box-sizing: border-box;
         text-align: center;
+
     }
     .social_net_bl {
 
