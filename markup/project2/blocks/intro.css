@@ -145,7 +145,7 @@
         right: 20px;
     }
 
-    .intro_form form input {
+    .intro_form form input, .intro_form form textarea {
 
         width: 300px;
 
@@ -162,8 +162,38 @@
 
 @media screen and (max-width: 799px) and (min-width: 320px)
 {
+    .intro {width: 320px;}
+
     .intro_inner
     {
-        width: 300px;
+        padding:5px;
+       width: 320px;
     }
+
+    .intro_txt h1 {
+text-align: center;
+        font-size: 40px;
+    }
+
+    .intro_form {
+
+        position: static;
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .intro_txt p {
+       text-align: center;
+        font: 400 16px / 28px Helvetica;
+        width: 300px;
+        margin: auto 5px;
+    }
+
+    .intro_form form input, .intro_form form textarea {
+
+        width: 260px;
+
+    }
+
+
 }
