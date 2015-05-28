@@ -123,6 +123,8 @@ hr {
 
     .advantage_inner_item h3 {
         text-align: left;
+        line-height: 15px;
+        margin-bottom: 15px;
     }
 
     .advantage_inner_item p {
