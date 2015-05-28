@@ -28,7 +28,8 @@
 .intro_txt p {
     color: #ffffff;
     font: 400 30px / 40px Helvetica;
-    width: 550px;
+    /*width: 550px;*/
+    width: 51%;
     text-align: left;
     margin: 10px 0;
 }
