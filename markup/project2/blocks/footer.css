@@ -32,7 +32,8 @@
 }
 
 .footer_top_inner_link:hover {
-    opacity: 0.9;
+    /*opacity: 0.9;*/
+    background-color: #fe5040;
 }
 
 .footer_top_inner_link a {
@@ -42,6 +43,7 @@
     text-transform: uppercase;
     line-height: 60px;
     margin-left: 20px;
+    display: block;
 }
 
 .footer_top_inner_link a:after {
@@ -97,7 +99,8 @@
 
 }
 .social_net {
-    margin-top: 60px;
+    margin-top: 62px;
+    margin-bottom: 5px;
 }
 
 .footer_bottom_logo, .social_net {
@@ -117,7 +120,7 @@
 .social_net span {
     vertical-align: top;
     color: #ffffff;
-    font: 400 13px / 32px Helvetica;
+    font: 400 13px / 22px Helvetica;
 }
 
 .footer_bottom_logo {
@@ -166,6 +169,18 @@
     .footer_bottom_inner {
         padding-left: 20px;
     }
+
+    .footer_logo_circle {
+        margin-top: 67px;
+    }
+
+    .footer_logo_text {
+        line-height: 1.2em;
+        margin-top: 65px;
+
+
+    }
+
     .footer p.copyright {
         color: #ffffff;
         font: 400 13px / 18px Helvetica;

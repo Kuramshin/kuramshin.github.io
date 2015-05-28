@@ -69,6 +69,8 @@
 .advantage_inner_item_view a {
     text-decoration: none;
     color: inherit;
+    display: block;
+    line-height: 53px;
 }
 
 .advantage_inner_item_view:hover {
