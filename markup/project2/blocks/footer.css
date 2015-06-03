@@ -133,6 +133,11 @@
     font: 400 13px / 20px Helvetica;
 }
 
+.copyright a {
+    text-decoration: none;
+    color: inherit;
+}
+
 @media screen and (max-width: 1000px) and (min-width: 800px)
 {
     .footer_top, .footer_bottom
