@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>task3</title>
+</head>
+<body>
+<script>
+    var login=prompt('Введите логи пользователя ', '');
+    if (login=='admin') {
+        var password=prompt('Введите Ваш пароль ', '');
+
+        if (password=='passw0rd') {
+            alert('Welcome home!');
+        }
+
+        else {
+            alert('Wrong password');
+            alert('Access denied');
+        }
+        }
+
+    else {
+        alert('Access denied');
+    }
+
+
+
+</script>
+</body>
+</html>
+<!--Пароль проверять так. Если введён пароль 'passw0rd',
+то выводить 'Welcome home!', иначе — 'Wrong password',
+при отмене — 'Canceled'-->
