@@ -7,15 +7,19 @@
 <body>
 <script>
 
+var grid= "";
+var gridSize=+prompt("Введите размер доски", " ");
 
-
-    for (var i=1 ; i < 8; ++i) {
-      for (var j=1; j < 8; ++j) {
-
-          console.log('#');
+    for (var i=0 ; i < gridSize; i++) {
+      for (var j=0; j < gridSize; j++) {
+        if((i+j)%2== 0)
+          grid += "#";
+          else
+        grid += " ";
       }
-      console.log(i+' ');
+      grid += "\n";
     }
+    console.log(grid);
 </script>
 </body>
 </html>
