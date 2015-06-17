@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>task3</title>
+</head>
+<body>
+<script>
+    function checkLengthStr(str) {
+        if(str.length >=20) {
+            return str= str.substring(0,21) + '...';
+        }
+        else  {
+            return str;
+        }
+    }
+
+    alert (checkLengthStr('Oчень длинная строка в которой однозначно больше 20 символов'));
+    alert (checkLengthStr('Еще одна очень длинная строка в которой однозначно больше 20 символов'));
+    alert (checkLengthStr('маленькая'));
+    alert (checkLengthStr('строка'));
+</script>
+</body>
+</html>
