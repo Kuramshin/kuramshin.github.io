@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>task2</title>
+</head>
+<body>
+
+<!--
+Напишите функцию multiplyNumeric которая принимает на
+вход объект и возвращает объект в котором все числовые
+значения у свойств умножены на 2.
+-->
+
+<script>
+
+
+var image = {
+    width: 100,
+    height: 400,
+    title: 'Cool image'
+};
+
+function isNumeric(n) {
+    return !isNaN(parseFloat(n)) && isFinite(n);
+}
+
+function multiplyNumeric(obj) {
+    for (var key in obj) {
+        if (isNumeric(obj[key])) {
+            obj[key] *= 2;
+        }
+    }
+}
+multiplyNumeric(image);
+
+
+alert( "menu width=" + image.width + " height=" + image.height + " title=" + image.title );
+
+</script>
+</body>
+</html>
+
+<!--var menu = {
+  width: 200,
+  height: 300,
+  title: "My menu"
+};
+
+function isNumeric(n) {
+  return !isNaN(parseFloat(n)) && isFinite(n);
+}
+
+function multiplyNumeric(obj) {
+  for (var key in obj) {
+    if (isNumeric(obj[key])) {
+      obj[key] *= 2;
+    }
+  }
+}
+
+multiplyNumeric(menu);
+
+alert( "menu width=" + menu.width + " height=" + menu.height + " title=" + menu.title ); -->
