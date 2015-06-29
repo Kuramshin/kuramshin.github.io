@@ -65,7 +65,7 @@ a:focus{
 	color: #cfcfcf;
 }
 
-#tf-home .overlay{ /* FF3.6+ */
+#tf-home .overlay, #tf-about .overlay{ /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.8)), color-stop(17%,rgba(0,0,0,0.73)), color-stop(35%,rgba(0,0,0,0.66)), color-stop(62%,rgba(0,0,0,0.55)), color-stop(100%,rgba(0,0,0,0.4))); /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* Chrome10+,Safari5.1+ */ /* Opera 11.10+ */ /* IE10+ */
 	background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.73) 17%, rgba(0,0,0,0.66) 35%, rgba(0,0,0,0.55) 62%, rgba(0,0,0,0.4) 100%);
@@ -239,6 +239,8 @@ ul.cat.list-inline li a:hover{
 	padding: 10% 0;
 }
 
+
+
 #tf-why-me{
 	background: url(../img/07_2.jpg);
 	background-size: cover;
@@ -323,4 +325,22 @@ nav#tf-footer {
 
 .email_cotact_form:hover {
     color: #00AAE9;
+}
+
+.section-title h3 {
+
+    text-align: center;
+}
+
+.contact_info, .contact_info a {
+    font-size: 14px;
+    color: blue;
+}
+
+.fa-envelope-o:before {
+    margin: 0 15px;
+}
+
+.fa-phone {
+    margin: 0 10px 0 -10px;
 }
