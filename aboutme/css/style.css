@@ -29,7 +29,7 @@ h4 {
 	color: #00AAE9; /*rgb(47, 147, 123);*/
 }
 p{
-	font-size: 13px;
+	font-size: 14px; /*13px*/
 }
 
 a { 
@@ -223,12 +223,14 @@ ul.cat.list-inline li a:hover{
 .nopadding{ padding:  0;}
 
 #tf-about{
-	background: url(../img/07.jpg);
+	background: url(../img/07_7.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
+     background-attachment: fixed;
 	background-repeat: no-repeat;
 	color: #222222;
+    color: #ffffff;
 }
 
 #tf-about .overlay{
@@ -238,12 +240,14 @@ ul.cat.list-inline li a:hover{
 }
 
 #tf-why-me{
-	background: url(../img/10.jpg);
+	background: url(../img/07_2.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
+
 	background-repeat: no-repeat;
-	color: #222222;
+   	color: #222222;
+   - color: #ffffff; /*#222222*/
 }
 
 #tf-why-me .overlay{
@@ -310,4 +314,13 @@ nav#tf-footer {
  .img_portfolio_hover:hover .img-responsive{
    box-shadow: 0 0 10px rgba(0,0,0,0.5);
    opacity: 1;
+}
+
+.email_cotact_form {
+    color: #555;
+
+}
+
+.email_cotact_form:hover {
+    color: #00AAE9;
 }
