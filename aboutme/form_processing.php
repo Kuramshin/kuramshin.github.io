@@ -26,7 +26,7 @@ E-mail: $email
 Текст сообщения: $message
 Конец";
 /* Отправляем сообщение, используя mail() функцию */
-$from  = "From: $yourname <$email> \r\n Reply-To: $email \r\n";
+$from  = "From: $name <$email> \r\n Reply-To: $email \r\n";
 mail($myemail, $tema, $message_to_myemail, $from);
 ?>
 <p>Ваше сообщение было успешно отправлено!</p>
