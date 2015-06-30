@@ -1,7 +1,7 @@
 <?php
 /* Осуществляем проверку вводимых данных и их защиту от враждебных
 скриптов */
-$your_name = htmlspecialchars($_POST["your_name"]);
+$name = htmlspecialchars($_POST["name"]);
 $email = htmlspecialchars($_POST["email"]);
 $tema = htmlspecialchars($_POST["tema"]);
 $message = htmlspecialchars($_POST["messages"]);
@@ -9,7 +9,7 @@ $message = htmlspecialchars($_POST["messages"]);
 $myemail = "al_kuramshin@mail.ru";
 /* Проверяем заполнены ли обязательные поля ввода, используя check_input
 функцию */
-$your_name = check_input($_POST["your_name"], "Введите ваше имя!");
+$name = check_input($_POST["name"], "Введите ваше имя!");
 $tema = check_input($_POST["tema"], "Укажите тему сообщения!");
 $email = check_input($_POST["email"], "Введите ваш e-mail!");
 $message = check_input($_POST["message"], "Вы забыли написать сообщение!");
@@ -21,7 +21,7 @@ show_error("<br /> Е-mail адрес не существует");
 /* Создаем новую переменную, присвоив ей значение */
 $message_to_myemail = "Здравствуйте!
 Вашей контактной формой было отправлено сообщение!
-Имя отправителя: $your_name
+Имя отправителя: $name
 E-mail: $email
 Текст сообщения: $message
 Конец";
