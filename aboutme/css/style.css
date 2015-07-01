@@ -14,7 +14,13 @@ body, html{
 }
 
 h1{
-	text-transform: uppercase;
+/*	text-transform: uppercase;*/
+}
+
+.main_title {
+
+    font-size: 28px;
+    line-height: 1.2;
 }
 
 h2{
@@ -120,6 +126,7 @@ a:focus{
 
 .logo {
 	font-family: 'Playball', cursive;
+    font-size: 20px;
 }
 
 #tf-service{
@@ -129,7 +136,7 @@ a:focus{
 .media-left.media-middle i {
 	padding: 20px 30px 20px 0;
 	font-size: 30px;
-	color: #00AAE9; /*rgb(47, 147, 123);*/
+	color:  #00AAE9; /*rgb(47, 147, 123);*/
 
 }
 
