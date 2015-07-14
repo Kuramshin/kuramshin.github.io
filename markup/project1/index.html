@@ -2,7 +2,10 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width; initial-scale=1.0">
     <link rel="stylesheet" href="index.css"/>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="blocks/main.js"></script>
     <title>index</title>
 </head>
 <body>
@@ -11,14 +14,14 @@
         <div class="logo">
             <img src="blocks/images/Company-Name.png" width="282" height="34" alt="logo"/>
         </div>
-        <div class="menu">
+        <div class="menu" id="top">
             <ul class="menu__list">
-                <li class="menu__item menu__item_current_true"><a href="#" class="'menu_link">home</a></li>
-                <li class="menu__item"><a href="#" class="'menu_link">about</a></li>
-                <li class="menu__item"><a href="#" class="'menu_link">portfolio</a></li>
-                <li class="menu__item"><a href="#" class="'menu_link">services</a></li>
-                <li class="menu__item"><a href="#" class="'menu_link">pricing</a></li>
-                <li class="menu__item"><a href="#" class="'menu_link">contact</a></li>
+                <li class="menu__item menu__item_current_true"><a href="#" class="menu_link">home</a></li>
+                <li class="menu__item"><a href="#about" class="menu_link">about</a></li>
+                <li class="menu__item"><a href="#" class="menu_link">portfolio</a></li>
+                <li class="menu__item"><a href="#service" class="menu_link">services</a></li>
+                <li class="menu__item"><a href="#price" class="menu_link">pricing</a></li>
+                <li class="menu__item"><a href="#contact" class="menu_link">contact</a></li>
             </ul>
         </div>
     </div>
@@ -27,7 +30,7 @@
 <!-- Intro block -->
 
 <div class="intro">
-    <div class="intro__inner">
+    <div class="intro__inner" id="about">
         <h1 class="intro__title"><span class="intro__title-first">We are specialist in</span> <br> RESPONSIVE DESIGNS, STATIONARY         <br>
             AND WORDPRESS THEMES</h1>
         <div class="intro__annotation">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aperiam asperiores </div>
@@ -37,7 +40,7 @@
 
 <!-- perfomance block -->
 
-<div class="perfomance">
+<div class="perfomance" id="service">
     <div class="perfomance_inner">
         <h2 class="perf_title">Lorem ipsum is simply text of the printing</h2>
         <div class="perf_item">
@@ -89,7 +92,7 @@
 
 <!-- Price block -->
 
-<div class="cont_price_bg">
+<div class="cont_price_bg" id="price">
     <div class="cont_price_bg_inner">
         <h2>we have a very flexible offers for you to choose</h2>
         <div class="container">
@@ -193,7 +196,7 @@
 
 <!-- contacts block -->
 
-<div class="contacts">
+<div class="contacts" id="contact">
     <div class="contacts_inner">
         <div class="contacts_item">
             <ul>
@@ -219,7 +222,7 @@
 <div class="footer">
     <div class="footer_inner">
         Copyright &copy 2014 <span>Company Name.</span> All rights reserved. <br>
-        Designed by <a href="http://www.iconicgraphics.com/">IconicGrafics.com</a>
+        Designed by <a href="http://www.iconicgraphics.com/" target="_blank">IconicGrafics.com</a>
     </div>
 </div>
 
