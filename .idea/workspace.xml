@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="" />
+    <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
+    <ignored path="kuramshin.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kuramshin.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Html5" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson9" />
+      </map>
+    </option>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Kuramshin" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="kuramshin.github.io" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/markup/project2/index.html" />
+        <option value="$PROJECT_DIR$/markup/project2/blocks/footer.css" />
+        <option value="$PROJECT_DIR$/js/home/lesson1/task1.js" />
+        <option value="$PROJECT_DIR$/js/home/lesson1/task2.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson1/task1.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson2/task2.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson2/task1.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson2/task3.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson2/task4.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson2/task5.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson3/task2.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson3/task5.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson3/task4.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson3/task6.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson3/task7.html" />
+        <option value="$PROJECT_DIR$/js/home/task1.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson3/task1.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson3/task2.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson3/task6.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson3/task3.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson3/task4.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson4/task3.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson4/task1.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson4/task2.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson3/task5.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson4/task1.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson4/task1_1.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson4/task2.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson4/task3.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson5/task1.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson5/task2.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson5/task3.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson5/task4.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson5/task5.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson5/task6.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson5/task7.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson5/task3.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson5/task1.html" />
+        <option value="$PROJECT_DIR$/js/home/lesson5/task2.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson6/task1.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson6/task2.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson6/task3.html" />
+        <option value="$PROJECT_DIR$/js/class/lesson7/task1.html" />
+        <option value="$PROJECT_DIR$/aboutme/test.css" />
+        <option value="$PROJECT_DIR$/aboutme/hove_efect.css" />
+        <option value="$PROJECT_DIR$/aboutme/hover_efect_set2.css" />
+        <option value="$PROJECT_DIR$/aboutme/test.html" />
+        <option value="$PROJECT_DIR$/aboutme/hover_efect_normalize.css" />
+        <option value="$PROJECT_DIR$/aboutme/hover_efect_set_1.css" />
+        <option value="$PROJECT_DIR$/aboutme/css/hover_portfolio.css" />
+        <option value="$PROJECT_DIR$/aboutme/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="24" />
+    <option name="width" value="1227" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Загрузки/accesspress-lite/index.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="71" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="90" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="96" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="940" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="71" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="90" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="96" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="940" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aboutme" />
+      <recent name="$PROJECT_DIR$/markup/project2/images" />
+      <recent name="$PROJECT_DIR$/markup/project2/blocks" />
+      <recent name="$PROJECT_DIR$/markup/project2" />
+      <recent name="$PROJECT_DIR$/markup/home/lesson10/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aboutme/css" />
+      <recent name="$PROJECT_DIR$/js/home/lesson3" />
+      <recent name="$PROJECT_DIR$/markup/project1" />
+      <recent name="$PROJECT_DIR$/markup/home/lesson6" />
+      <recent name="$PROJECT_DIR$/markup/home/lesson2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="" />
+      <changelist id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
+      <created>1428682988575</created>
+      <option name="number" value="Default" />
+      <updated>1428682988575</updated>
+    </task>
+    <task id="LOCAL-00070" summary="hw11">
+      <created>1431411873447</created>
+      <option name="number" value="00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1431411873464</updated>
+    </task>
+    <task id="LOCAL-00071" summary="hw10">
+      <created>1431448804667</created>
+      <option name="number" value="00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1431448804667</updated>
+    </task>
+    <task id="LOCAL-00072" summary="hw11 correct css">
+      <created>1431509318219</created>
+      <option name="number" value="00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1431509318220</updated>
+    </task>
+    <task id="LOCAL-00073" summary="css correct">
+      <created>1431515269403</created>
+      <option name="number" value="00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1431515269403</updated>
+    </task>
+    <task id="LOCAL-00074" summary="css correct">
+      <created>1431515379581</created>
+      <option name="number" value="00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1431515379581</updated>
+    </task>
+    <task id="LOCAL-00075" summary="css correct">
+      <created>1431528484913</created>
+      <option name="number" value="00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1431528484943</updated>
+    </task>
+    <task id="LOCAL-00076" summary="css correct">
+      <created>1431530068024</created>
+      <option name="number" value="00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1431530068024</updated>
+    </task>
+    <task id="LOCAL-00077" summary="css correct">
+      <created>1432329162758</created>
+      <option name="number" value="00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1432329162780</updated>
+    </task>
+    <task id="LOCAL-00078" summary="css correct">
+      <created>1432504534782</created>
+      <option name="number" value="00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1432504534812</updated>
+    </task>
+    <task id="LOCAL-00079" summary="css correct">
+      <created>1432507365725</created>
+      <option name="number" value="00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1432507365725</updated>
+    </task>
+    <task id="LOCAL-00080" summary="css correct">
+      <created>1432507551237</created>
+      <option name="number" value="00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1432507551237</updated>
+    </task>
+    <task id="LOCAL-00081" summary="css correct">
+      <created>1432524417412</created>
+      <option name="number" value="00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1432524417448</updated>
+    </task>
+    <task id="LOCAL-00082" summary="css correct">
+      <created>1432535523151</created>
+      <option name="number" value="00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1432535523164</updated>
+    </task>
+    <task id="LOCAL-00083" summary="css correct">
+      <created>1432542430458</created>
+      <option name="number" value="00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1432542430458</updated>
+    </task>
+    <task id="LOCAL-00084" summary="css correct">
+      <created>1432543768391</created>
+      <option name="number" value="00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1432543768392</updated>
+    </task>
+    <task id="LOCAL-00085" summary="css correct">
+      <created>1432544609854</created>
+      <option name="number" value="00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1432544609854</updated>
+    </task>
+    <task id="LOCAL-00086" summary="css correct">
+      <created>1432545374410</created>
+      <option name="number" value="00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1432545374410</updated>
+    </task>
+    <task id="LOCAL-00087" summary="css correct">
+      <created>1432546572881</created>
+      <option name="number" value="00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1432546572889</updated>
+    </task>
+    <task id="LOCAL-00088" summary="css correct">
+      <created>1432548168153</created>
+      <option name="number" value="00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1432548168153</updated>
+    </task>
+    <task id="LOCAL-00089" summary="css correct">
+      <created>1432818340890</created>
+      <option name="number" value="00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1432818340907</updated>
+    </task>
+    <task id="LOCAL-00090" summary="css correct">
+      <created>1432818780202</created>
+      <option name="number" value="00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1432818780202</updated>
+    </task>
+    <task id="LOCAL-00091" summary="css correct">
+      <created>1432843274167</created>
+      <option name="number" value="00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1432843274180</updated>
+    </task>
+    <task id="LOCAL-00092" summary="css correct">
+      <created>1432844395162</created>
+      <option name="number" value="00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1432844395163</updated>
+    </task>
+    <task id="LOCAL-00093" summary="css correct">
+      <created>1432845577598</created>
+      <option name="number" value="00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1432845577598</updated>
+    </task>
+    <task id="LOCAL-00094" summary="css correct">
+      <created>1432845891041</created>
+      <option name="number" value="00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1432845891042</updated>
+    </task>
+    <task id="LOCAL-00095" summary="css correct">
+      <created>1432846041040</created>
+      <option name="number" value="00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1432846041040</updated>
+    </task>
+    <task id="LOCAL-00096" summary="css correct">
+      <created>1433346515597</created>
+      <option name="number" value="00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1433346515611</updated>
+    </task>
+    <task id="LOCAL-00097" summary="css correct">
+      <created>1433923982774</created>
+      <option name="number" value="00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1433923982808</updated>
+    </task>
+    <task id="LOCAL-00098" summary="hw1">
+      <created>1433924046814</created>
+      <option name="number" value="00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1433924046814</updated>
+    </task>
+    <task id="LOCAL-00099" summary="hw1">
+      <created>1433925051892</created>
+      <option name="number" value="00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1433925051892</updated>
+    </task>
+    <task id="LOCAL-00100" summary="hw1">
+      <created>1433928345367</created>
+      <option name="number" value="00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1433928345367</updated>
+    </task>
+    <task id="LOCAL-00101" summary="hw2">
+      <created>1433930444870</created>
+      <option name="number" value="00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1433930444870</updated>
+    </task>
+    <task id="LOCAL-00102" summary="hw2">
+      <created>1433930912215</created>
+      <option name="number" value="00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1433930912216</updated>
+    </task>
+    <task id="LOCAL-00103" summary="hw3">
+      <created>1434110117357</created>
+      <option name="number" value="00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1434110117383</updated>
+    </task>
+    <task id="LOCAL-00104" summary="hw1">
+      <created>1434110363240</created>
+      <option name="number" value="00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1434110363241</updated>
+    </task>
+    <task id="LOCAL-00105" summary="hw3">
+      <created>1434115673087</created>
+      <option name="number" value="00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1434115673088</updated>
+    </task>
+    <task id="LOCAL-00106" summary="hw3">
+      <created>1434116687687</created>
+      <option name="number" value="00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1434116687687</updated>
+    </task>
+    <task id="LOCAL-00107" summary="hw3">
+      <created>1434120616921</created>
+      <option name="number" value="00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1434120616968</updated>
+    </task>
+    <task id="LOCAL-00108" summary="hw">
+      <created>1434551218680</created>
+      <option name="number" value="00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1434551218681</updated>
+    </task>
+    <task id="LOCAL-00109" summary="hw">
+      <created>1434552425700</created>
+      <option name="number" value="00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1434552425700</updated>
+    </task>
+    <task id="LOCAL-00110" summary="hw">
+      <created>1434552496892</created>
+      <option name="number" value="00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1434552496892</updated>
+    </task>
+    <task id="LOCAL-00111" summary="hw">
+      <created>1434553041726</created>
+      <option name="number" value="00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1434553041726</updated>
+    </task>
+    <task id="LOCAL-00112" summary="hw">
+      <created>1434553818796</created>
+      <option name="number" value="00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1434553818796</updated>
+    </task>
+    <task id="LOCAL-00113" summary="hw">
+      <created>1434554384295</created>
+      <option name="number" value="00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1434554384295</updated>
+    </task>
+    <task id="LOCAL-00114" summary="new">
+      <created>1435328349224</created>
+      <option name="number" value="00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1435328349225</updated>
+    </task>
+    <task id="LOCAL-00115" summary="new">
+      <created>1435329278724</created>
+      <option name="number" value="00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1435329278724</updated>
+    </task>
+    <task id="LOCAL-00116" summary="new">
+      <created>1435329710065</created>
+      <option name="number" value="00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1435329710065</updated>
+    </task>
+    <task id="LOCAL-00117" summary="new">
+      <created>1435330116400</created>
+      <option name="number" value="00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1435330116400</updated>
+    </task>
+    <task id="LOCAL-00118" summary="new">
+      <created>1435385261153</created>
+      <option name="number" value="00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1435385261178</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="24" width="1227" height="776" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21841891" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.5028525" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.5028525" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21841891" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw 4 menu1 start" />
+    <MESSAGE value="hw4 menu1" />
+    <MESSAGE value="hw4 menu2 start" />
+    <MESSAGE value="hw5.1" />
+    <MESSAGE value="CSS problem is fixed" />
+    <MESSAGE value="pager complete" />
+    <MESSAGE value="lesson 5 task2" />
+    <MESSAGE value="pager CSS changes" />
+    <MESSAGE value="CSS changes" />
+    <MESSAGE value="Add project1" />
+    <MESSAGE value="css correction" />
+    <MESSAGE value="hw8 yandex arrow" />
+    <MESSAGE value="hw9" />
+    <MESSAGE value="add hover affect to button" />
+    <MESSAGE value="modify yandex gradient arrow" />
+    <MESSAGE value="modify yandex  arrow CSS" />
+    <MESSAGE value="hw11" />
+    <MESSAGE value="hw10" />
+    <MESSAGE value="hw11 correct css" />
+    <MESSAGE value="css correct" />
+    <MESSAGE value="hw2" />
+    <MESSAGE value="hw1" />
+    <MESSAGE value="hw3" />
+    <MESSAGE value="hw" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aboutme/css/hover_portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson1/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33436534">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson3/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58513933">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson3/task4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19504644">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson2/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.083591335">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson2/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27863777">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson2/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.91950464">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8637771">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson2/task5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44582042">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson2/task4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39009288">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.666667">
+          <caret line="13" column="0" selection-start-line="8" selection-start-column="3" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.333333">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.333333">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson3/task7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33436534">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson3/task6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55727553">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson3/task5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22291021">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson4/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson4/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33436534">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson4/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5294118">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41795665">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson4/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44582042">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson4/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55727553">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson4/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.250774">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson4/task1_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5294118">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.333333">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.333333">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39009288">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39009288">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44582042">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3622291">
+          <caret line="13" column="5" selection-start-line="11" selection-start-column="3" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58513933">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson5/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22291021">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson5/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4814816">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/home/lesson5/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.37037">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson6/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6130031">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson6/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34520122">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson6/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47368422">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/class/lesson7/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27863777">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/img/02.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/img/03.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.766716">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08411215">
+          <caret line="3" column="54" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.25926">
+          <caret line="36" column="6" selection-start-line="11" selection-start-column="0" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/img/09.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/css/hover_portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Загрузки/accesspress-lite/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="273" column="39" selection-start-line="273" selection-start-column="39" selection-end-line="273" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

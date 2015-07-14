@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>task3</title>
+</head>
+<body>
+<script>
+    var salaries = {
+        'junior':1000,
+        'middle':2500,
+        'senior':3500,
+        'lead':5000
+    }
+
+    var sum=0;
+    for (var position in salaries) {
+        sum+=salaries[position];
+    }
+
+    alert (sum);
+
+</script>
+</body>
+</html>
