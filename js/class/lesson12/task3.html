@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>task3</title>
+</head>
+<body>
+    <script>
+    function f(x) {
+        alert(x);
+    }
+        function greet (name, age) {
+            console.log("Hi" + name + "Age" + age);
+
+        }
+
+        var f1000 = delay(f, 1000);
+        var f1500 = delay(f, 5000);
+
+        function delay(func, time) {
+
+            return function () {
+                var args = arguments;
+
+                setTimeout(function(){
+                  func.apply(this.args);
+                }, time);
+            }
+        }
+
+        f1000('test');
+        f1500('test');
+        greet("Alex", 25);
+    </script>
+</body>
+</html>
