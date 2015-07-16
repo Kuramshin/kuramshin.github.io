@@ -21,8 +21,7 @@ margin: 0;
     margin: 0 auto;
 	text-align: center;
 	box-sizing: border-box;
-	border: 1px solid red;
-  position: relative;
+	position: relative;
 }
 
 .cont_price_bg h2 {
