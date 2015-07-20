@@ -1,0 +1,22 @@
+.footer {
+	background: #3070a8;
+	padding: 20px 0;
+	color: #fff;
+	line-height: 1.8;
+}
+
+.footer__copyright {
+	text-align: center;
+}
+
+.footer__copyright_name {
+	font-weight: bold;
+}
+
+.footer__designed-by {
+	text-align: center;
+}
+
+.footer__site a {
+	color: #1d1b1b;
+}
