@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>collapser</title>
+	<style>
+		body {
+            font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+            margin: 40px;
+            background: #2C2C2C;
+            color: gold;
+        }
+        h1 {
+            font-weight: normal;
+            color: silver;
+            margin-bottom: 5px;
+            cursor: pointer;
+        }
+
+		h4 {
+
+			cursor: pointer;
+		}
+        .collapser__body {
+            display: none;
+        }
+
+        .collapser_show .collapser__body {
+            display: block;
+        }
+
+        .collapser__header {
+            position: relative;
+        }
+
+        .collapser__header:before {
+            position: absolute;
+            left: -20px;
+            width: 20px;
+            height: 20px;
+            content: '+';
+        }
+
+        .collapser_show .collapser__header:before {
+            content: '-';
+        }
+
+	</style>
+</head>
+<body>
+<section class="collapser">
+    <h1 class="collapser__header">Header 1</h1>
+    <p class="section__descr collapser__body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita facere impedit libero magnam molestias nisi? Culpa eligendi est neque, non quis quos tenetur voluptatem. Amet dolore facilis soluta tempora ut.</p>
+</section>
+
+<section class="collapser">
+    <h1 class="collapser__header">Header 2</h1>
+    <p class="section__descr collapser__body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita facere impedit libero magnam molestias nisi? Culpa eligendi est neque, non quis quos tenetur voluptatem. Amet dolore facilis soluta tempora ut.</p>
+</section>
+
+<section class="collapser">
+    <h1 class="collapser__header">Header 3</h1>
+    <p class="section__descr collapser__body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita facere impedit libero magnam molestias nisi? Culpa eligendi est neque, non quis quos tenetur voluptatem. Amet dolore facilis soluta tempora ut.</p>
+</section>
+
+<div class="collapser">
+    <h4 class="collapser__header">Header 4</h4>
+    <ul class="collapser__body">
+        <li>List item 1</li>
+        <li>List item 2</li>
+        <li>List item 3</li>
+        <li>List item 4</li>
+    </ul>
+    <button class="collapser__del">Del</button>
+    <button class="collapser__add">Add</button>
+</div>
+
+	<script>
+	(function () {
+    var collapsers = document.querySelectorAll('.collapser');
+
+    for (var i = 0; i < collapsers.length; i++) {
+        init(collapsers[i]);
+    }
+
+    function init(collapser) {
+        var header = collapser.querySelector('.collapser__header');
+        var body = collapser.querySelector('.collapser__body');
+        var del = collapser.querySelector('.collapser__del');
+        var add = collapser.querySelector('.collapser__add');
+
+        del && del.addEventListener('click', _delCollapser);
+        add && add.addEventListener('click', _addCollapser);
+
+        function _addCollapser() {
+            header.addEventListener('click', _hideBody);
+        }
+
+        function _hideBody() {
+            collapser.classList.toggle('collapser_show')
+        }
+
+        function _delCollapser() {
+            header.removeEventListener('click', _hideBody);
+        }
+
+        _addCollapser();
+    }
+
+})();
+	</script>
+
+</body>
+</html>
