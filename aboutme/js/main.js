@@ -72,7 +72,7 @@ function sendMail() {
 
 
      }).done(function(response) {
-      			  alert("Спасибо. Ваше сообщение отправлено успешно.");
+      			  alert("Спасибо " + name + ". Ваше сообщение отправлено успешно.");
 					$('form')[0].reset();
 
 
