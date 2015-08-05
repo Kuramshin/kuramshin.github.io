@@ -24,7 +24,7 @@
 		this.__sliderLeft = function() {
 
 		var imagesWrap = this.config.imagesWrap;
-			imagesWrap.
+
 		}
 	};
 	window.Slider = new Slider ();
