@@ -45,3 +45,40 @@ function main() {
 
 }
 main();
+// mail ------------------------------------------------------------------
+function sendMail() {
+				 var name = $('.sign-up__name').val(),
+         email = $('.sign-up__email').val(),
+         title = $('.sign-up__title').val(),
+									text = $('.sign-up__message').val();
+    $.ajax({
+      type: 'POST',
+      url: 'https://mandrillapp.com/api/1.0/messages/send.json',
+      data: {
+        'key': '8dfcdqaLJK6oGbQNDwPdQQ',
+        'message': {
+          'from_email': email,
+								  'to': [
+              {
+                'email': 'al_kuramshin@mail.ru',
+                'type': 'to'
+              }
+            ],
+          'autotext': 'true',
+          'subject': title,
+          'html': text
+        }
+      }
+
+
+     }).done(function(response) {
+      			  alert("Спасибо. Ваше сообщение отправлено успешно.");
+					$('form')[0].reset();
+
+
+   });
+
+}
+
+// ------------------------------------------------------------------
+

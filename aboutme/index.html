@@ -19,9 +19,8 @@
     <!-- Stylesheet
     ================================================== -->
     <link rel="stylesheet" type="text/css"  href="css/style.css">
-<!--    <link rel="stylesheet" type="text/css" href="css/responsive.css">-->
     <script type="text/javascript" src="js/modernizr.custom.js"></script>
-
+	<script type="text/javascript" src="https://mandrillapp.com/api/docs/js/mandrill.js"></script>
     <link href='http://fonts.googleapis.com/css?family=Raleway:500,600,700,100,800,900,400,200,300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -205,20 +204,20 @@
             <div class="space"></div>
             <div class="row">
                 <div class="col-md-6 col-md-offset-3">
-                    <form id="contact" role="form" method="post" action="form_processing.php">
+                    <form id="contact" role="form" method="post" action="javascript:sendMail();" >
                       <div class="form-group">
-                        <input type="text" name="name" class="form-control" id="exampleInputEmail1" placeholder="Enter Name">
+                        <input type="text" name="name" class="form-control sign-up__name" id="exampleInputEmail1" placeholder="Enter Name">
                       </div>
                       <div class="form-group">
-                        <input type="email" name="email" class="form-control" id="exampleInputPassword1" placeholder="Enter Email">
+                        <input type="email" name="email" class="form-control sign-up__email" id="exampleInputPassword1" placeholder="Enter Email">
                       </div>
                       <div class="form-group">
-                        <input type="text" name="tema" class="form-control" id="exampleInputTitle1" placeholder="Enter Title">
+                        <input type="text" name="tema" class="form-control sign-up__title" id="exampleInputTitle1" placeholder="Enter Title">
                       </div>
                       <div class="form-group">
-                        <textarea name="messages" class="form-control" rows="4" placeholder="Message"></textarea>
+                        <textarea name="messages" class="form-control sign-up__message" rows="4" placeholder="Message"></textarea>
                       </div>
-                      <button type="submit" name="send" class="btn btn-primary my-btn dark">Submit</button>
+                      <button type="submit" id="my_form_btn" accesskey=""name="send" class="btn btn-primary my-btn dark">Submit</button>
                     </form>
                 </div>
             </div>
