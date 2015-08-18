@@ -1,0 +1,19 @@
+#header {
+			background:
+		}
+
+		.logo{color: #ffffff;
+			font: 700 50.56px Roboto;}
+
+		.cart{
+			background: #5C8F25;
+		color: #ffffff;}
+
+		.cart:before {
+			background: url(2.png);
+		}
+
+
+		.main-title {
+		font: 700 60px / 48px Roboto;
+		color: #ffffff;}
