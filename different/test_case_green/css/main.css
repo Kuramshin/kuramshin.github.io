@@ -1,0 +1,24 @@
+#header {
+			background:
+		}
+
+		.logo{color: #ffffff;
+			font: 700 50.56px Roboto;}
+
+		.cart{
+			color: #ffffff;
+		background: rgba(102,198,47,1);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(102,198,47,1)), color-stop(74%, rgba(136,120,37,1)), color-stop(100%, rgba(136,120,37,1)));
+background: -webkit-linear-gradient(top, rgba(102,198,47,1) 0%, rgba(136,120,37,1) 74%, rgba(136,120,37,1) 100%);
+background: linear-gradient(to bottom, rgba(102,198,47,1) 0%, rgba(136,120,37,1) 74%, rgba(136,120,37,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66c62f', endColorstr='#887825', GradientType=0 );
+		}
+
+		.cart:before {
+			background: url(2.png);
+		}
+
+
+		.main-title {
+		font: 700 60px / 48px Roboto;
+		color: #ffffff;}
