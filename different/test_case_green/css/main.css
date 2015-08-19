@@ -2,7 +2,11 @@
 box-sizing: border-box;}
 
 #header {
-	background:gold;
+	background: url(images/%D0%A1%D0%BB%D0%BE%D0%B9-1.png) no-repeat ;
+	background-size: cover;
+	height: auto;
+	max-height: 933%;
+
 }
 
 .logo a{color: #ffffff;
@@ -16,13 +20,28 @@ text-decoration: none;
 	margin-right: auto;
 }
 
+.main-menu {
+	background:white;
+	max-width: 2085px;
+	width:79.5%;
+	height: 4.9%;
+	max-height: 100px;
+	box-sizing: border-box;
+	padding: 10px;
+	box-shadow: 2px 2px 5px;
+}
+
 .top-menu li, .main-menu li {
 	display: inline;
+	-background:rgba(0, 128, 0, 0.7);
 }
 
 .top-menu li a, .main-menu li a {
 	display: inline-block;
 	text-decoration: none;
+	text-transform: uppercase;
+	margin-right: 20px;
+	-background:rgba(255, 255, 0, 0.73);
 }
 
 .top-menu li a {color: #ffffff;
@@ -35,6 +54,16 @@ text-decoration: none;
 .cart a {
 	color: #ffffff;
 	font: 700 14px Roboto;
+	height: 100px;
+	line-height: 100px;
+
+
+}
+
+.main-title {
+
+	color: #ffffff;
+	font: 700 60px / 48px Roboto;
 }
 .cart{
 	color: #ffffff;
@@ -44,6 +73,12 @@ text-decoration: none;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66c62f', endColorstr='#887825', 				GradientType=0 );
 	}
 
+#header > h1:nth-child(4) {margin-top: 130px;
+	margin-left: 12%;}
+
+#header > h1:nth-child(5) {margin-left: 18%;}
+
+#header > h1:nth-child(6) {padding-bottom: 20px; margin-left: 20%;}
 .cart:before {
 	background: url(2.png);
 	}
@@ -58,12 +93,11 @@ text-decoration: none;
 	width: 57.5%;
 	height: 54.4%;
 	float: left;
-	background: rgba(234, 223, 92, 0.46);
+	-background: rgba(234, 223, 92, 0.46);
 }
 
 .advantages {width:50%;
-	background:yellow;
-    right: -50%;
+	right: -50%;
     position: relative;
 	padding: 20px 0;
 	box-sizing: border-box;
@@ -87,7 +121,7 @@ li.advantages-item-type span {
 }
 
  li.advantages-item-type:before {
-	content: url("images/star.png") 50%;
+	content: url("images/star.png");
 	position: absolute;
 	left:-25%;
 
@@ -96,7 +130,7 @@ li.advantages-item-type span {
 .bottle {position: absolute;
 width: 15.1%;
 height: auto;
-top:-10%;
+top:-7%;
 left:20%;
 z-index: 5;
 }
@@ -114,6 +148,7 @@ z-index: 5;
 
 .form {
 	background: url(images/form_bg.png) no-repeat;
+	background-size: cover;
 	width: 42.5%;
 	height: 54.4%;
 	max-width: 1114px;
