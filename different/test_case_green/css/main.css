@@ -1,5 +1,9 @@
 .container {margin: 0 auto;
-box-sizing: border-box;}
+box-sizing: border-box;
+background: url('http://dev.evergreens.com.ua/hr/test-case-01.png') no-repeat;
+background-size: cover;
+	z-index: 4;
+}
 
 #header {
 	background: url(images/%D0%A1%D0%BB%D0%BE%D0%B9-1.png) no-repeat ;
@@ -27,13 +31,12 @@ text-decoration: none;
 	height: 4.9%;
 	max-height: 100px;
 	box-sizing: border-box;
-	padding: 10px;
+
 	box-shadow: 2px 2px 5px;
 }
 
 .top-menu li, .main-menu li {
 	display: inline;
-	-background:rgba(0, 128, 0, 0.7);
 }
 
 .top-menu li a, .main-menu li a {
@@ -41,7 +44,7 @@ text-decoration: none;
 	text-decoration: none;
 	text-transform: uppercase;
 	margin-right: 20px;
-	-background:rgba(255, 255, 0, 0.73);
+
 }
 
 .top-menu li a {color: #ffffff;
@@ -50,27 +53,32 @@ text-decoration: none;
 .main-menu li a {
 	color: #6d6e71;
 	font: 700 14px Roboto;
+	height: 45px;
+	line-height: 45px;
 }
 .cart a {
 	color: #ffffff;
 	font: 700 14px Roboto;
-	height: 100px;
-	line-height: 100px;
+	height: 45px;
+	line-height: 45px;
+	padding: 0 10px;
 
+	}
 
-}
+#header > ul.main-menu > li.cart > a {margin-right: 0; color: #ffffff;}
 
 .main-title {
 
 	color: #ffffff;
 	font: 700 60px / 48px Roboto;
 }
-.cart{
+.cart a{
 	color: #ffffff;
 	background: rgba(102,198,47,1);
 	background: -webkit-linear-gradient(rgba(102,198,47,1) 0%, rgba(136,120,37,1) 74%, rgba(136,120,37,1) 100%);
 	background: linear-gradient(rgba(102,198,47,1) 0%, rgba(136,120,37,1) 74%, rgba(136,120,37,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66c62f', endColorstr='#887825', 				GradientType=0 );
+
 	}
 
 #header > h1:nth-child(4) {margin-top: 130px;
