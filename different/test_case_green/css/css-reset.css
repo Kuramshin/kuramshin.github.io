@@ -30,7 +30,7 @@ html { overflow-y:scroll; }
 body {
 	background:#fff;
 	color:#222;
-	font-family:serif;
+	font-family:Roboto;
 	font-size:100%;
         cursor: default;
 }
@@ -113,6 +113,7 @@ i, em { font-style:italic; }
 h1 { font-size: 2em;}
 h2 { font-size: 1.5em; }
 h3 { font-size: 1.17em; }
+p, a {font-size:1em;}
 
 small { font-size:85%;}
 
