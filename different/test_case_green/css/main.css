@@ -45,7 +45,6 @@
 	margin: 0 auto;
 	box-sizing: border-box;
 	font-family: 'RobotoRegular;
-
 }
 
 #header {
@@ -126,7 +125,8 @@
 
 .main-menu li a {
 	color: #6d6e71;
-	font: 700 75% RobotoRegular; /*-- 0.875em ---*/
+	font: 700 75% RobotoRegular;
+	/*-- 0.875em ---*/
 	height: 45px;
 	line-height: 45px;
 	margin-left: 3%;
@@ -244,7 +244,6 @@ li.advantages-item-type:before {
 	height: auto;
 	top: -7%;
 	left: 20%;
-
 }
 
 .advantage-add-info-title {
