@@ -49,14 +49,14 @@
 }
 
 #header {
-	background: url(../img/slide.jpg) no-repeat;
+	background: url(../img/slide.jpg) no-repeat center center;
 	background-size: cover;
 	height: auto;
 	width: 100%;
 	max-width: 2624px;
 	max-height: 933%;
 	box-sizing: border-box;
-	padding-top: 10%;
+	padding: 10% 9% 0;
 	position: relative;
 }
 
@@ -74,19 +74,18 @@
 .top-menu {
 	position: relative;
 	margin-bottom: 3.15%;
-	background: green;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: right;
 }
 
 .main-menu {
-	text-align: center;
+	text-align: right;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-.main-menu {
 	background: white;
 	max-width: 2085px;
-	width: 82.0%;
+	width: 100.0%;
 	max-height: 100px;
 	box-sizing: border-box;
 	box-shadow: 1px 1px 2px silver;
@@ -97,6 +96,7 @@
 .top-menu li,
 .main-menu li {
 	display: inline;
+	text-align: center;
 }
 
 .top-menu li a,
@@ -115,16 +115,18 @@
 	text-transform: uppercase;
 	background: none;
 	border: 1px solid white;
+	margin-left: 3%;
 }
 
 .top-menu li a {
 	color: #ffffff;
 	font: 300 0.6875em RobotoRegular;
+	margin-left: 3%;
 }
 
 .main-menu li a {
 	color: #6d6e71;
-	font: 700 0.875em RobotoRegular;
+	font: 700 75% RobotoRegular; /*-- 0.875em ---*/
 	height: 45px;
 	line-height: 45px;
 	margin-left: 3%;
@@ -196,7 +198,7 @@
 	width: 57.0%;
 	max-width: 1510px;
 	min-width: 30%;
-	height: 54.0%;
+	height: auto;
 	max-height: 1116px;
 	display: inline-block;
 	background: #F1F2F2;
@@ -204,9 +206,8 @@
 
 .advantages {
 	position: relative;
-	-width: 50%;
 	right: -57.29%;
-	padding: 20px 0;
+	padding: 3.656em 0;
 	box-sizing: border-box;
 }
 
@@ -239,11 +240,11 @@ li.advantages-item-type:before {
 
 .bottle {
 	position: absolute;
-	width: 21.84%;
+	width: 23%;
 	height: auto;
-	top: -13%;
+	top: -7%;
 	left: 20%;
-	z-index: 5;
+
 }
 
 .advantage-add-info-title {
@@ -285,6 +286,7 @@ li.advantages-item-type:before {
 	position: relative;
 	box-sizing: border-box;
 	background: url(../img/form_bg.png) no-repeat;
+	background-size: cover;
 	width: 42.45%;
 	height: 54.4%;
 	text-transform: uppercase;
@@ -301,7 +303,7 @@ li.advantages-item-type:before {
 	max-width: 667px;
 	max-height: 1238px;
 	background: #E9E5E4;
-	top: -73%;
+	top: 0;
 	left: 13.81%;
 }
 
