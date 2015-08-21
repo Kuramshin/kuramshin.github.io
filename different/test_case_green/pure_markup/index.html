@@ -4,13 +4,21 @@
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="css/css-reset.css">
 	<link rel="stylesheet" href="css/main.css">
-	<title>Document</title>
+	<script src="js/jquery-1.11.2.min.js"></script>
+	<script src="js/cycle2.js"></script>
+	<title>Dobrivo</title>
 
 </head>
 <body>
 <div class="container">
+<div class="cycle_-slideshow cbg slideshow">
+  <img class="img_s" src="img/slide1.jpg" alt="">
+  <img class="img_s" src="img/slide2.jpg" alt="">
+  <img class="img_s" src="img/slide3.jpg" alt="">
+  <img class="img_s" src="img/slide4.jpg" alt="">
+</div>
 	<header id="header"> <!-- header -->
-		<h1 class="logo"><a href="#">Добриво</a></h1>
+			<h1 class="logo"><a href="#">Добриво</a></h1>
 		<ul class="top-menu"> <!-- top white menu -->
 			<li><a href="#">Оплата и доставка</a></li>
 			<li><a href="#">Новости</a></li>
@@ -35,11 +43,13 @@
 			<li class="cart"><a href="#">Корзина</a></li>
 		</ul> <!-- end main menu -->
 		<h1 class="main-title-f">Органическое</h1>
-		<h1 class="main-title-s"> нано-удобние</h1>
+		<h1 class="main-title-s"> нано-удобрение</h1>
 		<h1 class="main-title-t">Добриво</h1>
+
 	</header> <!-- end header -->
 	<section class="left"> <!-- left section with advantages items -->
 		<img  src="img/bottle.png" class="bottle" alt="bottle"> <!--width="397" height="718" -->
+
 		<ul class="advantages">
 			<li class="advantages-item-type">Прирост урожая <br><span>в сравнении с химическим удобрением</span></li>
 			<li class="advantages-item-index">30% - 250%</li>
@@ -48,6 +58,7 @@
 			<li class="advantages-item-type">Рост корневой <br> <span>системы растений при использовании</span></li>
 			<li class="advantages-item-index">в 3 - 10 раз</li>
 		</ul>
+
 		<h1 class="advantage-add-info-title">Узнайте <br>о нагро  больше!</h1>
 		<p class="advantage-add-info-left-text">Хотите <br>трали-вали <br>ла-лала?</p>
 		<a href="#" class="advantage-add-info-btn">Узнать больше</a>
@@ -55,7 +66,7 @@
 	<section class="form-section"> <!-- form section -->
 		<div class="form-wrapper">
 		<form class="form" action="#">
-			<h2 class="form-title">Посчитай <br> прибыль</h2>
+			<h2 class="form-title">Посчитайте <br> прибыль</h2>
 			<h3 class="form-title-1"><span>Добриво</span> эффективней химии</h3>
 			<hr>
 			<p class="form-item-title">Выберите культуру</p>
@@ -75,10 +86,29 @@
 			<hr>
 			<p class=form-result-title>прибыль от добрива</p>
 			<h1 class="form-result">50 000</h1>
-			<p>грн.</p>
+			<p>грн</p>
 		</form>
 		</div> <!-- end form wrapper-->
 	</section> <!-- end form section -->
 </div>
+<script type="text/javascript">
+
+	$(document).ready(function() {
+
+	    $('.slideshow').cycle({
+
+	        fx: 'fade',
+
+	        speed: 500,
+
+	        timeout: 3000
+
+	    });
+		$('.img_s').css({'width': '100%', 'height': '84.5%'});
+
+	});
+
+	</script>
+
 </body>
 </html>

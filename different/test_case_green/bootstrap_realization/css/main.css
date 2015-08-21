@@ -1,0 +1,95 @@
+#carousel > div > div.carousel-caption  {
+left:10%;
+right:10%;
+}
+
+#carousel > div > div.item.active > img {
+width: 100%;
+max-width: 1920px;
+}
+
+#carousel > div > div.carousel-caption > div > ul a, .navbar-brand {
+color: white ;
+text-transform: uppercase;
+}
+
+#carousel > div > div.carousel-caption > div > ul > li > a:hover { background:none; color: gold;}
+#carousel > div > div.carousel-caption > nav > div > ul > li > a:hover {background: #98805E; color:white;}
+.navbar-brand {
+font-size: 3em;
+}
+
+#language_select {
+    position: relative;
+    top:15px;
+    background: none;
+    border: 1px splid white !important;
+}
+
+#language_select {
+	color: white;
+	padding: 0 0.7em;
+	text-transform: uppercase;
+	background: none;
+	border: 1px solid white;
+	margin-left: 3%;
+	-webkit-appearance: none;
+-moz-appearance: none;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+text-indent: 0.1px;
+-text-overflow: '';
+}
+
+#language_select:focus {
+color: gold;
+	background: none;
+}
+
+.top-menu {
+margin-bottom: 20px;
+}
+
+#carousel > div > div.carousel-caption > nav > div > ul {text-align: right;}
+#carousel > div > div.carousel-caption > nav > div > ul a
+{
+text-transform: uppercase;
+    margin-right: 1em;
+
+}
+
+
+
+.cart a {
+	color: #ffffff !important;
+	width: 200px;
+    text-align: center;
+   margin-right: 0 !important;
+	}
+
+
+.cart a:hover {
+opacity: 0.8;
+}
+
+.cart a {
+	background: rgba(102, 198, 47, 1);
+	background: -webkit-linear-gradient(rgba(102, 198, 47, 1) 0%, rgba(136, 120, 37, 1) 74%, rgba(136, 120, 37, 1) 100%);
+	background: linear-gradient(rgba(102, 198, 47, 1) 0%, rgba(136, 120, 37, 1) 74%, rgba(136, 120, 37, 1) 100%);
+	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#66c62f', endColorstr='#887825', GradientType=0);
+}
+
+.form-wrapper {
+		background: url(../img/form_bg.png) no-repeat;
+/* 	background-size: cover;*/
+	height: auto;
+	text-transform: uppercase;
+	text-align: center;}
+
+.form-inner {
+   margin-left: 7%;
+background: #E9E5E4;
+}
