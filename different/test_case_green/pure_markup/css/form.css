@@ -1,0 +1,121 @@
+/* font-family: "RobotoRegular"; */
+
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "RobotoLight"; */
+
+@font-face {
+	font-family: "RobotoLight";
+	src: url("../fonts/RobotoLight/RobotoLight.eot");
+	src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoLight/RobotoLight.woff") format("woff"), url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "RobotoBold"; */
+
+@font-face {
+	font-family: "RobotoBold";
+	src: url("../fonts/RobotoBold/RobotoBold.eot");
+	src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/*--------------------form section ------------------------------*/
+.form-section {
+	position: relative;
+	box-sizing: border-box;
+	background: url(../img/form_bg.png) no-repeat;
+	background-size: cover;
+	width: 42.5%;
+	height: auto;
+	text-transform: uppercase;
+	max-width: 1114px;
+	display: block;
+	float: right;
+	text-align: center;
+}
+.form-wrapper {
+	position: relative;
+	box-sizing: border-box;
+	width: 59%;
+	max-width: 667px;
+	max-height: 1238px;
+	background: #E9E5E4;
+	left: 20%;
+	padding: 1em;
+}
+.form hr {
+	width: 53.7%;
+	max-width: 358px;
+	color: #DADADB;
+	outline: none;
+}
+.form {
+/*	width: 91%;*/
+	box-sizing: border-box;
+	border-radius: 2px;
+/*	padding: 5px;*/
+	border: 1px dashed #A7A9AC;
+	background: #EFEFEF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+section.form-section > div > form > p:nth-child(4) {
+padding-top: 2em;
+}
+
+.form input,
+.form select {
+	width: 78%;
+	max-width: 520px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1.8em;
+	height: 2.2em;
+	padding-left: 0.5em;
+}
+.form-item-title {
+	text-transform: none;
+	text-align: left;
+	font-size: 0.9em;
+		margin-left: 2.4em;
+	margin-bottom: 0.5em;
+}
+.form-title {
+	font-size: 2em;
+	line-height: 1em;
+	font-family: "RobotoBold";
+	font-family: RobotoRegular;
+	padding: 5%;
+}
+.form-title-1 {
+	font-weight: 300;
+	font-size: 1em;
+	margin-bottom: 1em;
+}
+.form-title-1 span {
+	font-weight: 700;
+}
+.form-result,
+.form-result-title {
+	color: #D26441;
+}
+.form-result {
+	font-size: 3em;
+}
+.form-result+p {
+	margin-bottom: 2em;
+	text-transform: none;
+}

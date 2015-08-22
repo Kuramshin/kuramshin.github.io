@@ -50,6 +50,7 @@ padding: 0;
 	margin-left: auto;
 	margin-right: auto;
 	width: 100%;
+	height: 123%;
 	text-align: center;
 
 }
@@ -147,9 +148,15 @@ background: #B5A583;
 }
 .main-menu li a {
 	color: #6d6e71;
+	font: 700 70% RobotoRegular;
+	height: 70%;
+	line-height: 70%;
+
+/*
 	font: 700 0.875em RobotoRegular;
 	height: 45px;
 	line-height: 45px;
+*/
 	margin-left: 3%;
 	padding: 0 0.3125em;
 }
@@ -170,7 +177,7 @@ border-bottom: 2px dashed #F2C548 ;
 }
 .main-menu-item:hover {
 	color: black;
-	background: #BEAF92;
+/*	background: #BEAF92;*/
 }
 #header .cart a {
 	color: #ffffff;
@@ -190,6 +197,9 @@ opacity: 0.8;
 	color: #ffffff;
 	font: 700 60px / 52px RobotoRegular;
 }
+
+.main-title-inner {position: relative;
+bottom: 0;}
 .cart a {
 	background: rgba(102, 198, 47, 1);
 	background: -webkit-linear-gradient(rgba(102, 198, 47, 1) 0%, rgba(136, 120, 37, 1) 74%, rgba(136, 120, 37, 1) 100%);
