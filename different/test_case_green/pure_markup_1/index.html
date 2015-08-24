@@ -13,21 +13,15 @@
 
 <body>
 	<div class="container">
-		<!--slider-->
-		<div class="cycle-slideshow slideshow">
-			<img class="img_s" src="img/slide.jpg" alt="">
-			<img class="img_s" src="img/slide.jpg" alt="" style="opacity:0.6">
-			<img class="img_s" src="img/slide.jpg" alt="" style="opacity:0.2">
-			<!--
-	  <img class="img_s" src="img/slide1.jpg" alt="">
-	  <img class="img_s" src="img/slide2.jpg" alt="">
-	  <img class="img_s" src="img/slide3.jpg" alt="">
-	  <img class="img_s" src="img/slide4.jpg" alt="">
--->
-		</div>
-		<!--end of slider-->
 		<header id="header">
 			<!-- header -->
+			<div class="cycle-slideshow slideshow">
+				<img class="img_s" src="img/slide1.jpg" alt="">
+				<img class="img_s" src="img/slide2.jpg" alt="">
+				<img class="img_s" src="img/slide3.jpg" alt="">
+				<img class="img_s" src="img/slide4.jpg" alt="">
+			</div>
+
 			<h1 class="logo"><a href="#">Добриво</a></h1>
 			<ul class="top-menu">
 				<!-- top white menu -->
@@ -43,7 +37,7 @@
 					</select>
 				</li>
 			</ul>
-			<!-- end of top white menu -->
+			<!-- end top white menu -->
 			<ul class="main-menu">
 				<!-- main menu -->
 				<li><a href="#" class="main-menu-item">Нагро-удобрение</a></li>
@@ -55,13 +49,12 @@
 				<li class="cart"><a href="#">Корзина</a></li>
 			</ul>
 			<!-- end main menu -->
-			<div class="main-title-inner">
-				<h1 class="main-title-f">Органическое</h1>
-				<h1 class="main-title-s"> нано-удобрение</h1>
-				<h1 class="main-title-t">Добриво</h1>
-			</div>
+			<h1 class="main-title-f">Органическое</h1>
+			<h1 class="main-title-s"> нано-удобрение</h1>
+			<h1 class="main-title-t">Добриво</h1>
+
 		</header>
-		<!-- end of header -->
+		<!-- end header -->
 		<section class="left">
 			<!-- left section with advantages items -->
 			<img src="img/bottle.png" class="bottle" alt="bottle">
@@ -112,20 +105,20 @@
 			<!-- end form wrapper-->
 		</section>
 		<!-- end form section -->
-		</div>
-		<script type="text/javascript">
-			$(document).ready(function () {
-				$('.slideshow').cycle({
-					fx: 'fade',
-					speed: 500,
-					timeout: 3000
-				});
-				$('.img_s').css({
-					'width': '100%',
-					'height': '84.5%'
-				});
+	</div>
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$('.slideshow').cycle({
+				fx: 'fade',
+				speed: 500,
+				timeout: 3000
 			});
-		</script>
+			$('.img_s').css({
+				'width': '100%',
+				'height': '30em'
+			});
+		});
+	</script>
 
 </body>
 

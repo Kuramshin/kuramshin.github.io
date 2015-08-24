@@ -12,7 +12,7 @@ header, footer, article, aside, nav, section, main  {
 header, footer, article, aside, nav, section, main { display:block; }
 html { overflow-y:scroll; }
 :before, :after {
-    content: '';
+/*    content: '';*/
     box-sizing: border-box;
 }
 
@@ -32,7 +32,7 @@ body {
 	color:#222;
 	font-family:Roboto;
 	font-size:100%;
-    cursor: default;
+        cursor: default;
 }
 img {
 	border: none;

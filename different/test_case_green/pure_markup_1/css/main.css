@@ -1,99 +1,102 @@
 /* font-family: "RobotoRegular"; */
 
 @font-face {
-	font-weight: normal;
-	font-style: normal;
 	font-family: "RobotoRegular";
 	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
 	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
 }
 
 
 /* font-family: "RobotoLight"; */
 
 @font-face {
-	font-weight: normal;
-	font-style: normal;
 	font-family: "RobotoLight";
 	src: url("../fonts/RobotoLight/RobotoLight.eot");
 	src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoLight/RobotoLight.woff") format("woff"), url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
-}
-
-
-/* font-family: "RobotoMedium"; */
-
-@font-face {
-	font-weight: normal;
 	font-style: normal;
-	font-family: "RobotoMedium";
-	src: url("../fonts/RobotoMedium/RobotoMedium.eot");
-	src: url("../fonts/RobotoMedium/RobotoMedium.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoMedium/RobotoMedium.woff") format("woff"), url("../fonts/RobotoMedium/RobotoMedium.ttf") format("truetype");
+	font-weight: normal;
 }
 
 
 /* font-family: "RobotoBold"; */
 
 @font-face {
-	font-weight: normal;
-	font-style: normal;
 	font-family: "RobotoBold";
 	src: url("../fonts/RobotoBold/RobotoBold.eot");
 	src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
 }
 
 body {
 	background: #F1F2F2;
 }
 
-.container {
-	box-sizing: border-box;
-	margin: 0 auto;
-	max-width: 2624px;
+
+
+.slideshow {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
 	width: 100%;
-	height: auto;
-	font-family: 'RobotoRegular';
+	max-width: 2624px;
+	text-align: center;
+}
+
+
+.container {
+	width: 100%;
+	max-width: 2624px;
+	margin: 0 auto;
+	box-sizing: border-box;
+	font-family: "RobotoRegular";
 }
 
 #header {
-	position: relative;
-	box-sizing: border-box;
-	padding: 3.5% 9% 0;
-	max-width: 2624px;
+/*	background-size: cover;*/
 	width: 100%;
-	height: auto;
+	max-width: 2624px;
+	box-sizing: border-box;
+/*	padding: 3.5% 9% 0;*/
+	position: relative;
 }
 
 .logo {
+	display: inline;
 	position: relative;
 	bottom: -1.8em;
-	display: inline;
 }
 
 .logo a {
-	display: inline-block;
 	color: #ffffff;
-	text-decoration: none;
 	font: 700 50px RobotoRegular;
+	text-decoration: none;
+	display: inline-block;
+	margin-left: 10%;
 }
 
 .top-menu {
 	position: relative;
-	margin-right: auto;
 	margin-bottom: 3.15%;
+	max-width: 2085px;
+	width: 80%;
+	margin-right: auto;
 	margin-left: auto;
 	text-align: right;
 }
 
 .main-menu {
-	box-sizing: border-box;
-	margin-right: auto;
-	margin-left: auto;
-	max-width: 2085px;
-	max-height: 100px;
-	width: 100%;
-	background: white;
-	box-shadow: 1px 1px 3px;
 	text-align: right;
+	margin-left: auto;
+	margin-right: auto;
+	background: white;
+	max-width: 2085px;
+	width: 80%;
+	/*	max-height: 100px;*/
+	box-sizing: border-box;
+	box-shadow: 1px 1px 3px;
 }
 
 #language_select,
@@ -104,22 +107,20 @@ body {
 }
 
 .top-menu li a,
-.main-menu li a,
-.logo a {
+.main-menu li a
+ {
 	display: inline-block;
 	text-decoration: none;
 	text-transform: uppercase;
 }
 
 #language_select {
-	margin-left: 3%;
-	padding: 0 0.7em;
-	border: 1px solid white;
-	background: none;
 	color: white;
-	text-indent: 0.1px;
+	padding: 0 0.7em;
 	text-transform: uppercase;
-	text-overflow: '';
+	background: none;
+	border: 1px solid white;
+	margin-left: 3%;
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	-webkit-user-select: none;
@@ -127,17 +128,19 @@ body {
 	-ms-user-select: none;
 	-o-user-select: none;
 	user-select: none;
+	text-indent: 0.1px;
+	-text-overflow: '';
 }
 
 #language_select:focus {
-	background: none;
 	color: gold;
+	background: none;
 }
 
 .top-menu li a {
-	margin-left: 4%;
 	color: #ffffff;
 	font: 300 0.7875em RobotoRegular;
+	margin-left: 4%;
 }
 
 #language_select:hover {
@@ -145,17 +148,12 @@ body {
 }
 
 .main-menu li a {
-	/*
+	color: #6d6e71;
 	font: 700 0.875em RobotoRegular;
 	height: 45px;
 	line-height: 45px;
-*/
-	margin-left: 3%;
+	margin-left: 1%;
 	padding: 0 0.3125em;
-	height: 70%;
-	color: #6d6e71;
-	font: 700 70% RobotoRegular;
-	line-height: 70%;
 }
 
 .main-menu-item:before {
@@ -165,8 +163,8 @@ body {
 	width: 0px;
 	height: 0px;
 	border-top: 0.3125em solid transparent;
-	border-bottom: 0.3125em solid transparent;
 	border-left: 0.425em solid grey;
+	border-bottom: 0.3125em solid transparent;
 }
 
 .top-menu li a:hover {
@@ -175,15 +173,16 @@ body {
 
 .main-menu-item:hover {
 	color: black;
+	background: #BEAF92;
 }
 
 #header .cart a {
-	width: 15.8%;
-	height: 45px;
-	border: 1px;
 	color: #ffffff;
+	width: 15.8%;
 	font: 0.875em RobotoBold;
+	height: 45px;
 	line-height: 45px;
+	border: 1px;
 }
 
 .cart a:hover {
@@ -194,22 +193,8 @@ body {
 .main-title-s,
 .main-title-t {
 	color: #ffffff;
-/*	font: 700 60px / 52px RobotoRegular;*/
-	font-family: "RobotoBold";
-/*
-	font-size: 3.75em;
-	line-height: 3.25em;
-*/
-	font-size: 3.75em;
-	line-height: 0.9;
+	font: 700 60px / 52px RobotoRegular;
 }
-
-/*
-.main-title-inner {
-	position: relative;
-	bottom: 0;
-}
-*/
 
 .cart a {
 	background: rgba(102, 198, 47, 1);
@@ -224,7 +209,7 @@ body {
 
 #header > h1.main-title-f {
 	margin-top: 130px;
-	margin-left: 8%;
+	margin-left: 10%;
 }
 
 #header > h1.main-title-s {
@@ -232,31 +217,32 @@ body {
 }
 
 #header > h1.main-title-t {
+
 	margin-left: 24%;
-	padding-bottom: 20px;
+	margin-bottom: 0.37em;
 }
 
 
 /*--------------------advanced section ------------------------------*/
 
 .left {
+	box-sizing: border-box;
 	position: relative;
-	/*	max-height: 1116px;*/
+	width: 57.5%;
+	max-width: 1510px;
+	min-width: 30%;
+	height: auto;
 	display: block;
 	float: left;
-	box-sizing: border-box;
-	min-width: 30%;
-	max-width: 1510px;
-	width: 57.5%;
-	height: auto;
 	text-align: right;
 }
 
 .advantages {
-	display: inline-block;
-	box-sizing: border-box;
-	padding: 1.5em 0 3.656em;
 	width: 45%;
+	padding: 0 0 3.656em;
+	box-sizing: border-box;
+	display: inline-block;
+	margin-top: 1.5em;
 }
 
 .advantages li {
@@ -265,8 +251,8 @@ body {
 
 li.advantages-item-type {
 	color: #4d4545;
-	text-transform: uppercase;
 	font: 700 25.16px / 18.868px RobotoBold;
+	text-transform: uppercase;
 }
 
 li.advantages-item-type span {
@@ -275,54 +261,54 @@ li.advantages-item-type span {
 }
 
 .advantages-item-index {
-	margin: 5px 5px 20px;
 	color: #c49a6c;
 	font: 400 25.16px / 18.868px RobotoRegular;
+	margin: 5px 5px 20px;
 }
 
 li.advantages-item-type:before {
-	position: absolute;
-	top: -0.3em;
-	left: -2.5em;
+	content: " ";
 	width: 80%;
 	height: 80%;
 	background: url("../img/star.png") no-repeat;
 	background-size: contain;
-	content: " ";
+	position: absolute;
+	left: -2.5em;
+	top: -0.3em;
 }
 
 .bottle {
 	position: absolute;
-	top: -12%;
-	left: 20%;
 	width: 23%;
 	height: auto;
+	top: -8%;
+	left: 20%;
 }
 
 .advantage-add-info-title {
-	position: relative;
-	margin-left: 48%;
-	color: #25383f;
 	text-align: left;
-	text-transform: uppercase;
+	margin-left: 48%;
+	position: relative;
+	color: #25383f;
 	font: 700 42px / 48px RobotoRegular;
+	text-transform: uppercase;
 }
 
 .advantage-add-info-btn {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #000000;
+	font-size: 1.4em;
+	font-family: "RobotoBold";
+	text-align: center;
 	display: inline-block;
-	box-sizing: padding-box;
-	margin-top: 2%;
-	margin-right: 25%;
+	border: 0.2em solid black;
 	padding: 0.5em;
 	/*	width: 29%;*/
 	max-width: 462px;
-	border: 0.2em solid black;
-	color: #000000;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;
-	font-size: 1.4em;
-	font-family: "RobotoBold";
+	box-sizing: padding-box;
+	margin-top: 2%;
+	margin-right: 25%;
 }
 
 .advantage-add-info-btn:hover {
@@ -331,8 +317,8 @@ li.advantages-item-type:before {
 
 .advantage-add-info-left-text {
 	position: absolute;
-	bottom: 21%;
 	left: 35%;
+	bottom: 21%;
 }
 
 
@@ -340,47 +326,47 @@ li.advantages-item-type:before {
 
 .form-section {
 	position: relative;
+	box-sizing: border-box;
+	background: url(../img/form_bg.png) no-repeat;
+	background-size: cover;
+	width: 42.5%;
+	height: auto;
+	text-transform: uppercase;
+	max-width: 1114px;
 	/*	max-height: 1116px;*/
 	display: block;
 	float: right;
-	box-sizing: border-box;
-	max-width: 1114px;
-	width: 42.5%;
-	height: auto;
-	background: url(../img/form_bg.png) no-repeat;
-	background-size: cover;
 	text-align: center;
-	text-transform: uppercase;
 }
 
 .form-wrapper {
 	position: relative;
-	top: -14em;
-	left: 20%;
 	box-sizing: border-box;
-	padding: 1em;
+	width: 59%;
 	max-width: 667px;
 	max-height: 1238px;
-	width: 59%;
 	background: #E9E5E4;
+	top: -14em;
+	left: 17%;
+	padding: 1em;
 }
 
 .form hr {
-	max-width: 358px;
 	width: 53.7%;
-	outline: none;
+	max-width: 358px;
 	color: #DADADB;
+	outline: none;
 }
 
 .form {
 	/*	width: 91%;*/
 	box-sizing: border-box;
-	margin-right: auto;
-	margin-left: auto;
+	border-radius: 2px;
 	/*	padding: 5px;*/
 	border: 1px dashed #A7A9AC;
-	border-radius: 2px;
 	background: #EFEFEF;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 section.form-section > div > form > p:nth-child(4) {
@@ -389,35 +375,35 @@ section.form-section > div > form > p:nth-child(4) {
 
 .form input,
 .form select {
+	width: 78%;
+	max-width: 520px;
+	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 1.8em;
-	margin-left: auto;
-	padding-left: 0.5em;
-	max-width: 520px;
-	width: 78%;
 	height: 2.2em;
+	padding-left: 0.5em;
 }
 
 .form-item-title {
-	margin-bottom: 0.5em;
-	margin-left: 2.4em;
-	text-align: left;
 	text-transform: none;
+	text-align: left;
 	font-size: 0.9em;
+	margin-left: 2.4em;
+	margin-bottom: 0.5em;
 }
 
 .form-title {
-	padding: 5%;
 	font-size: 2em;
+	line-height: 1em;
 	font-family: "RobotoBold";
 	font-family: RobotoRegular;
-	line-height: 1em;
+	padding: 5%;
 }
 
 .form-title-1 {
-	margin-bottom: 1em;
 	font-weight: 300;
 	font-size: 1em;
+	margin-bottom: 1em;
 }
 
 .form-title-1 span {
