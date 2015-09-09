@@ -222,7 +222,12 @@ body {
 	margin-bottom: 0.37em;
 }
 
+.bottom {
+	width: 100%;
+	max-width: 2624px;
+	padding-top: 5%;
 
+}
 /*--------------------advanced section ------------------------------*/
 
 .left {
