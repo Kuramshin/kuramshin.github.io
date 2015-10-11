@@ -32,7 +32,7 @@ body {
 
 
 .header_topline {
-	background: url("../images/fon_top.jpg") repeat-x;
+	background: url("../images/fon_top.jpg") repeat-x !important;
 	height: 100%;
 	background-size: cover;
 }
@@ -71,7 +71,10 @@ body {
 	background: url("../images/phone.png") 2px 0 no-repeat;
 }
 
-.maian_mnu {
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+	background-color: #0078B0;}
+
+.maian_mnu, .main_menu, .dropdown-menu   {
 	background: rgb(0, 106, 167);
 	background: -moz-linear-gradient(270deg, rgb(0, 106, 167) 0%, rgb(0, 172, 211) 100%);
 	background: -webkit-linear-gradient(270deg, rgb(0, 106, 167) 0%, rgb(0, 172, 211) 100%);
@@ -83,13 +86,21 @@ body {
 	border-radius: 5px;
 }
 
-.maian_mnu li {
+.maian_mnu li  {
 	border-right: 1px solid grey;
 }
 
 
 .maian_mnu li:last-child {
 	border-right: none;
+}
+
+.main_menu a {
+	color: #fff !important;
+	text-transform: uppercase;
+	-webkit-transition: all .25s;
+	-o-transition: all .25s;
+	transition: all .25s;
 }
 .maian_mnu a {
 	color: #fff;
@@ -101,7 +112,7 @@ body {
 	-o-transition: all .25s;
 	transition: all .25s;
 }
-.maian_mnu a:hover {
+.maian_mnu a:hover, .main_menu a:hover {
 	background: rgb(0, 155, 206);
 	background: -moz-linear-gradient(270deg, rgb(0, 155, 206) 0%, rgb(0, 204, 233) 100%);
 	background: -webkit-linear-gradient(270deg, rgb(0, 155, 206) 0%, rgb(0, 204, 233) 100%);
