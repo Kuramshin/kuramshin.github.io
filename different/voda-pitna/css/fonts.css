@@ -38,3 +38,7 @@
 	font-style: normal;
 	font-weight: normal;
 }
+@font-face {
+	font-family: "Segoe UI";
+	src: url("../fonts/Segoeui/Segoeui.ttf");
+}
