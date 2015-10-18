@@ -136,7 +136,7 @@ body {
 	z-index: 12;
 }
 
-.sider_container img {
+.sider_container img, #carousel-example-generic > div > div > img {
 	width: 100%;
 }
 .sider_container {

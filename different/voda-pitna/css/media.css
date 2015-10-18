@@ -31,7 +31,16 @@
  }
  .slide_item img {width: 100%;}
 
+ .main_menu {
+  position: relative;
+  top: 0;
+  right: 0;
+  width: 100%;
+ }
+ .navbar-nav, nav, .navbar {margin-bottom: 0;}
+ .main_slider {margin-top: 30px; width: 100%; padding:0 !important; z-index: 555;}
 }
+
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
@@ -46,7 +55,8 @@
  }
 
  .slide_item img {width: 100%;}
-
+ .navbar-nav {z-index: 99999 !important; margin-bottom: 0;}
+ .header_topline {display: none;}
 }
 
 /* Custom, iPhone Retina */
