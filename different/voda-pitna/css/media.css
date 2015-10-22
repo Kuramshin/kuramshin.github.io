@@ -26,6 +26,13 @@
   width:80%;
  }
 
+ body > header > div.container > div.row.header_topline_row.hidden-lg.hidden-md > div.col-sm-12.col-xs-12.zakaz_1_click.zakaz_1_bottom > a > img {
+  width: 40%;
+ }
+ .zakaz_1_bottom img {
+  width: 40%;
+ }
+
  .zakaz_1_click img {
   width:80%;
  }
@@ -82,7 +89,7 @@
 
  .header_topline {background: none !important;}
 
- .little_phone_contact {position:absolute;z-index: 9999; color:white; top:4px; font-size: 14px; width:32%; left:50%;margin-left:-16%; }
+ .little_phone_contact {position:absolute;z-index: 9999; color:white; top:14px; font-size: 14px; width:32%; left:50%;margin-left:-16%; }
 }
 
 
