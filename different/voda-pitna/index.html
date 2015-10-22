@@ -12,7 +12,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="shortcut icon" href="images/logo.png" />
-	<link rel="stylesheet" href="libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
+	<!--<link rel="stylesheet" href="libs/bootstrap/bootstrap-grid-3.3.1.min.css" />-->
     <link rel="stylesheet" href="libs/bootstrap/bootstrap.min.css" />
 	<link rel="stylesheet" href="libs/font-awesome-4.2.0/css/font-awesome.min.css" />
 	<link rel="stylesheet" href="libs/fancybox/jquery.fancybox.css" />
@@ -26,69 +26,72 @@
 <header class="top_header">
     <div class="header_topline">
         <div class="container">
-            <div class="row header_topline_row">
-                <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs hidden-sm hidden-md logo_top"><a href="#"><img src="images/logo.png" alt="logo"/></a></div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 hidden-xs hidden-sm zakaz_1_click"><a href="#"><img src="images/zakaz2.png" alt="zakaz_one_ckick"/></a></div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 hidden-xs hidden-sm">
+            <div class="row header_topline_row top">
+                <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs   logo_top"><a href="#"><img src="images/logo.png" alt="logo"/></a></div>
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 hidden-xs  zakaz_1_click"><a href="#"><img src="images/zakaz2.png" alt="zakaz_one_ckick"/></a></div>
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 hidden-xs ">
                     <div class="top_contacts">
                         <div class="cw">Доставка воды по Киеву</div>
                         <div class="phone"><span>(044)</span><b>238-82-57</b></div>
                     </div>
                 </div>
             </div>
+
+            <!-- navbar start -->
+            <nav class="navbar navbar-default main_menu">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand hidden-lg hidden-md hidden-sm" href="#"><img src="images/logo.png" width="40%" style="margin-top: -10px;" alt=""/></a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">О нас<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">О Воде</a></li>
+                                    <li><a href="#">Статьи о воде</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Доставка<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">Вода на дом</a></li>
+                                    <li><a href="#">Вода в офис</a></li>
+                                    <li><a href="#">Вода в школу и сад</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Пункты продажи</a></li>
+                            <li><a href="#">Цены и акции</a></li>
+                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Оборудование<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">Кулеры</a></li>
+                                    <li><a href="#">Подставки</a></li>
+                                    <li><a href="#">Помпы</a></li>
+                                    <li><a href="#">Диспенсоры</a></li>
+                                    <li><a href="#">Аксесуары</a></li>
+                                    <li><a href="#">Аренда кулеров</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Контакты</a></li>
+                        </ul>
+
+                    </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
+            </nav>
+            <!-- navbar finish -->
+
         </div>
     </div>
     <div class="container">
-        <!-- navbar start -->
-        <nav class="navbar navbar-default main_menu">
-            <div class="container-fluid">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand hidden-lg hidden-md hidden-sm" href="#"><img src="images/logo.png" width="40%" style="margin-top: -10px;" alt=""/></a>
-                </div>
-
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <ul class="nav navbar-nav">
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">О нас<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">О Воде</a></li>
-                                <li><a href="#">Статьи о воде</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Доставка<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Вода на дом</a></li>
-                                <li><a href="#">Вода в офис</a></li>
-                                <li><a href="#">Вода в школу и сад</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Пункты продажи</a></li>
-                        <li><a href="#">Цены и акции</a></li>
-                        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Оборудование<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Кулеры</a></li>
-                                <li><a href="#">Подставки</a></li>
-                                <li><a href="#">Помпы</a></li>
-                                <li><a href="#">Диспенсоры</a></li>
-                                <li><a href="#">Аксесуары</a></li>
-                                <li><a href="#">Аренда кулеров</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Контакты</a></li>
-                    </ul>
-
-                </div><!-- /.navbar-collapse -->
-            </div><!-- /.container-fluid -->
-        </nav>
-        <!-- navbar finish -->
+<div class="row hidden-lg hidden-md hidden-sm"><div class=" col-xs-12 text-center little_phone_contact">Доставка воды по Киеву <br/>(044) 238-82-57</div></div>
         <!-- start slider-->
         <div class="row">
             <div class="col-md-8 col-lg-8">
@@ -114,7 +117,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-lg4 col-md-4 hidden-sm hidden-xs">
+            <div class="col-lg-4 col-md-4 hidden-sm hidden-xs">
                 <div class="row banners"><div class="col-md-4 col-sm-4 col-xs-4"><img class="col-md-offset-4" src="images/btn1.jpg" alt="вода в офис"/></div></div>
                 <div class="row banners"><div class="col-md-4 col-sm-4 col-xs-4"><img class="col-md-offset-4" src="images/btn2.jpg" alt="вода в офис"/></div></div>
                 <div class="row banners"><div class="col-md-4 col-sm-4 col-xs-4"><img class="col-md-offset-4" src="images/btn3.jpg" alt="вода в офис"/></div></div>
@@ -124,7 +127,7 @@
         <!--mobile view block start-->
         <div class="row header_topline_row hidden-lg hidden-md">
             <div class="col-sm-6 col-xs-12 zakaz_1_click"><a href="#"><img src="images/zakaz2.png" alt="zakaz_one_ckick"/></a></div>
-            <div class="col-sm-6 col-xs-12 hidden-xs hidden-sm">
+            <div class="col-sm-6 col-xs-12 hidden-xs"> <!-- hidden-sm -->
                 <div class="top_contacts">
                     <div class="cw">Доставка воды по Киеву</div>
                     <div class="phone"><span>(044)</span><b>238-82-57</b></div>

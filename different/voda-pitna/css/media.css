@@ -7,19 +7,53 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
-.zakaz_1_click {margin: 15px auto;}
- .top_contacts {color: #129AC7;}
 
- .maian_mnu ul {
-  background-color: #0071AB;
+.zakaz_1_click {margin: 15px auto;}
+
+ .cw, .phone {
+  color: grey !important;
+ }
+
+ .top_contacts {color: #129AC7; text-align: center; padding: 15px;}
+
+ .main_menu {margin-bottom: 0;}
+
+ /*.main_menu ul {
+  /*background-color: #0071AB;*/
+  /*color: white;*/
+  /*display: none;*/
+  /*position: absolute;*/
+  /*width: 100%;*/
+ /*}*/
+ /*.main_menu ul li {*/
+  /*display: block;*/
+ /*}*/
+ .header_topline_row .top {
   display: none;
-  position: absolute;
-  width: 100%;
+
  }
- .maian_mnu ul li {
-  display: block;
+ .header_topline_row {
+  padding: 0;
  }
+ /*.header_topline {background: none !important;}*/
+
+ .navbar-default .navbar-nav>li>a {
+  font-size: 12px;
+ }
+
+ .nav>li>a {
+  padding: 10px 14px;
+ }
+
+ .navbar-nav>li>a {
+  line-height: 28px;
+ }
+
 }
+
+
+
+
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
@@ -38,25 +72,37 @@
   width: 100%;
  }
  .navbar-nav, nav, .navbar {margin-bottom: 0;}
- .main_slider {margin-top: 30px; width: 100%; padding:0 !important; z-index: 555;}
+
+ .main_slider {width: 100%; padding:0 !important; z-index: 555;}
+
+ .header_topline {background: none !important;}
+
+ .little_phone_contact {position:absolute;z-index: 9999; color:white; top:4px; font-size: 14px; width:32%; left:50%;margin-left:-16%; }
 }
 
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
+
 .logo_top, .top_contacts {
  text-align: center;
 }
  .logo_top img, .top_contacts img, .zakaz_1_click img {
-  width: 100%;
+  width: 70%;
  }
  .cw, .phone {
   color: grey !important;
  }
 
  .slide_item img {width: 100%;}
+
  .navbar-nav {z-index: 99999 !important; margin-bottom: 0;}
- .header_topline {display: none;}
+
+ .header_topline_row .top {display: none;}
+
+ .header_topline {background: none;}
+
+ .little_phone_contact {width:50%; margin-left: -85px;}
 }
 
 /* Custom, iPhone Retina */

@@ -40,7 +40,7 @@ audio:not([controls]) {
 
 [hidden],
 template {
-    display: none
+    display: none;
 }
 
 a {
@@ -7629,11 +7629,11 @@ footer {
     color: #c8bdae
 }
 
-.recommendations-item {
-    background: url("http://terranet-themes.com/hireme/themes/default/img/hireme_recommend_bg.png") 2px 8px no-repeat;
-    padding: 0 10px 0 60px;
-    margin: 0 0 10px
-}
+/*.recommendations-item {*/
+    /*background: url("http://terranet-themes.com/hireme/themes/default/img/hireme_recommend_bg.png") 2px 8px no-repeat;*/
+    /*padding: 0 10px 0 60px;*/
+    /*margin: 0 0 10px*/
+/*}*/
 
 .recommendations-item p {
     font: normal 400 16px/26px "Quattrocento Sans", sans-serif;
@@ -8105,11 +8105,11 @@ footer {
     .recommendations h5 {
         line-height: 20px
     }
-    .recommendations .item {
-        background: url("http://terranet-themes.com/img/hireme_recommend_bg.png") 4px 8px no-repeat;
-        padding: 0 5px 0 50px;
-        margin: 0 0 20px
-    }
+    /*.recommendations .item {*/
+        /*background: url("http://terranet-themes.comterranet-themes.com/img/hireme_recommend_bg.png") 4px 8px no-repeat;*/
+        /*padding: 0 5px 0 50px;*/
+        /*margin: 0 0 20px*/
+    /*}*/
     .recommendations .item p {
         line-height: 20px
     }
@@ -8300,4 +8300,3 @@ footer {
 }
 
 
-/*# sourceMappingURL=hireme-1.0.0.css.map */

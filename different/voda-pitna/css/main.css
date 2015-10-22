@@ -121,6 +121,15 @@ body {
 	background: linear-gradient(0deg, rgb(0, 155, 206) 0%, rgb(0, 204, 233) 100%);
 
 }
+/*customization Bootstrap styles*/
+.dropdown-menu>li>a:hover {
+	background-color: inherit;
+}
+
+.navbar-brand:hover {
+
+    background: inherit !important;
+}
 .maian_mnu ul {
 	margin: 0;
 	padding: 0;
