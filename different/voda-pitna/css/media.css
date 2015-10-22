@@ -8,26 +8,31 @@
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
 
-.zakaz_1_click {margin: 15px auto;}
+.zakaz_1_click {margin: 15px auto; color: white;}
 
- .cw, .phone {
-  color: grey !important;
- }
+ /*.cw, .phone {*/
+  /*color: grey !important;*/
+ /*}*/
 
  .top_contacts {color: #129AC7; text-align: center; padding: 15px;}
 
  .main_menu {margin-bottom: 0;}
 
- /*.main_menu ul {
-  /*background-color: #0071AB;*/
-  /*color: white;*/
-  /*display: none;*/
-  /*position: absolute;*/
-  /*width: 100%;*/
- /*}*/
- /*.main_menu ul li {*/
-  /*display: block;*/
- /*}*/
+ .logo_top {
+  padding-top: 15px;
+ }
+
+ .logo_top img {
+  width:80%;
+ }
+
+ .zakaz_1_click img {
+  width:80%;
+ }
+
+ .top_contacts {
+  padding: 15px 0;
+ }
  .header_topline_row .top {
   display: none;
 
