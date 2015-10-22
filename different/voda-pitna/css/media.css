@@ -89,7 +89,7 @@
 
  .header_topline {background: none !important;}
 
- .little_phone_contact {position:absolute;z-index: 9999; color:white; top:14px; font-size: 14px; width:32%; left:50%;margin-left:-16%; }
+ .little_phone_contact {position:absolute;z-index: 9999; color:white !important; top:14px; font-size: 14px; width:30%; left:50%;margin-left:-16%; }
 }
 
 
