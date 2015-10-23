@@ -274,7 +274,7 @@ body {
     display: none;
 }
 .main_pop_item {
-    margin: 10px 5px;;
+    margin: 15px 10px 0 0 !important;
 }
 .main_pop_tytle {
     font-size: 18px;
