@@ -80,6 +80,11 @@ $(document).ready(function() {
 		$('#callback').fadeIn();
 		return false;
 	})
+	$('#open_pop_b').click(function(){
+		$('#pop_bg').fadeIn();
+		$('#callback').fadeIn();
+		return false;
+	})
 	$('#close_pop').click(function(){
 		$('#pop_bg').fadeOut();
 		$('#callback').fadeOut();

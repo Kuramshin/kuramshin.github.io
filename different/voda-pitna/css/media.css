@@ -72,6 +72,13 @@
  .cw, .phone {
   color: grey !important;
  }
+
+ #callback, .pop_form {
+  z-index: 99999 !important;
+  width:70%;
+  margin: 30px 15% 0;
+ }
+
  .top_contacts {
   text-align: center;
  }
@@ -102,6 +109,8 @@
 
  #callback, .pop_form {
   z-index: 99999 !important;
+  width:90%;
+  margin: 30px 5% 0;
  }
 
 .logo_top, .top_contacts {
