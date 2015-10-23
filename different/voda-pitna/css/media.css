@@ -89,12 +89,20 @@
 
  .header_topline {background: none !important;}
 
- .little_phone_contact {position:absolute;z-index: 9999; color:white !important; top:14px; font-size: 14px; width:30%; left:50%;margin-left:-16%; }
+ .little_phone_contact {position:absolute;z-index: 9997; color:white !important; top:14px; font-size: 14px; width:30%; left:50%;margin-left:-16%; }
 }
 
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
+
+ #pop_bg {
+  z-index:9998 !important;
+ }
+
+ #callback, .pop_form {
+  z-index: 99999 !important;
+ }
 
 .logo_top, .top_contacts {
  text-align: center;
@@ -108,7 +116,7 @@
 
  .slide_item img {width: 100%;}
 
- .navbar-nav {z-index: 99999 !important; margin-bottom: 0;}
+ .navbar-nav {z-index: 9995 !important; margin-bottom: 0;}
 
  .header_topline_row .top {display: none;}
 

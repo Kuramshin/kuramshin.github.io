@@ -28,7 +28,7 @@
         <div class="container">
             <div class="row header_topline_row top">
                 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs   logo_top"><a href="#"><img src="images/logo.png" alt="logo"/></a></div>
-                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 hidden-xs  zakaz_1_click"><a href="#"><img src="images/zakaz2.png" alt="zakaz_one_ckick"/></a></div>
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 hidden-xs  zakaz_1_click"><a href="#" id="open_pop"><img src="images/zakaz2.png" alt="zakaz_one_ckick"/></a></div>
                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 hidden-xs ">
                     <div class="top_contacts">
                         <div class="cw">Доставка воды по Киеву</div>
@@ -126,7 +126,7 @@
         <!--finish slider-->
         <!--mobile view block start-->
         <div class="row header_topline_row hidden-lg hidden-md hidden-sm">
-            <div class="col-sm-12 col-xs-12 zakaz_1_click zakaz_1_bottom"><a href="#"><img src="images/zakaz2.png" alt="zakaz_one_ckick"/></a></div>
+            <div class="col-sm-12 col-xs-12 zakaz_1_click zakaz_1_bottom"><a href="#" id="open_pop"><img src="images/zakaz2.png" alt="zakaz_one_ckick"/></a></div>
             <div class="col-sm-6 col-xs-12 hidden-sm hidden-xs"> <!-- hidden-sm -->
                 <div class="top_contacts">
                     <div class="cw">Доставка воды по Киеву</div>
@@ -245,13 +245,13 @@
         </div>
     </div>
 </footer>
-<div class="hidden">
-    <form id="callback" class="pop_form">
-        <h3>Заказать разработку</h3>
-        <input type="text" name="name" placeholder="Ваше имя..." required />
-        <input type="text" name="phone" placeholder="Ваше телефон..." required />
-        <button class="button" type="submit">Заказать</button>
-    </form>
+
+<div id="pop_bg"></div>
+<div id="callback" class="pop_form">
+    <span id="close_pop">&times;</span>
+    <h2 class="main_pop_tytle">Заказ Воды</h2>
+    <input class="main_pop_item" type="radio" name="client_type" value="Old_client" />Вы существующий клиент<br/>
+    <input class="main_pop_item" type="radio" name="client_type" value="New_client" />Вы новый клиент<br/>
 </div>
 	<!--[if lt IE 9]>
 	<script src="libs/html5shiv/es5-shim.min.js"></script>

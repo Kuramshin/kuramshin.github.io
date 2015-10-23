@@ -73,6 +73,23 @@ $(document).ready(function() {
 		return false;
 	});
 
+	//Попап
+
+	$('#open_pop').click(function(){
+		$('#pop_bg').fadeIn();
+		$('#callback').fadeIn();
+		return false;
+	})
+	$('#close_pop').click(function(){
+		$('#pop_bg').fadeOut();
+		$('#callback').fadeOut();
+		return false;
+	})
+
+
+
+
+
 	//Аякс отправка форм
 	//Документация: http://api.jquery.com/jquery.ajax/
 	$("#callback").submit(function() {
