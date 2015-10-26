@@ -28,7 +28,7 @@
         <div class="container">
             <div class="row header_topline_row top">
                 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs   logo_top"><a href="#"><img src="images/logo.png" alt="logo"/></a></div>
-                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 hidden-xs  zakaz_1_click"><a href="#" id="open_pop"><img src="images/zakaz2.png" alt="zakaz_one_ckick"/></a></div>
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 hidden-xs  zakaz_1_click"><a href="#" data-toggle="modal" data-target=".bs-example-modal-sm"><img src="images/zakaz2.png" alt="zakaz_one_ckick"/></a></div>
                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 hidden-xs ">
                     <div class="top_contacts">
                         <div class="cw">Доставка воды по Киеву</div>
@@ -246,12 +246,58 @@
     </div>
 </footer>
 
-<div id="pop_bg"></div>
-<div id="callback" class="pop_form">
-    <span id="close_pop">&times;</span>
-    <h2 class="main_pop_tytle">Заказ Воды</h2>
-    <input class="main_pop_item" type="radio" name="client_type" value="Old_client" />Вы существующий клиент<br/>
-    <input class="main_pop_item" type="radio" name="client_type" value="New_client" />Вы новый клиент<br/>
+<!--<div id="pop_bg"></div>-->
+<!--<div id="callback" class="pop_form">-->
+    <!--<span id="close_pop">&times;</span>-->
+    <!--<h2 class="main_pop_tytle">Заказ Воды</h2>-->
+    <!--<input class="main_pop_item" type="radio" name="client_type" value="Old_client" />Вы существующий клиент<br/>-->
+    <!--<input class="main_pop_item" type="radio" name="client_type" value="New_client" />Вы новый клиент<br/>-->
+<!--</div>-->
+<div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title" id="mySmallModalLabel">Заказ воды</h4>
+            </div>
+            <div class="modal-body">
+                <a class="btn btn-primary btn_2_click" role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="width:100%; margin:10px 0;">
+                    Я существующий клиент
+                </a>
+                <div class="collapse" id="collapseExample">
+                    <div class="well">
+                        <p style="text-align:left;">Укажите свой тел. номер и наш менеджер свяжется с Вами в ближайшее время</p>
+                        <p><input type="tel" class="form-control" placeholder="укажите телен" style="margin-bottom:20px;"></p>
+                        <p style="text-align:left; float:left; margin-bottom:15px; width:49%;"><img src="http://voda-pitna.com.ua/skin/voda/but.png" height="120" width="60" alt=""></p>
+                        <p style="float:right; text-align:right; width:49%;">Количество бутылей<input type="text" size="2" name="num" min="2" max="100" value="2" id="value_input_old_client" style="margin: 10px 0 10px 10px; padding:2px 5px;"></p>
+                        <p style="color:#ccc; font-weight:bold; text-align:right;">Всего&nbsp;&nbsp;<span class="sum" style="color:#c5da45; font-size:20px;"> 80грн.<span><p>
+					<p class="order_old_client_btn" style="margin-top:30px; text-align:right;"><button type="button" class="btn btn-primary" style="width:100%; background:#33B3EF; border-color:#33B3EF !important;">Сделать Заказать</button> </p>
+					<p style="color:grey; text-align:left;">*Минимальный заказ - 2 бутыля</p>
+                    </div>
+                </div>
+                <a class="btn btn-primary btn_2_click" role="button" data-toggle="collapse" href="#collapseExample_1" aria-expanded="false" aria-controls="collapseExample" style="width:100%; margin:10px 0;">
+                    Я первый раз заказываю
+                </a>
+                <div class="collapse" id="collapseExample_1">
+                    <div class="well">
+                        <p><a href="http://voda-pitna.com.ua/skidka-25-na-vodu-akciya-dlya-vseh.html">
+                            <div class="pop_img_item" style="text-align:left; float:left; width:30%;"><img src="http://voda-pitna.com.ua/skin/voda/but.png" height="120" width="60" alt=""></div>
+                            <div class="pop_text_item" style="float:right; text-align:right; width:70%; font-size:16px !important;">Скидка 25% на Воду Акция для всех!</div>
+                            <a href="http://voda-pitna.com.ua/dva-butlya-po-cene-odnogo.html" type="button" class="btn btn-primary" style="width:100%; margin:15px 0; background:#33B3EF; border-color:#33B3EF !important;">Сделать Заказать</a>
+                        </a></p>
+                        <p style="clear:both;"></p>
+                        <!-- <hr style="margin:5px 0; border-top:1px solid #C1BFBF !important;"> -->
+                        <p><a href="http://voda-pitna.com.ua/dva-butlya-po-cene-odnogo.html">
+                            <div class="pop_img_item" style="text-align:left; float:left; width:30%;"><img src="http://voda-pitna.com.ua/skin/voda/but.png" class="pop_img_item" height="120" width="60" alt=""></div>
+                            <div class="pop_text_item" style="float:right; text-align:right; width:70%; font-size:16px !important;">Два бутыля по цене одного</div>
+                            <a href="http://voda-pitna.com.ua/dva-butlya-po-cene-odnogo.html" type="button" class="btn btn-primary" style="width:100%; margin:15px 0; background:#33B3EF; border-color:#33B3EF !important;">Сделать Заказать</a>
+                        </a></p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 	<!--[if lt IE 9]>
 	<script src="libs/html5shiv/es5-shim.min.js"></script>
