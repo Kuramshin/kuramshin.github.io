@@ -111,4 +111,18 @@ $(document).ready(function() {
 		return false;
 	});
 
+	$("#value_input_old_client").keyup(function () {
+
+		var value = $(this).val();
+		if(parseInt(value) <2) {
+			value = 2;
+		}
+		else value = value;
+		var rez = +value*40;
+
+		$(".sum").text(rez);
+
+	}).keyup();
+
+
 });
