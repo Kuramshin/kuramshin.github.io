@@ -80,6 +80,7 @@
 .testimonials_item_c_name, .testimonials_item_c_type {
     color: #3070A8; font: italic 13px / 24px 'Trebuchet MS';
     margin-bottom: 5px;
+    margin-top: 5px;
 }
 
 .testimonials_item_c_name {float: left; margin-left: 32px;}
@@ -90,13 +91,14 @@
     clear: both;
     text-align: left;
     margin: 0 0 5px 32px;
-    padding: 5px;
-    padding-top: 10px;
+    padding: 10px;
+    /*padding-top: 10px;*/
     line-height: 20px;
     border-top: 1px dotted #666666;
     color: #666666;
     width: 330px;
     overflow: hidden;
+    box-sizing: border-box;
 }
 
 
