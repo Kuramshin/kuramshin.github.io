@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Bootstrap 101 Template</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- SmartMenus jQuery Bootstrap Addon CSS -->
+<link href="css/jquery.smartmenus.bootstrap" rel="stylesheet">
+    <link href="addons/bootstrap/jquery.smartmenus.bootstrap.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<style>
+	body {
+	background: black;
+        background:url(img/bg_iron_force_02.jpg) no-repeat center center fixed; 
+        background-size: cover;
+	
+	}
+.wrapper {	
+	
+	box-sizing: border-box;
+	height:720px;
+	background-origin: content-box;
+	background-position: center; 
+	  background-size:cover !important;
+	}
+	.top-menu, .top-menu_1  {
+	width:100%;
+	box-sizing:border-box;
+	margin:0 auto;
+	max-width:1600px;
+	height:80px;
+	background:#2E3337;}
+	
+	.top-menu-left_1 {
+	width:50%;
+	margin:0;
+	padding:5px 5px 5px 6%;
+	background:#315111; 
+	height:80px;
+	border-radius:0 40px 40px 0;
+	<!-- float:left; -->
+	}
+	
+	.top-menu-login-b, .top-menu-fuelback, .top-menu-login-b_1, .top-menu-fuelback_1 {
+	display:inline-block;
+	}
+	
+	.top-menu-login-b_1 {
+	 width: 82%; 
+	background: #1D251D url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
+	height:100%;
+	    padding: 16px;
+	
+	}
+
+	
+ .top-menu-fuelback_1 {
+    width: 64px;
+    height: 80%;
+    background: #1D251D url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
+    border-radius: 50%;
+    right: 8px;
+    top: 10%;
+    position: absolute;
+}
+	
+	.top-menu-fuelcircul {
+    width: 85%;
+    height: 85%;
+    border-radius: 50%;
+    border: 3px dashed #B2FE00;
+    padding: 10%;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+	.fuel_back_img {
+	
+     margin: 2px 5px; 
+   
+	}
+	
+	.top-menu-money-b, .top-menu-cart-b, .top-menu-chat-b {
+	display:inline-block;
+	}
+	
+.top-menu-right {
+    padding: 3px 10px;
+    text-align: right;
+}
+	.top-menu-cart-b, .top-menu-chat-b {
+	width: 55px;
+	height:55px;
+	border: 2px solid #424E1C;
+	<!-- float:right; -->
+	}
+	
+	.top-menu-cart-b {
+	margin:0 5px;
+	padding:5px;
+	}
+	
+	.fuel_back_img, .cart_img, .chat_img {
+	opacity:0.8;
+	}
+	.fuel_back_img:hover, .cart_img:hover, .chat_img:hover  {
+	opacity:1;
+	cursor:pointer;
+	
+	}
+	
+	.top-menu-chat-b:active, .top-menu-cart-b:active  {
+	box-shadow: 0 0 10px #E7EF00;
+	border:2px solid #C5CC00;
+        
+        
+	}
+	
+	.fuel_back_img:active   {
+	width:68%;
+	}
+	
+	.chat_img {
+	padding:5px;
+	}
+	
+	.cart_img:active {
+	width:98%;
+	}
+	.chat_img:active  {
+	width:98%;
+	
+	}
+	
+	.top-menu-money-b {
+	text-align:right;
+	padding-right:10px;
+	    position: relative;
+    top: 10px;
+	
+	}
+	
+	.money-txt {
+	color:#EBEBEB;
+	}
+	
+	.cristalls_img {
+	width:18%;
+	margin:2px;
+	}
+	
+	.dollars_img {
+	width:20%;
+	margin:2px;
+	}
+        .chevron-1, .chevron-2 {
+            color: #49630C !important;
+    font-size: 3em;
+   position: relative;
+        }
+        
+        .chevron-1 {
+            left:-35px;
+            
+        }
+        
+          .chevron-2 {
+            left:-55px;
+			  top:-46px;
+            
+        }
+        .pager {
+            display: inline-block;
+            float: left;
+            margin: 12px 0;
+            width: 20px;
+        }
+         .pager:hover .chevron  {
+            color: #98B837;
+        }
+        
+        .navbar-nav>li {
+            padding: 5px 0;
+        }
+        
+        .bottom-nav {
+            background: url(img/footer_bg.jpg) center center fixed; 
+			background-size: cover;
+        }
+        .navbar-nav>li>a {
+		font-stretch: extra-condensed !important;
+    padding-top: 30px ;
+    padding-bottom: 30px;
+                border: 2px solid #315111;
+            margin: 0 20px;
+    font-size: 1.5em;
+	    border-radius: 5px;
+}
+        .navbar-nav>li>a:hover {
+            background: #25430F !important;
+            color:#63E600 !important;
+            -webkit-transition: all 1s ease;
+
+    -moz-transition: all 1s ease;
+
+    -o-transition: all 1s ease;
+
+        } 
+        
+        .navbar-nav>li>a:active {
+          box-shadow: 0 0 10px #E7EF00;
+	border:2px solid #C5CC00;  
+            -webkit-transition: all 1s ease;
+
+    -moz-transition: all 1s ease;
+
+    -o-transition: all 1s ease;
+        }
+        .navbar-brand {
+    line-height: 30px;
+    padding: 30px 15px;
+            color:#25430F;
+                color: #94B62F;
+    font-size: 1.2em;
+        }
+        .glyphicon {
+            margin-right: 5px;
+            color:#315111;
+        }
+        
+        .navbar-nav>li>a:hover .glyphicon {
+            color: #9D9D9D;
+        }
+		
+		.btn-login, .btn-registration, .btn-chat {
+		background:#315111 !important;
+		color:#E8EBE2 !important;
+		border: 1px solid #315111 !important;
+		}
+		
+		.btn-registration {margin-left:20px;}
+		
+		.btn-chat {margin-bottom:20px;
+		padding:5px 20px;}
+		
+		.btn-chat:hover {
+		 background: #82B71F !important;
+            color:#A7D81A !important;
+			 -webkit-transition: all 0.3s ease;
+
+    -moz-transition: all 0.3s ease;
+
+    -o-transition: all 0.3s ease;
+			}
+			
+			.btn-chat:active {
+			box-shadow: 0 0 10px #E7EF00 !important;
+			}
+		
+		.btn-login:hover,  .btn-registration:hover {
+		background:#69963B !important;
+		} 
+		.btn-login:active,  .btn-registration:active {
+		background:#69963B !important;
+		box-shadow: 0 0 10px #E7EF00 !important;
+		}
+		
+		.well {background-color: rgba(46, 51, 55, 0.85);
+		color:#E8EBE2 !important;
+		    border: 1px solid #315111;
+		}
+		
+		.chat-body {
+		    min-height: 340px;
+    padding: 20px;
+    margin-top: 5px;
+    margin-right: -10px;
+		}
+		
+		.chat-btn-enter {
+		background:#315111 !important;
+		color:white !important;
+		border: 1px solid #315111 !important;
+		}
+		
+		.chat-btn-enter:hover {
+		background:#69963B;
+		border: 1px solid #69963B;
+		
+		}
+		
+		.chat-btn-enter:active {
+		box-shadow: 0 0 10px #E7EF00 !important;
+		}
+		
+		.chat-btn-enter:active {
+		border: 1px solid #69963B;
+		}
+		
+		
+	</style>
+  </head>
+  <body>
+  <div class="wrapper">
+	    <div class="top-menu_1 row">
+			<div class="top-menu-left_1 col-md-6 col-sm-6 col-xs-6">
+
+
+			<a href="#" class="pager ">
+			  <span class="glyphicon glyphicon-chevron-left chevron-1 chevron"></span><span class="glyphicon glyphicon-chevron-left chevron-2 chevron"></span>
+				</a>
+
+				<div class="top-menu-login-b_1 ">
+				
+		<a class="btn btn-primary btn-login" role="button" data-toggle="collapse" href="#collapseExample_1" aria-expanded="false" aria-controls="collapseExample_1">
+  Войти в учетную запись
+</a>
+
+<div class="collapse" id="collapseExample_1">
+  
+  <div class="well">
+    <form role="form">
+ <div class="form-group">
+  <label for="email">Email</label>
+  <input type="email" class="form-control" id="email" placeholder="Введите email">
+  </div>
+ <div class="form-group">
+  <label for="pass">Пароль</label>
+  <input type="password" class="form-control" id="pass" placeholder="Пароль">
+ </div>
+
+ <button type="submit" class="btn btn-login">Войти</button> <a type="submit" class="btn btn-registration">Зарегистрироваться</a>
+</form>
+
+  </div>
+
+</div>  
+				
+				
+				</div>
+				<div class="top-menu-fuelback_1 ">
+				
+					<div class="top-menu-fuelcircul">
+						<img src="img/fuel_back_light.png" class="fuel_back_img">
+					</div>
+					
+				</div>
+				
+			</div>
+			<div class="top-menu-right col-md-6 col-sm-6 col-xs-6">
+				<div class="top-menu-money-b">
+					<div><span class="money-txt">1,777,700</span> <img src="img/dollars.png" class="dollars_img"></div>
+					<div><span class="money-txt">2,500</span> <img src="img/cristalls.png" class="cristalls_img"></div>
+					
+				</div>
+				<div class="top-menu-cart-b">
+					<img src="img/cart.png" class="cart_img">
+				</div>
+				
+				<a class="btn" role="button" data-toggle="collapse" href="#collapseExample_2" aria-expanded="false" aria-controls="collapseExample_2">
+  
+
+				<div class="top-menu-chat-b">
+					<img src="img/chat.png" class="chat_img">
+				</div>
+				</a>
+				
+				<div class="collapse" id="collapseExample_2">
+					<div class="row">
+					<div class="col-lg-6 col-lg-offset-6 col-md-6 col-md-offset-6">
+						  <div class="well chat-body">
+						   <div class="row">
+							<div class="col-lg-12 col-sm-12">
+						   <a type="submit" class="btn btn-chat">МИР</a> <a type="submit" class="btn btn-chat">ЛЕГИОН</a> <a type="submit" class="btn btn-chat">ЖУРНАЛ</a> 
+							</div >
+							</div>
+						  <div class="row">
+						   <div class="col-lg-12">
+							<div class="input-group">
+							  <input type="text" class="form-control" placeholder="Ввести сообщение...">
+							  <span class="input-group-btn ">
+								<button class="btn btn-default chat-btn-enter" type="button"><span class="glyphicon glyphicon-bullhorn" style="color:white"></span></button>
+							  </span>
+							</div><!-- /input-group -->
+						  </div><!-- /.col-lg-6 -->
+						</div><!-- /.row -->
+						  </div>
+					</div>
+					</div>	  
+				</div>
+				
+			</div>
+			
+			
+	  </div>
+	  
+	  <div class="footer">
+	      
+	      <!-- Static navbar -->
+<div class="navbar navbar-default navbar-fixed-bottom navbar-inverse bottom-nav" role="navigation">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+	  <span class="icon-bar"></span>
+    </button>
+    <!-- <a class="navbar-brand" href="#"><b>IRON FORCE <span style="">SHOP</span></b></a> -->
+  </div>
+  <div class="navbar-collapse collapse">
+
+    <!-- Left nav -->
+    <ul class="nav navbar-nav">
+      <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> КУПИТЬ</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-gift"></span> ПРОДАТЬ</a></li>
+      
+      <li><a href="#" class="dropup"><span class="glyphicon glyphicon-list-alt"></span> ПРОЧИЕ УСЛУГИ</a>
+<!--
+        <ul class="dropdown-menu">
+          <li><a href="#">УСЛУГА 1</a></li><span class="caret"></span>
+          <li><a href="#">УСЛУГА 2</a></li>
+          <li><a href="#">УСЛУГА 3</a></li>
+            
+         
+        </ul>
+-->
+      </li>
+      <li><a href="#"><span class="glyphicon glyphicon-star"></span>ОТЗЫВЫ</a></li>
+
+        <li><a href="#"><span class="glyphicon glyphicon-envelope"></span>  КОНТАКТЫ</a></li>
+    </ul>
+
+    
+
+
+  </div><!--/.nav-collapse -->
+</div>
+	      
+	  </div>
+ 
+</div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    
+    <!-- SmartMenus jQuery plugin -->
+<script type="text/javascript" src="js/jquery.smartmenus"></script>
+
+<!-- SmartMenus jQuery Bootstrap Addon -->
+<script type="text/javascript" src="js/jquery.smartmenus.bootstrap"></script>
+
+  </body>
+</html>

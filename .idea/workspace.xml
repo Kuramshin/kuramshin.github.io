@@ -2,29 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka/img/knopka.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka/img/knopka.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka/knoka.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/commercial15.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/Kuramshin_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_11.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_12.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_orange_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_orange_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_orange_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_orange_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/knopka_orange_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/img/система.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffrent/aps/knopka_1/knoka.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/bg_iron_force_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/bg_iron_force_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/body_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/cart_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/cart_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/chat_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/cristall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/cristalls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/dollars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/footer_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/fuel_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/fuel_back_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/maket.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advanced/class/lesson8/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/addons/bootstrap/jquery.smartmenus.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/addons/bootstrap/jquery.smartmenus.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/addons/bootstrap/jquery.smartmenus.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/css/jquery.smartmenus.bootstrap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/js/jquery.smartmenus.bootstrap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/addons/keyboard/jquery.smartmenus.keyboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/addons/keyboard/jquery.smartmenus.keyboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/js/jquery.smartmenus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advanced/class/lesson8/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/js/npm.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csscomb.js-master/config/csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csscomb.js-master/config/yandex.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csscomb.js-master/config/zen.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csscomb.js-master/package.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
+    <list id="7acdbf66-57b5-4e7e-bbaf-00fc34713f5c" name="Rejected commit: Default" comment="new" />
     <ignored path="kuramshin.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +69,48 @@
     <favorites_list name="kuramshin.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanced/class/lesson8/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testimonials.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/markup/project1/blocks/testimonials.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="101" column="1" selection-start-line="101" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4768786">
+              <caret line="329" column="0" selection-start-line="329" selection-start-column="0" selection-end-line="329" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/markup/project1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,6 +123,7 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -71,18 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/markup/project2/index.html" />
-        <option value="$PROJECT_DIR$/markup/project2/blocks/footer.css" />
-        <option value="$PROJECT_DIR$/js/home/lesson1/task1.js" />
-        <option value="$PROJECT_DIR$/js/home/lesson1/task2.html" />
-        <option value="$PROJECT_DIR$/js/home/lesson1/task1.html" />
-        <option value="$PROJECT_DIR$/js/home/lesson2/task2.html" />
-        <option value="$PROJECT_DIR$/js/home/lesson2/task1.html" />
-        <option value="$PROJECT_DIR$/js/home/lesson2/task3.html" />
-        <option value="$PROJECT_DIR$/js/home/lesson2/task4.html" />
-        <option value="$PROJECT_DIR$/js/home/lesson2/task5.html" />
-        <option value="$PROJECT_DIR$/js/class/lesson3/task2.html" />
-        <option value="$PROJECT_DIR$/js/class/lesson3/task5.html" />
         <option value="$PROJECT_DIR$/js/class/lesson3/task4.html" />
         <option value="$PROJECT_DIR$/js/class/lesson3/task6.html" />
         <option value="$PROJECT_DIR$/js/class/lesson3/task7.html" />
@@ -122,6 +178,18 @@
         <option value="$PROJECT_DIR$/aboutme/hover_efect_set_1.css" />
         <option value="$PROJECT_DIR$/aboutme/css/hover_portfolio.css" />
         <option value="$PROJECT_DIR$/aboutme/index.html" />
+        <option value="$PROJECT_DIR$/different/voda-pitna/css/fonts.css" />
+        <option value="$PROJECT_DIR$/different/voda-pitna/libs/bootstrap/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/different/about_me_new/js/hireme-1.0.0.js" />
+        <option value="$PROJECT_DIR$/different/about_me_new/css/hireme-1.0.0.css" />
+        <option value="$PROJECT_DIR$/different/voda-pitna/popup.html" />
+        <option value="$PROJECT_DIR$/different/voda-pitna/css/main.css" />
+        <option value="$PROJECT_DIR$/different/voda-pitna/css/media.css" />
+        <option value="$PROJECT_DIR$/different/voda-pitna/js/common.js" />
+        <option value="$PROJECT_DIR$/different/voda-pitna/index.html" />
+        <option value="$PROJECT_DIR$/advanced/class/lesson8/index.html" />
+        <option value="$PROJECT_DIR$/markup/project1/blocks/testimonials.css" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/index.html" />
       </list>
     </option>
   </component>
@@ -133,10 +201,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="-4" />
-    <option name="width" value="1227" />
-    <option name="height" value="804" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -161,6 +228,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -180,15 +248,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="different" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="different" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iron-force" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Загрузки/accesspress-lite/index.php" />
+    <property name="last_opened_file_path" value="/usr/local/git/bin/git" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -223,11 +326,11 @@
       <recent name="$PROJECT_DIR$/markup/home/lesson10/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/aboutme/css" />
-      <recent name="$PROJECT_DIR$/js/home/lesson3" />
-      <recent name="$PROJECT_DIR$/markup/project1" />
-      <recent name="$PROJECT_DIR$/markup/home/lesson6" />
-      <recent name="$PROJECT_DIR$/markup/home/lesson2" />
+      <recent name="$PROJECT_DIR$/different/voda-pitna" />
+      <recent name="$PROJECT_DIR$/different" />
+      <recent name="$PROJECT_DIR$/different/about_me_new" />
+      <recent name="$PROJECT_DIR$/advanced/home" />
+      <recent name="$PROJECT_DIR$/different/voda-pitna/fonts" />
     </key>
   </component>
   <component name="RunManager">
@@ -281,156 +384,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00070" summary="hw11">
-      <created>1431411873447</created>
-      <option name="number" value="00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1431411873464</updated>
-    </task>
-    <task id="LOCAL-00071" summary="hw10">
-      <created>1431448804667</created>
-      <option name="number" value="00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1431448804667</updated>
-    </task>
-    <task id="LOCAL-00072" summary="hw11 correct css">
-      <created>1431509318219</created>
-      <option name="number" value="00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1431509318220</updated>
-    </task>
-    <task id="LOCAL-00073" summary="css correct">
-      <created>1431515269403</created>
-      <option name="number" value="00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1431515269403</updated>
-    </task>
-    <task id="LOCAL-00074" summary="css correct">
-      <created>1431515379581</created>
-      <option name="number" value="00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1431515379581</updated>
-    </task>
-    <task id="LOCAL-00075" summary="css correct">
-      <created>1431528484913</created>
-      <option name="number" value="00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1431528484943</updated>
-    </task>
-    <task id="LOCAL-00076" summary="css correct">
-      <created>1431530068024</created>
-      <option name="number" value="00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1431530068024</updated>
-    </task>
-    <task id="LOCAL-00077" summary="css correct">
-      <created>1432329162758</created>
-      <option name="number" value="00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1432329162780</updated>
-    </task>
-    <task id="LOCAL-00078" summary="css correct">
-      <created>1432504534782</created>
-      <option name="number" value="00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1432504534812</updated>
-    </task>
-    <task id="LOCAL-00079" summary="css correct">
-      <created>1432507365725</created>
-      <option name="number" value="00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1432507365725</updated>
-    </task>
-    <task id="LOCAL-00080" summary="css correct">
-      <created>1432507551237</created>
-      <option name="number" value="00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1432507551237</updated>
-    </task>
-    <task id="LOCAL-00081" summary="css correct">
-      <created>1432524417412</created>
-      <option name="number" value="00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1432524417448</updated>
-    </task>
-    <task id="LOCAL-00082" summary="css correct">
-      <created>1432535523151</created>
-      <option name="number" value="00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1432535523164</updated>
-    </task>
-    <task id="LOCAL-00083" summary="css correct">
-      <created>1432542430458</created>
-      <option name="number" value="00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1432542430458</updated>
-    </task>
-    <task id="LOCAL-00084" summary="css correct">
-      <created>1432543768391</created>
-      <option name="number" value="00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1432543768392</updated>
-    </task>
-    <task id="LOCAL-00085" summary="css correct">
-      <created>1432544609854</created>
-      <option name="number" value="00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1432544609854</updated>
-    </task>
-    <task id="LOCAL-00086" summary="css correct">
-      <created>1432545374410</created>
-      <option name="number" value="00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1432545374410</updated>
-    </task>
-    <task id="LOCAL-00087" summary="css correct">
-      <created>1432546572881</created>
-      <option name="number" value="00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1432546572889</updated>
-    </task>
-    <task id="LOCAL-00088" summary="css correct">
-      <created>1432548168153</created>
-      <option name="number" value="00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1432548168153</updated>
-    </task>
-    <task id="LOCAL-00089" summary="css correct">
-      <created>1432818340890</created>
-      <option name="number" value="00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1432818340907</updated>
-    </task>
-    <task id="LOCAL-00090" summary="css correct">
-      <created>1432818780202</created>
-      <option name="number" value="00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1432818780202</updated>
-    </task>
-    <task id="LOCAL-00091" summary="css correct">
-      <created>1432843274167</created>
-      <option name="number" value="00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1432843274180</updated>
-    </task>
-    <task id="LOCAL-00092" summary="css correct">
-      <created>1432844395162</created>
-      <option name="number" value="00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1432844395163</updated>
-    </task>
-    <task id="LOCAL-00093" summary="css correct">
-      <created>1432845577598</created>
-      <option name="number" value="00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1432845577598</updated>
-    </task>
-    <task id="LOCAL-00094" summary="css correct">
-      <created>1432845891041</created>
-      <option name="number" value="00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1432845891042</updated>
     </task>
     <task id="LOCAL-00095" summary="css correct">
       <created>1432846041040</created>
@@ -576,31 +529,181 @@
       <option name="project" value="LOCAL" />
       <updated>1435385261178</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="new">
+      <created>1444601435227</created>
+      <option name="number" value="00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1444601435231</updated>
+    </task>
+    <task id="LOCAL-00120" summary="upd">
+      <created>1444606628528</created>
+      <option name="number" value="00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1444606628531</updated>
+    </task>
+    <task id="LOCAL-00121" summary="upd">
+      <created>1444629431050</created>
+      <option name="number" value="00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1444629431050</updated>
+    </task>
+    <task id="LOCAL-00122" summary="upd">
+      <created>1444632926212</created>
+      <option name="number" value="00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1444632926212</updated>
+    </task>
+    <task id="LOCAL-00123" summary="upd">
+      <created>1444684959489</created>
+      <option name="number" value="00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1444684959490</updated>
+    </task>
+    <task id="LOCAL-00124" summary="upd">
+      <created>1445172771794</created>
+      <option name="number" value="00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1445172771795</updated>
+    </task>
+    <task id="LOCAL-00125" summary="upd">
+      <created>1445172975316</created>
+      <option name="number" value="00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1445172975316</updated>
+    </task>
+    <task id="LOCAL-00126" summary="upd">
+      <created>1445173063117</created>
+      <option name="number" value="00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1445173063117</updated>
+    </task>
+    <task id="LOCAL-00127" summary="upd">
+      <created>1445173402135</created>
+      <option name="number" value="00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1445173402135</updated>
+    </task>
+    <task id="LOCAL-00128" summary="upd">
+      <created>1445173725877</created>
+      <option name="number" value="00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1445173725877</updated>
+    </task>
+    <task id="LOCAL-00129" summary="upd">
+      <created>1445174532955</created>
+      <option name="number" value="00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1445174532955</updated>
+    </task>
+    <task id="LOCAL-00130" summary="upd">
+      <created>1445496032481</created>
+      <option name="number" value="00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1445496032484</updated>
+    </task>
+    <task id="LOCAL-00131" summary="upd">
+      <created>1445496546812</created>
+      <option name="number" value="00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1445496546813</updated>
+    </task>
+    <task id="LOCAL-00132" summary="upd">
+      <created>1445505872917</created>
+      <option name="number" value="00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1445505872918</updated>
+    </task>
+    <task id="LOCAL-00133" summary="upd">
+      <created>1445506327336</created>
+      <option name="number" value="00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1445506327336</updated>
+    </task>
+    <task id="LOCAL-00134" summary="popup added">
+      <created>1445578355330</created>
+      <option name="number" value="00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1445578355330</updated>
+    </task>
+    <task id="LOCAL-00135" summary="popup bugfixing">
+      <created>1445578969018</created>
+      <option name="number" value="00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1445578969018</updated>
+    </task>
+    <task id="LOCAL-00136" summary="popup bugfixing">
+      <created>1445579146055</created>
+      <option name="number" value="00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1445579146055</updated>
+    </task>
+    <task id="LOCAL-00137" summary="popup bugfixing">
+      <created>1445580161824</created>
+      <option name="number" value="00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1445580161824</updated>
+    </task>
+    <task id="LOCAL-00138" summary="popup bugfixing">
+      <created>1445864258453</created>
+      <option name="number" value="00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1445864258453</updated>
+    </task>
+    <task id="LOCAL-00139" summary="popup bugfixing">
+      <created>1445864527296</created>
+      <option name="number" value="00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1445864527296</updated>
+    </task>
+    <task id="LOCAL-00140" summary="popup bugfixing">
+      <created>1445864703621</created>
+      <option name="number" value="00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1445864703622</updated>
+    </task>
+    <task id="LOCAL-00141" summary="popup bugfixing">
+      <created>1445864934625</created>
+      <option name="number" value="00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1445864934625</updated>
+    </task>
+    <task id="LOCAL-00142" summary="popup bugfixing">
+      <created>1445865218957</created>
+      <option name="number" value="00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1445865218957</updated>
+    </task>
+    <task id="LOCAL-00143" summary="testimonial bug fixing">
+      <created>1446414217428</created>
+      <option name="number" value="00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1446414217431</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="-4" width="1227" height="804" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21841891" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.5028525" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32707775" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32841823" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -618,9 +721,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21841891" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -635,10 +738,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hw 4 menu1 start" />
-    <MESSAGE value="hw4 menu1" />
-    <MESSAGE value="hw4 menu2 start" />
-    <MESSAGE value="hw5.1" />
     <MESSAGE value="CSS problem is fixed" />
     <MESSAGE value="pager complete" />
     <MESSAGE value="lesson 5 task2" />
@@ -660,361 +759,323 @@
     <MESSAGE value="hw3" />
     <MESSAGE value="hw" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="upd" />
+    <MESSAGE value="popup added" />
+    <MESSAGE value="popup bugfixing" />
+    <MESSAGE value="testimonial bug fixing" />
+    <option name="LAST_COMMIT_MESSAGE" value="testimonial bug fixing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aboutme/css/hover_portfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson1/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33436534">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson3/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58513933">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson3/task4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19504644">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson2/task1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.083591335">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson2/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27863777">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson2/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.91950464">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8637771">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson2/task5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44582042">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson2/task4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39009288">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.666667">
-          <caret line="13" column="0" selection-start-line="8" selection-start-column="3" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.333333">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.333333">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson3/task7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33436534">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson3/task6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55727553">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson3/task5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22291021">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson4/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson4/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33436534">
-          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson4/task1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5294118">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson3/task5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41795665">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson4/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44582042">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson4/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55727553">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson4/task1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.250774">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson4/task1_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5294118">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.333333">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.333333">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39009288">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39009288">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44582042">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3622291">
-          <caret line="13" column="5" selection-start-line="11" selection-start-column="3" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson5/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58513933">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson5/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22291021">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson5/task1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.4814816">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home/lesson5/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.37037">
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson6/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6130031">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson6/task1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34520122">
-          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson6/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47368422">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/class/lesson7/task1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27863777">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/img/02.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/img/03.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/css/responsive.css">
+    <entry file="file://$PROJECT_DIR$/js/class/lesson21/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/mail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.766716">
-          <caret line="58" column="10" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08411215">
-          <caret line="3" column="54" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="22" column="3" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.25926">
-          <caret line="36" column="6" selection-start-line="11" selection-start-column="0" selection-end-line="36" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/img/09.jpg">
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/baner2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/css/hover_portfolio.css">
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/baner3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/basket.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/btn1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/btn2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/btn3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/call_icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/fon_footer.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/fon_top.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/gradient.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/icon_19.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/phone.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/news.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/razd.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/regionSelector-cancelButton.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/regionSelector-imageButton.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/zakaz2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/css/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Загрузки/accesspress-lite/index.php">
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/navbut.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/menus.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/Banner1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/banner2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/menu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/images/bullet.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/libs/bootstrap/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/index.html">
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/libs/bootstrap/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3918723">
+          <caret line="5" column="2611" selection-start-line="5" selection-start-column="2611" selection-end-line="5" selection-end-column="2611" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/home/Cart_local_Storage/assets/js/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18854749">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/about_me_new/skills.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.040601503">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/about_me_new/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.040601503">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/about_me_new/curriculum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.018045112">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/about_me_new/img/close-btn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/about_me_new/css/hireme-1.0.0.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="131.25545">
+          <caret line="6029" column="0" selection-start-line="6029" selection-start-column="0" selection-end-line="6029" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/about_me_new/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="273" column="39" selection-start-line="273" selection-start-column="39" selection-end-line="273" selection-end-column="39" />
+          <caret line="148" column="6" selection-start-line="148" selection-start-column="6" selection-end-line="148" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/about_me_new/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/about_me_new/data/desaturate.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/about_me_new/js/hireme-1.0.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6857542">
+          <caret line="4430" column="15" selection-start-line="4430" selection-start-column="15" selection-end-line="4430" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/aboutme/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7398844">
+          <caret line="75" column="25" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6516691">
+          <caret line="286" column="23" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/css/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24581006">
+          <caret line="123" column="25" selection-start-line="123" selection-start-column="25" selection-end-line="123" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77374303">
+          <caret line="118" column="9" selection-start-line="118" selection-start-column="9" selection-end-line="118" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/voda-pitna/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20520231">
+          <caret line="87" column="18" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/class/lesson8/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1950867">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/class/lesson8/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markup/project1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markup/project1/blocks/testimonials.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="101" column="1" selection-start-line="101" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4768786">
+          <caret line="329" column="0" selection-start-line="329" selection-start-column="0" selection-end-line="329" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
