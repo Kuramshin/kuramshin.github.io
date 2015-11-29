@@ -47,7 +47,7 @@ body {
     height: 100%;
     padding: 16px;
 }
-
+/*
 .top-menu-fuelback_1 {
     width: 64px;
     height: 80%;
@@ -57,7 +57,23 @@ body {
     top: 10%;
     position: absolute;
 }
+*/
+.top-menu-fuelback_1 {
+    width: 65px;
+    height: 65px;
+    background: #1D251D url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
+    border-radius: 50%;
+    right: 7px;
+    top: 7px;
+    position: absolute;
+}
 
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/*
 .top-menu-fuelcircul {
     width: 85%;
     height: 85%;
@@ -67,12 +83,49 @@ body {
     position: absolute;
     right: 5px;
     top: 5px;
+
+}*/
+
+.top-menu-fuelcircul {
+    width: 75%;
+    height: 75%;
+    border-radius: 50%;
+    border: 3px dashed #B2FE00;
+    padding: 10%;
+    position: absolute;
+    right: 8px;
+    top: 8px;
+}
+
+.top-menu-fuelcircul_move {
+    width: 130%;
+    height: 130%;
+    border-radius: 50%;
+    border: 1px dashed yellow;
+    padding: 10%;
+    position: absolute;
+    right: -7px;
+    top: -7px;
+   display: none;
+}
+
+.top-menu-fuelcircul:hover  .top-menu-fuelcircul_move {
+    display: block;
+    animation-name: spin;
+    animation-duration: 5000ms; /* 40 seconds */
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+
 }
 
 .fuel_back_img {
+    margin: 0px 2px;
+}
+/*
+.fuel_back_img {
     margin: 2px 5px;
 }
-
+*/
 .top-menu-money-b,
 .top-menu-cart-b,
 .top-menu-chat-b {

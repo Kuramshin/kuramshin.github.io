@@ -69,6 +69,11 @@
         width: 92% !important;
     }
 
+    .chevron-1,
+    .chevron-2 {
+
+        font-size: 2.7em;}
+
 }
 
 /* Custom, iPhone Retina */
