@@ -63,6 +63,11 @@
         display: inline !important;
         left:-80px;
     }
+    .btn-login, .btn-registration {
+        display: block;
+        margin: 10px;
+        width: 92% !important;
+    }
 
 }
 
