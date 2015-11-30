@@ -231,9 +231,10 @@ body {
     float: left;
     margin: 12px 0;
     width: 20px;
+    text-decoration: none !important;
 }
 
-.pager:hover .chevron {
+a.pager:hover .chevron {
     color: #98B837;
 }
 
