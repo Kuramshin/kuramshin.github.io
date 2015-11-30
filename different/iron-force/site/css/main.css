@@ -265,17 +265,18 @@ body {
 .navbar-nav>li>a:hover {
     background: #25430F !important;
     color: #63E600 !important;
-    -webkit-transition: all 1s ease;
-    -moz-transition: all 1s ease;
-    -o-transition: all 1s ease;
+    -webkit-transition: all 0.75s ease;
+    -moz-transition: all 0.75s ease;
+    -o-transition: all 0.75s ease;
+    border: 2px solid #5C8C2B;
 }
 
 .navbar-nav>li>a:active {
     box-shadow: 0 0 10px #E7EF00;
     border: 2px solid #C5CC00;
-    -webkit-transition: all 1s ease;
-    -moz-transition: all 1s ease;
-    -o-transition: all 1s ease;
+    -webkit-transition: all 0.75s ease;
+    -moz-transition: all 0.75s ease;
+    -o-transition: all 0.75s ease;
 }
 
 .navbar-brand {
@@ -345,7 +346,7 @@ body {
     min-height: 340px;
     padding: 20px;
     margin-top: 5px;
-    margin-right: -10px;
+
 }
 
 .chat-btn-enter {
