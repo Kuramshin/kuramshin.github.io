@@ -101,7 +101,9 @@ body {
     width: 130%;
     height: 130%;
     border-radius: 50%;
-    border: 1px dashed yellow;
+    border: 2px dotted yellow;
+    border-top-color: black;
+    border-right-color: black;
     padding: 10%;
     position: absolute;
     right: -7px;
@@ -152,13 +154,13 @@ body {
 
 .fuel_back_img,
 .cart_img,
-.chat_img {
+.chat_img, .cristalls_img, .dollars_img {
     opacity: 0.8;
 }
 
 .fuel_back_img:hover,
 .cart_img:hover,
-.chat_img:hover {
+.chat_img:hover, .cristalls_img:hover, .dollars_img:hover {
     opacity: 1;
     cursor: pointer;
 }
@@ -362,4 +364,146 @@ body {
 
 .chat-btn-enter:active {
     border: 1px solid #69963B;
+}
+
+/* Animation properties */
+.star {
+    animation: star 10s ease;
+}
+.wars {
+    animation: wars 10s ease;
+}
+.byline span {
+    animation: spin-letters 10s linear;
+}
+.byline {
+    animation: move-byline 10s linear;
+}
+
+/* Keyframes */
+@keyframes star {
+    0% {
+        opacity: 0;
+        transform: scale(1.5) translateY(-0.75em);
+    }
+    20% {
+        opacity: 1;
+    }
+    89% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    100% {
+        opacity: 0.9;
+
+    }
+}
+
+@keyframes wars {
+    0% {
+        opacity: 0;
+        transform: scale(1.5) translateY(0.5em);
+    }
+    20% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    100% {
+        opacity: 0.9;
+
+    }
+}
+
+@keyframes spin-letters {
+    0%, 10% {
+        opacity: 0;
+        transform: rotateY(90deg);
+    }
+    30% {
+        opacity: 1;
+    }
+    70%, 86% {
+        transform: rotateY(0);
+        opacity: 1;
+    }
+    95%, 100% {
+        opacity: 0.9;
+    }
+}
+
+@keyframes move-byline {
+    0% {
+        transform: translateZ(5em);
+    }
+    100% {
+        transform: translateZ(0);
+    }
+}
+
+/* Make the 3D work on the container */
+.starwars-demo {
+    perspective: 800px;
+    transform-style: preserve3d;
+    display: none;
+}
+
+/* General styles and layout */
+
+
+.starwars-demo {
+    height: 17em;
+    left: 50%;
+    position: absolute;
+    top: 53%;
+    transform: translate(-50%, -50%);
+    width: 34em;
+}
+
+.byline span {
+    display: inline-block;
+}
+
+#img-logo-anime, #img-logo-anime_1 {
+    width: 100% !important;
+}
+
+.star, .wars, .byline {
+    position: absolute;
+}
+
+.star {
+    top: -0.75em;
+}
+
+.wars {
+    bottom: -0.5em;
+}
+
+.byline {
+    color: #fff;
+    font-family: "ITC Serif Gothic", Lato;
+    font-size: 2.25em;
+    left: -2em;
+    letter-spacing: 0.4em;
+    right: -2em;
+    text-align: center;
+    text-transform: uppercase;
+    top: 29%;
+}
+
+/*** Media queries for adjusting to different screen sizes ***/
+
+@media only screen and (max-width: 600px) {
+    .starwars-demo {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .starwars-demo {
+        font-size: 7px;
+    }
 }
