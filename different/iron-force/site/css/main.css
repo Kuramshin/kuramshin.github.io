@@ -239,8 +239,12 @@ body {
     text-decoration: none !important;
 }
 
-.pager:hover .chevron {
-    color: #98B837;
+  .pager:hover .chevron-1 {
+    color: #98B837 !important;
+}
+
+.pager:hover .chevron-2 {
+    color: #98B837 !important;
 }
 
 .navbar-nav>li {
