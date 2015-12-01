@@ -44,24 +44,54 @@
 
     .top-menu-left_1 {
         z-index: 555 !important;
-        width: 45%;
+        width: 50%;
     }
     .top-menu-right {
 
-        width: 55%;
+        width: 50%;
     }
 }
 
 @media only screen and (max-width : 650px) {
     .top-menu-left_1 {
         z-index: 555 !important;
-        width: 100%;
+
     }
     .top-menu-right {
-        background: rgba(0, 0, 0, 0.7) !important;
-        width: 100%;
+       /* background: rgba(0, 0, 0, 0.7) !important;*/
+        padding: 0;
+
     }
 
+    .btn-chat-a {padding: 0;}
+
+    span.money-txt {font-size: 12px;}
+
+    img.cart_img {width: 25px !important;}
+    img.chat_img {width: 36px !important;}
+    img.dollars_img {width: 30px !important;}
+    img.cristalls_img {width: 30px !important;}
+
+    .top-menu-cart-b, .top-menu-chat-b {
+        width: auto;
+        height: auto;
+
+    }
+    .top-menu-chat-b {margin: 0 5px 0 0;}
+    .top-menu-cart-b {  margin: 0 2px;}
+
+    .top-menu-money-b {
+
+        padding-right: 0px !important;
+
+    }
+
+    .btn-login {
+        margin: 0 !important;
+    }
+.btn-registration {
+    margin: 10px 0 !important;
+}
 }
 
 /* Extra Small Devices, Phones */
@@ -87,8 +117,8 @@
 
         font-size: 2.7em;}
 
-    .login-box {width: 120%;
-    margin: 0 -20px;}
+    .login-box {width: 150%;
+    margin: 20px -20px;}
 
 }
 
@@ -97,6 +127,12 @@ and (max-device-width : 568px)
 and (orientation : portrait) {
 
 .top-menu-right {display: none !important;}
+
+    .money-txt {font-size:10px !important;}
+
+    .chat_img {width: 25px !important;}
+    .cart_img {width: 25px !important;}
+    .top-menu-left_1 {width: 100% !important;}
 }
 
 /* Custom, iPhone Retina */

@@ -6,6 +6,11 @@ body {
     background-size: cover;
 }
 
+.container-fluid {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
 .wrapper {
     box-sizing: border-box;
     height: 100%;
@@ -234,7 +239,7 @@ body {
     text-decoration: none !important;
 }
 
-a.pager:hover .chevron {
+.pager:hover .chevron {
     color: #98B837;
 }
 
@@ -429,7 +434,7 @@ a.pager:hover .chevron {
         opacity: 1;
     }
     70%, 86% {
-        transform: rotateY(0);
+        transform: rotateY(0deg);
         opacity: 1;
     }
     95%, 100% {
@@ -449,7 +454,7 @@ a.pager:hover .chevron {
 /* Make the 3D work on the container */
 .starwars-demo {
     perspective: 800px;
-    transform-style: preserve3d;
+    transform-style: preserve-3d;
     display: none;
 }
 
