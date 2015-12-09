@@ -278,8 +278,8 @@ body {
 
 .navbar-nav>li>a {
     font-stretch: extra-condensed !important;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     border: 2px solid #315111;
     margin: 0 20px;
     font-size: 1.35em;
@@ -306,6 +306,8 @@ body {
 }
 */
 
+.bottom_menu_img {
+height:45px;}
 
 .glyphicon {
     margin-right: 5px;
