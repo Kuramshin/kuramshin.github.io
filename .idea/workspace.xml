@@ -2,109 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/clients/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/team/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/1_big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/1_mid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/1_side.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/1_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/clients/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/team/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/2_mid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/2_side.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/2_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/clients/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/team/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/3_mid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/3_side.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/3_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/clients/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/team/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/blog/4_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/clients/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/clients/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/works/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/dark_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/dark_square/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/facebook/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/light_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/light_square/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/dark_rounded/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/dark_square/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/facebook/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/light_rounded/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/light_square/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/slider/caption_img1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/slider/caption_img2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/slider/caption_img3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/dark_rounded/contentPattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/facebook/contentPatternBottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/facebook/contentPatternLeft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/facebook/contentPatternRight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/facebook/contentPatternTop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/default/default_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/facebook/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/factories.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/dark_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/dark_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/default/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/facebook/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/light_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/menu_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/menu_h2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/preloader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/price_ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/quotes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/slider/slide1_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/slider/slide2_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/slider/slide3_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/dark_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/dark_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/default/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/facebook/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/light_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/light_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/default/sprite_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/default/sprite_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/default/sprite_x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/prettyPhoto/default/sprite_y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/images/video_block.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/blog-post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/css/flexslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/jquery.flexslider-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/jquery.form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/jquery.jcarousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/jquery.mb.YTPlayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/jquery.prettyPhoto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/jquery.stellar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/jquery.timer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/jquery.twitter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/js/myscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/css/prettyPhoto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/Alex-Studio/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/index.html" afterPath="$PROJECT_DIR$/different/iron-force/site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/css/main.css" afterPath="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -291,6 +189,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -343,7 +242,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -454,12 +352,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00112" summary="hw">
-      <created>1434553818796</created>
-      <option name="number" value="00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1434553818796</updated>
     </task>
     <task id="LOCAL-00113" summary="hw">
       <created>1434554384295</created>
@@ -749,7 +641,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449536565125</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="Alex-Studio start project">
+      <created>1449677752147</created>
+      <option name="number" value="00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1449677752150</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -766,14 +664,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32707775" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32795697" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -791,9 +689,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21841891" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -808,7 +706,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="css correction" />
     <MESSAGE value="hw8 yandex arrow" />
     <MESSAGE value="hw9" />
     <MESSAGE value="add hover affect to button" />
@@ -833,7 +730,8 @@
     <MESSAGE value="iron force upd top menu" />
     <MESSAGE value="iron force upd top menu pager nav fixing" />
     <MESSAGE value="iron force upd b menu icons and logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="iron force upd b menu icons and logo" />
+    <MESSAGE value="Alex-Studio start project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alex-Studio start project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
