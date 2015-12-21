@@ -2,23 +2,34 @@
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
+    .bottom_menu_img {
+        height: 38px;
+    }
 
+    .navbar-nav>li>a {
+        margin: 0 8px;
+        font-size: 1.2em;}
 }
 
 @media only screen and (max-width : 1090px) {
     .navbar-nav>li>a {
-        margin: 0 10px;
-        font-size: 1.3em;}
+        margin: 0 8px;
+        font-size: 1.2em;}
+
+    .bottom_menu_img {
+        height: 25px;
+        width: initial;
+    }
 }
 
-.top-menu-login-b_1 {
-    width: 79%;}
+/*.top-menu-login-b_1 {*/
+    /*width: 79%;}*/
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
     .navbar-nav>li>a {
         margin: 0 5px;
-        font-size: 1.15em;
+        font-size: 1.1em;
     }
 
     .top-menu-login-b_1 {
@@ -30,7 +41,7 @@
     .navbar-nav>li>a {
         padding-top: 13px;
         padding-bottom: 13px;
-        font-size: 1.1em;
+        font-size: 1.0em;
     }
 
     .top-menu-login-b_1 {
@@ -78,7 +89,7 @@ font-size: 13px;
     }
     .top-menu-right {
 
-        padding: 0 !important;
+        padding: 10px !important;
 
     }
 
@@ -122,6 +133,11 @@ font-size: 13px;
     .top-menu, .top-menu_1 {
         height: 60px;
 
+    }
+
+    .logo_img {width: 49px;
+    left:0;
+        top:1px;
     }
     .top-menu-login-b_1 {
 
@@ -198,8 +214,8 @@ font-size: 13px;
 
         font-size: 1.5em;}
 
-    .login-box {width: 150%;
-    margin: 20px -20px;}
+    .login-box {width: 180%;
+    margin: 10px 0px;}
 
 }
 
