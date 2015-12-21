@@ -191,6 +191,8 @@ font-size: 13px;
 
         left:-40px;
     }
+    .login-box {width: 150%;
+        margin: 10px 0;}
 
 }
 
