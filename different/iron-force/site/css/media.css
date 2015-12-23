@@ -86,6 +86,11 @@ font-size: 13px;
     .middle {
         bottom:60px;
     }
+    .statistic {
+
+        padding: 5px;
+        font-size: 11px;
+    }
 
     .s-media-item {
         margin: 5px 10px;
