@@ -392,13 +392,20 @@ height:45px;}
 }
 
 .middle {
-    margin-top: 300px;
-    margin-bottom: 50px;
+z-index: -1;
+    width: 100%;
+position: absolute;
+    bottom:100px;
+}
+
+.s-media {
+    margin-right: 20px;
 }
 .s-media-item {
     margin: 10px 20px;
     opacity: 0.9;
     position: relative;
+    float:right;
 }
 
 .s-media-item:hover {
@@ -415,6 +422,7 @@ height:45px;}
     background-color: rgba(46, 51, 55, 0.85);
     color: white;
     padding: 10px auto;
+    float: left;
 }
 
 .statistic-item {

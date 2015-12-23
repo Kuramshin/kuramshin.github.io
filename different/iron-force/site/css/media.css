@@ -199,15 +199,11 @@ font-size: 13px;
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
 
+
     .middle {
-        margin-top: 100px;
-
+        bottom:60px;
     }
 
-    .s-media-item {
-        margin: 10px -20px;
-
-    }
     .chevron-1 {
         display: inline !important;
         left:-10px;
