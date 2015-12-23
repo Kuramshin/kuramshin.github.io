@@ -421,8 +421,10 @@ position: absolute;
 .statistic {
     background-color: rgba(46, 51, 55, 0.85);
     color: white;
-    padding: 10px auto;
+    padding: 10px;
     float: left;
+    position: absolute;
+    bottom: 0px;
 }
 
 .statistic-item {

@@ -83,7 +83,12 @@ font-size: 13px;
 }
 
 @media only screen and (max-width : 650px) {
+    .middle {
+        bottom:60px;
+    }
+
     .s-media-item {
+        margin: 5px 10px;
         width: 40px;
     }
     .top-menu-left_1 {
@@ -201,7 +206,7 @@ font-size: 13px;
 
 
     .middle {
-        bottom:60px;
+        bottom:40px;
     }
 
     .chevron-1 {
