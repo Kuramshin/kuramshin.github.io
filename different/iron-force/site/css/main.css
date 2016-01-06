@@ -454,7 +454,9 @@ body {
 
 /*carousel*/
 
-
+.slider_control {
+    margin-top: -105px !important;
+}
 
 .carousel, .carousel-inner, .carousel_img {
     width: 100%;
