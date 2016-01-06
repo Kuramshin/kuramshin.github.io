@@ -467,7 +467,25 @@ body {
     padding: 0;
     width: 100%;
     height: 100% !important;
+    background: black;
+    background-size: cover;
+}
 
+.carousel_item_1 {
+    background: url(../img/slide01.jpg) no-repeat center center;
+    background-size: cover;
+}
+.carousel_item_2 {
+    background: url(../img/slide02.jpg) no-repeat center center;
+    background-size: cover;
+}
+.carousel_item_3 {
+    background: url(../img/slide03.jpg) no-repeat center center;
+    background-size: cover;
+}
+.carousel_item_4 {
+    background: url(../img/slide04.jpg) no-repeat center center;
+    background-size: cover;
 }
 .carousel {
     z-index: 1 !important;
