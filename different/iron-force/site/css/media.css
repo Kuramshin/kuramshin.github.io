@@ -173,8 +173,8 @@ font-size: 13px;
     }
 
     .top-menu-fuelcircul {
-        width: 40px;
-        height: 40px;
+        width: 50px !important;
+        height: 48px !important;
         right: 5px;
         top: 5px;
     }
