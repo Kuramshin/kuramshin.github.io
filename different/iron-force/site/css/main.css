@@ -250,7 +250,7 @@ body {
 
 .btn-login,
 .btn-registration,
-.btn-chat {
+.btn-chat, .btn-welcome {
     background: #315111 !important;
     color: #E8EBE2 !important;
     border: 1px solid #315111 !important;
@@ -278,7 +278,7 @@ body {
 }
 
 .btn-login:hover,
-.btn-registration:hover {
+.btn-registration:hover, .btn-welcome:hover {
     background: #69963B !important;
 }
 
@@ -454,17 +454,50 @@ body {
 
 /*carousel*/
 
-.carousel_img {
+
+
+.carousel, .carousel-inner, .carousel_img {
     width: 100%;
-    height: 100%;
+    height: 100% !important;
 }
 .carousel_item {
     margin: 0;
     padding: 0;
     width: 100%;
-    height: 100%;
+    height: 100% !important;
 
 }
 .carousel {
     z-index: 1 !important;
+}
+
+/*welcome modal*/
+
+.modal-content {
+
+    border: 2px solid #6e824c !important;
+    color:#dcd6c8;
+    margin: 0 20px;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.modal_welcome_title {
+    text-align: center !important;
+}
+.modal_welcome_gold_txt {
+    color:#ffcd00;
+    line-height: 1.3em;
+}
+
+.btn-welcome {
+    margin: 15px 0;
+}
+.modal_welcome_item {
+
+}
+.modal_welcome_img {
+
 }
