@@ -139,10 +139,6 @@ body {
     width: 98%;
 }
 
-.chat_img:active {
-    width: 98%;
-}
-
 .top-menu-money-b {
     text-align: right;
     padding-right: 10px;
@@ -164,38 +160,38 @@ body {
     margin: 2px;
 }
 
-.chevron-1,
-.chevron-2 {
-    color: #49630C !important;
-    font-size: 3em;
-    position: relative;
-}
+/*.chevron-1,*/
+/*.chevron-2 {*/
+    /*color: #49630C !important;*/
+    /*font-size: 3em;*/
+    /*position: relative;*/
+/*}*/
 
-.chevron-1 {
-    display: inline !important;
-    left:-30px;
-}
+/*.chevron-1 {*/
+    /*display: inline !important;*/
+    /*left:-30px;*/
+/*}*/
 
-.chevron-2 {
-    display: inline !important;
-    left:-100px;
-}
+/*.chevron-2 {*/
+    /*display: inline !important;*/
+    /*left:-100px;*/
+/*}*/
 
-.pager {
-    display: inline-block;
-    float: left;
-    margin: 12px 0;
-    width: 20px;
-    text-decoration: none !important;
-}
+/*.pager {*/
+    /*display: inline-block;*/
+    /*float: left;*/
+    /*margin: 12px 0;*/
+    /*width: 20px;*/
+    /*text-decoration: none !important;*/
+/*}*/
 
-.pager:hover .chevron-1 {
-    color: #98B837 !important;
-}
+/*.pager:hover .chevron-1 {*/
+    /*color: #98B837 !important;*/
+/*}*/
 
-.pager:hover .chevron-2 {
-    color: #98B837 !important;
-}
+/*.pager:hover .chevron-2 {*/
+    /*color: #98B837 !important;*/
+/*}*/
 
 .navbar-nav>li {
     padding: 5px 0;
@@ -220,16 +216,26 @@ body {
     font-size: 1.35em;
     border-radius: 5px;
     background: rgba(0, 0, 0, 0.6);
+    color: #9D9D9D;
 
 }
-
-.navbar-nav>li>a:hover, .active_item_b_menu  {
+.navbar-nav>li>a:hover,
+ .active_item_b_menu  {
     background: rgba(112, 149, 20, 0.6) !important;
     color: #a8db12 !important;
     -webkit-transition: all 0.75s ease;
     -moz-transition: all 0.75s ease;
     -o-transition: all 0.75s ease;
     border: 2px solid #5C8C2B;
+}
+
+.active {
+    background:#2794c7;
+    font-weight:bold;
+    color:#ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0 20px;
 }
 
 .bottom_menu_img {
@@ -240,9 +246,7 @@ body {
     color: #315111;
 }
 
-.navbar-nav>li>a:hover .glyphicon {
-    color: #9D9D9D;
-}
+
 
 .btn-login,
 .btn-registration,
@@ -297,6 +301,9 @@ body {
     z-index: 555 !important;
 
 }
+#collapseExample_2 {
+    position: absolute;
+}
 
 .chat-btn-enter {
     background: #315111 !important;
@@ -350,7 +357,7 @@ body {
 
 .statistic {
     background-color: rgba(46, 51, 55, 0.85);
-    font-size: 12px;
+    font-size: 11px;
     color: white;
     padding: 10px;
     float: left;
@@ -363,3 +370,97 @@ body {
     margin: 0;
 }
 
+/*shine effect for bottom button menu*/
+.bottom_menu_img_active {
+    -webkit-animation: pulsate 2.5s linear infinite;
+    animation: pulsate 2.5s linear infinite;
+
+}
+
+@-webkit-keyframes pulsate
+{
+    0%   {
+        opacity: 0.95;
+    }
+    50%  {
+        opacity: 0.5;
+
+
+
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes pulsate {
+    0%   {
+    opacity: 0.95;
+}
+    50%  {
+        opacity: 0.5;
+
+
+
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+.shine
+{
+
+    -webkit-animation: pulsates 2.5s linear infinite;
+    animation: pulsates 2.5s linear infinite;
+}
+
+@-webkit-keyframes pulsates
+{
+    0%   {
+        opacity: 0.95;
+    }
+    50%  {
+        opacity: 0.85;
+        border: 2px solid #5C8C2B;
+        box-shadow: 0 0 10px #E7EF00;
+
+    }
+    100% {
+        opacity: 0.95;
+    }
+}
+
+@keyframes pulsates
+{
+    0%   {
+        opacity: 0.95;
+    }
+    50%  {
+        opacity: 0.85;
+        border: 2px solid #5C8C2B;
+        box-shadow: 0 0 10px #E7EF00;
+    }
+    100% {
+        opacity: 0.95;
+    }
+}
+
+
+/*carousel*/
+
+.carousel_img {
+    width: 100%;
+    height: 100%;
+}
+.carousel_item {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+
+}
+.carousel {
+    z-index: -1 !important;
+}

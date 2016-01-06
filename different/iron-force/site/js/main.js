@@ -1,3 +1,4 @@
+/*
 var byline = document.getElementById('byline');     // Find the H2
 bylineText = byline.innerHTML;                                      // Get the content of the H2
 bylineArr = bylineText.split('');                                   // Split content into array
@@ -16,3 +17,7 @@ for(i=0;i<bylineArr.length;i++){                                    // Loop for 
         byline.appendChild(span);                   // Add the span to the h2
     }
 }
+*/
+// add and remove active class at bottom menu
+
+
