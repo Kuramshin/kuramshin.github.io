@@ -301,6 +301,10 @@ body {
     z-index: 555 !important;
 
 }
+
+#collapseExample_1 {
+    z-index: 2;
+}
 #collapseExample_2 {
     position: absolute;
 }
@@ -462,5 +466,5 @@ body {
 
 }
 .carousel {
-    z-index: -1 !important;
+    z-index: 1 !important;
 }

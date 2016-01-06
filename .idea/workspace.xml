@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/slide01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/slide02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/slide03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/slide04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/store.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/iron-force/site/img/cart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/iron-force/site/img/cart_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/iron-force/site/img/cart_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/iron-force/site/img/chat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/iron-force/site/img/chat_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/iron-force/site/img/cristall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/iron-force/site/img/gerb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/iron-force/site/img/sklad.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/img/trophy.png" afterPath="$PROJECT_DIR$/different/iron-force/site/img/trophy.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/index.html" afterPath="$PROJECT_DIR$/different/iron-force/site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/css/main.css" afterPath="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/js/main.js" afterPath="$PROJECT_DIR$/different/iron-force/site/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/store.html" afterPath="$PROJECT_DIR$/different/iron-force/site/store.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -45,8 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.1568627">
-              <caret line="112" column="59" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="59" />
+            <state vertical-scroll-proportion="-4.3333335">
+              <caret line="49" column="128" selection-start-line="49" selection-start-column="110" selection-end-line="49" selection-end-column="128" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -78,22 +64,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45573294">
-              <caret line="304" column="23" selection-start-line="304" selection-start-column="23" selection-end-line="304" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="308" column="23" selection-start-line="308" selection-start-column="23" selection-end-line="308" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="store.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/store.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.27451">
-              <caret line="143" column="100" selection-start-line="143" selection-start-column="86" selection-end-line="143" selection-end-column="100" />
-              <folding />
+            <state vertical-scroll-proportion="0.30977443">
+              <caret line="144" column="11" selection-start-line="144" selection-start-column="11" selection-end-line="144" selection-end-column="11" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,8 +165,8 @@
         <option value="$PROJECT_DIR$/different/iron-force/site/css/media.css" />
         <option value="$PROJECT_DIR$/different/iron-force/site/js/main.js" />
         <option value="$PROJECT_DIR$/different/iron-force/site/index.html" />
-        <option value="$PROJECT_DIR$/different/iron-force/site/store.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/store.html" />
       </list>
     </option>
   </component>
@@ -383,12 +372,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00126" summary="upd">
-      <created>1445173063117</created>
-      <option name="number" value="00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1445173063117</updated>
     </task>
     <task id="LOCAL-00127" summary="upd">
       <created>1445173402135</created>
@@ -678,7 +661,13 @@
       <option name="project" value="LOCAL" />
       <updated>1451242477963</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="iron-force store page begin">
+      <created>1452045073765</created>
+      <option name="number" value="00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1452045073765</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -737,7 +726,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hw9" />
     <MESSAGE value="add hover affect to button" />
     <MESSAGE value="modify yandex gradient arrow" />
     <MESSAGE value="modify yandex  arrow CSS" />
@@ -762,7 +750,8 @@
     <MESSAGE value="iron force upd b menu icons and logo" />
     <MESSAGE value="Alex-Studio start project" />
     <MESSAGE value="iron-force upd home page" />
-    <option name="LAST_COMMIT_MESSAGE" value="iron-force upd home page" />
+    <MESSAGE value="iron-force store page begin" />
+    <option name="LAST_COMMIT_MESSAGE" value="iron-force store page begin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1038,18 +1027,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/store.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.27451">
-          <caret line="143" column="100" selection-start-line="143" selection-start-column="86" selection-end-line="143" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1568627">
-          <caret line="112" column="59" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="59" />
+        <state vertical-scroll-proportion="-4.3333335">
+          <caret line="49" column="128" selection-start-line="49" selection-start-column="110" selection-end-line="49" selection-end-column="128" />
           <folding>
             <element signature="n#style#0;n#span#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1060,9 +1041,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45573294">
-          <caret line="304" column="23" selection-start-line="304" selection-start-column="23" selection-end-line="304" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="308" column="23" selection-start-line="308" selection-start-column="23" selection-end-line="308" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/store.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30977443">
+          <caret line="144" column="11" selection-start-line="144" selection-start-column="11" selection-end-line="144" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
