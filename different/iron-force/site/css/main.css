@@ -542,13 +542,13 @@ border-radius: 50%;
     font-size: 14px;
     border-radius: 5px;
     padding: 20px;
-    background: rgba(0, 0, 0, 0.6) !important;
+    background: rgba(0, 0, 0, 0.75) !important;
 }
 
-.modal_welcome_title {
+.modal_welcome_title, .modal_contacts_title , .modal_sale_title {
     text-align: center !important;
 }
-.modal_welcome_gold_txt {
+.modal_gold_txt {
     color:#ffcd00;
     line-height: 1.3em;
 }
@@ -561,4 +561,20 @@ border-radius: 50%;
 }
 .modal_welcome_img {
 
+}
+/*modal contacts */
+.contacts-b {
+    font-size: 1.2em;
+}
+
+.modal_contacts_phone_item {
+    color:#d6560c;
+}
+.glyphicon-contacts {
+    color: inherit;
+}
+
+.bottom_menu_img_1 {
+
+    font-size: 1.5em;
 }

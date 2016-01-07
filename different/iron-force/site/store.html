@@ -204,8 +204,9 @@
 
                     <!-- Left nav -->
                     <ul class="nav navbar-nav bottom_menu" >
-                        <li ><a href="#" class="item_b_menu"><img src="img/trophy.png" class="bottom_menu_img" alt=""/> КУПИТЬ ТАНК</a></li>
-                        <li ><a href="#" class="item_b_menu"><img src="img/gerb_2.png" width="50" class="bottom_menu_img" alt=""/> ПРОДАТЬ ТАНК</a></li>
+                        <!--<li ><a href="#" class="item_b_menu"><span class="glyphicon glyphicon-home bottom_menu_img bottom_menu_img_1"></span> ГЛАВНАЯ</a></li>-->
+                        <li ><a href="#" class="item_b_menu" data-toggle="modal" data-target="#myModal_buy"><img src="img/trophy.png" class="bottom_menu_img" alt=""/> КУПИТЬ ТАНК</a></li>
+                        <li ><a href="#" class="item_b_menu" data-toggle="modal" data-target="#myModal_sale"><img src="img/gerb_2.png" width="50" class="bottom_menu_img" alt=""/> ПРОДАТЬ ТАНК</a></li>
                         <li ><a href="#" class="item_b_menu"><img src="img/factories.png" class="bottom_menu_img" alt=""/> ОБМЕН ТАНКА</a></li>
                         <li ><a href="#" class="item_b_menu"><img src="img/circule.png" class="bottom_menu_img" alt=""/> ИНЫЕ УСЛУГИ</a></li>
 
@@ -218,6 +219,137 @@
         </div>
         </div>
     </div>
+    <!--  modal sale -->
+
+    <div class="modal fade bs-example-modal-md" id="myModal_sale" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+        <div class="modal-dialog modal-md">
+            <div class="modal-content">
+
+                <h3 class="modal_sale_title"><span class="modal_gold_txt">Форма добавления на продажу</span></h3>
+                <form role="form">
+                    <div class="form-group">
+                        <label for="name">Наименование обявления:</label>
+                        <input type="text" class="form-control" id="name">
+                    </div>
+                    <p>Выберите платформу:</p>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> iOS</label>
+                    </div>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> Android</label>
+                    </div>
+                    <div class="form-group">
+                        <label for="description">Описание:</label>
+                        <textarea class="form-control" rows="5" id="description"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="select1">Класс танка:</label>
+                        <select class="form-control" id="select1">
+                            <option value="">Все</option>
+                            <option value="Линкс">Линкс</option>
+                            <option value="Линкс S">Линкс S</option>
+                            <option value="Лиса">Лиса</option>
+                            <option value="Лиса S">Лиса S</option>
+                            <option value="Лачерта">Лачерта</option>
+                            <option value="Лачерта S">Лачерта S</option>
+                            <option value="Скорпиус">Скорпиус</option>
+                            <option value="Скорпиус S">Скорпиус S</option>
+                            <option value="Павлин">Павлин</option>
+                            <option value="Павлин S">Павлин S</option>
+                            <option value="Единорог">Единорог</option>
+                            <option value="Единорог S">Единорог S</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="upload">Добавить фото каждой прокачки танка(качественно и не менее 5ти):</label>
+                        <input type="file" class="form-control" id="upload">
+                    </div>
+                    <div class="form-group">
+                        <label for="client-name">Ваше имя:</label>
+                        <input type="text" class="form-control" id="client-name">
+                    </div>
+                    <div class="form-group">
+                        <label for="client-phone">Телефон (Обязательно в международном формате!):</label>
+                        <input type="text" class="form-control" id="client-phone" placeholder="+12345678912">
+                    </div>
+                    <p>Дополнительные способы связи:</p>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> Viber</label>
+                    </div>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> WhatsAPP</label>
+                    </div>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> Line</label>
+                    </div>
+                    <div class="form-group">
+                        <label for="client-email">Ваш e-mail:</label>
+                        <input type="email" class="form-control" id="client-email">
+                    </div>
+                    <div class="form-group">
+                        <label for="client-price">Цена:</label>
+                        <input type="number" class="form-control" id="client-price" min="0" value="0">
+                    </div>
+                    <div class="form-group">
+                        <label for="comments">Комментарий:</label>
+                        <textarea class="form-control" rows="5" id="comments"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-welcome">Отправить на модерацию</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <!-- / modal sale-->
+    <!--  modal buy -->
+
+    <div class="modal fade bs-example-modal-md" id="myModal_buy" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+        <div class="modal-dialog modal-md">
+            <div class="modal-content">
+
+                <h3 class="modal_sale_title"><span class="modal_gold_txt">Задайте желаемые параметры:</span></h3>
+                <form role="form">
+                    <p>Выберите платформу:</p>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> iOS</label>
+                    </div>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> Android</label>
+                    </div>
+                    <div class="form-group">
+                        <label for="select1">Класс танка:</label>
+                        <select class="form-control" id="select1">
+                            <option value="">Все</option>
+                            <option value="Линкс">Линкс</option>
+                            <option value="Линкс S">Линкс S</option>
+                            <option value="Лиса">Лиса</option>
+                            <option value="Лиса S">Лиса S</option>
+                            <option value="Лачерта">Лачерта</option>
+                            <option value="Лачерта S">Лачерта S</option>
+                            <option value="Скорпиус">Скорпиус</option>
+                            <option value="Скорпиус S">Скорпиус S</option>
+                            <option value="Павлин">Павлин</option>
+                            <option value="Павлин S">Павлин S</option>
+                            <option value="Единорог">Единорог</option>
+                            <option value="Единорог S">Единорог S</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="client-price-start">Цена от:</label>
+                        <input type="number" class="form-control" id="client-price-start" min="0" value="0">
+                    </div>
+                    <div class="form-group">
+                        <label for="client-price-finish">до:</label>
+                        <input type="number" class="form-control" id="client-price-finish" min="0" value="0">
+                    </div>
+                    <button type="submit" class="btn btn-welcome">Ок</button>
+                    <button type="reset" class="btn btn-welcome">Сбросить фильтр</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <!-- / modal buy-->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
