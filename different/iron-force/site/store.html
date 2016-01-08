@@ -106,7 +106,7 @@
 
 
                     <div class="top-menu-chat-b">
-                        <img src="img/chat_new.png" class="chat_img">
+                        <img src="img/chat_new.png" class="chat_img" title="чат">
                     </div>
                 </a>
 
@@ -224,7 +224,7 @@
     <div class="modal fade bs-example-modal-md" id="myModal_sale" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
         <div class="modal-dialog modal-md">
             <div class="modal-content">
-
+                <button type="button" class="close close_modal" data-dismiss="modal" aria-label="Close" ><span aria-hidden="true">&times;</span></button>
                 <h3 class="modal_sale_title"><span class="modal_gold_txt">Форма добавления на продажу</span></h3>
                 <form role="form">
                     <div class="form-group">
@@ -233,10 +233,10 @@
                     </div>
                     <p>Выберите платформу:</p>
                     <div class="checkbox">
-                        <label><input type="checkbox"> iOS</label>
+                        <label><input type="checkbox"> iOS <img src="img/ios.svg" height="20" alt="ios"/></label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox"> Android</label>
+                        <label><input type="checkbox"> Android <img src="img/android.svg" height="20" alt="android"/></label>
                     </div>
                     <div class="form-group">
                         <label for="description">Описание:</label>
@@ -274,13 +274,13 @@
                     </div>
                     <p>Дополнительные способы связи:</p>
                     <div class="checkbox">
-                        <label><input type="checkbox"> Viber</label>
+                        <label><input type="checkbox"> Viber <img src="img/viber.svg" height="20" alt=""/></label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox"> WhatsAPP</label>
+                        <label><input type="checkbox"> WhatsAPP <img src="img/whatsapp.svg" height="20" alt=""/></label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox"> Line</label>
+                        <label><input type="checkbox"> Line <img src="img/line.svg" height="20" alt=""/></label>
                     </div>
                     <div class="form-group">
                         <label for="client-email">Ваш e-mail:</label>
@@ -306,19 +306,19 @@
     <div class="modal fade bs-example-modal-md" id="myModal_buy" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
         <div class="modal-dialog modal-md">
             <div class="modal-content">
-
-                <h3 class="modal_sale_title"><span class="modal_gold_txt">Задайте желаемые параметры:</span></h3>
+                <button type="button" class="close close_modal" data-dismiss="modal" aria-label="Close" ><span aria-hidden="true">&times;</span></button>
+                <h3 class="modal_buy_title"><span class="modal_gold_txt">Задайте желаемые параметры:</span></h3>
                 <form role="form">
                     <p>Выберите платформу:</p>
                     <div class="checkbox">
-                        <label><input type="checkbox"> iOS</label>
+                        <label><input type="checkbox"> iOS <img src="img/ios.svg" height="20" alt="ios"/></label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox"> Android</label>
+                        <label><input type="checkbox"> Android <img src="img/android.svg" height="20" alt="android"/></label>
                     </div>
                     <div class="form-group">
-                        <label for="select1">Класс танка:</label>
-                        <select class="form-control" id="select1">
+                        <label for="select2">Класс танка:</label>
+                        <select class="form-control" id="select2">
                             <option value="">Все</option>
                             <option value="Линкс">Линкс</option>
                             <option value="Линкс S">Линкс S</option>

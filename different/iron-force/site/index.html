@@ -106,7 +106,7 @@
 
 
                     <div class="top-menu-chat-b">
-                        <img src="img/chat_new.png" class="chat_img">
+                        <img src="img/chat_new.png" class="chat_img" title="чат">
                     </div>
                 </a>
 
@@ -196,10 +196,11 @@
                 <!--  modal welcome -->
 
                 <div class="modal fade bs-example-modal-md" id="myModal_FAQ" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+
                     <div class="modal-dialog modal-md">
                         <div class="modal-content">
-
-                            <h3 class="modal_welcome_title">Welcom to <span class="modal_gold_txt">IRON FORCE SHOP!</span></h3>
+                            <button type="button" class="close close_modal" data-dismiss="modal" aria-label="Close" ><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal_welcome_title">Welcome to <span class="modal_gold_txt">IRON FORCE SHOP!</span></h3>
                             <h4>Мы это:</h4>
                             <p class="modal_welcome_item">Большой опыт работы с Iron Force! Более года мы предоставляем различные услуги!</p>
                             <p class="modal_welcome_item">Самое большое количество потенциальных, постоянных и довольных клиентов, что подтверждается свыше 400-ми отзывами !
@@ -235,35 +236,39 @@
                 <div class="modal fade bs-example-modal-md" id="myModal_contacts" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
                     <div class="modal-dialog modal-md">
                         <div class="modal-content contacts-b">
+                            <button type="button" class="close close_modal" data-dismiss="modal" aria-label="Close" ><span aria-hidden="true">&times;</span></button>
                             <div class="row ">
                                 <h3 class="modal_contacts_title"> <span class="modal_gold_txt">НАШИ КОНТАКТЫ</span></h3>
                                 <div class="col-md-6 col-sm-6">
-                                    <p>ПИСАТЬ / ЗВОНИТЬ</p>
+                                    <p>Писать / Звонить</p>
 
-                                    <p>АРТЕМ (24/7)</p>
-                                    <p>VIBER / LINE / WhatsApp</p>
+                                    <p>Артем (24/7)</p>
+                                    <!--<p><span class="modal_contacts_viber">Viber</span> / <span class="modal_contacts_line">Line</span> / <span class="modal_contacts_whatsapp">WhatsApp</span></p>-->
+                                    <p><img src="img/viber.svg" height="30" title="Viber" alt="viber"/> <img src="img/whatsapp.svg" height="30" title="WhatsAPP" alt="whatsapp"/> <img src="img/line.svg" title="Line" height="30" alt="Line"/></p>
                                     <p class="modal_contacts_phone_item"><span class="glyphicon glyphicon-phone glyphicon-contacts"></span> +380930808032</p>
 
-                                    <p>или</p>
+                                    <hr/>
 
-                                    <p>СТАС</p>
-                                    <p>VIBER / LINE / WhatsApp</p>
+                                    <p>Стас</p>
+                                    <p><img src="img/viber.svg" height="30" title="Viber" alt="viber"/> <img src="img/whatsapp.svg" height="30" title="WhatsAPP" alt="whatsapp"/> <img src="img/line.svg" title="Line" height="30" alt="Line"/></p>
                                     <p class="modal_contacts_phone_item"><span class="glyphicon glyphicon-phone glyphicon-contacts"></span> +380930775138</p>
                                 </div>
+                                <hr class="hidden-lg hidden-md hidden-sm">
                                 <div class="col-md-6 col-sm-6">
                                     <p>Contacts of english-speaking admins</p>
 
                                     <p>You can write or call</p>
 
-                                    <p>ALEXANDR</p>
+                                    <p>Alexandr</p>
 
-                                    <p>Viber \ WhatsAPP \ Line \ <a href="https://www.facebook.com/Kaerlink">Facebook</a></p>
+                                    <p><img src="img/viber.svg" height="30" title="Viber" alt="viber"/> <img src="img/whatsapp.svg" height="30" title="WhatsAPP" alt="whatsapp"/> <img src="img/line.svg" title="Line" height="30" alt="Line"/> <a href="https://www.facebook.com/Kaerlink"><img
+                                            src="img/facebook.svg" height="30" alt="facebook"/></a></p>
 
                                     <p class="modal_contacts_phone_item"><span class="glyphicon glyphicon-phone glyphicon-contacts"></span> +380637296322</p>
+                                    <hr/>
+                                    <p>Anastasia</p>
 
-                                    <p>ANASTASIA</p>
-
-                                    <p>Viber \ WhatsAPP \ Line</p>
+                                    <p><img src="img/viber.svg" height="30" title="Viber" alt="viber"/> <img src="img/whatsapp.svg" height="30" title="WhatsAPP" alt="whatsapp"/> <img src="img/line.svg" title="Line" height="30" alt="Line"/></p>
                                     <p class="modal_contacts_phone_item"><span class="glyphicon glyphicon-phone glyphicon-contacts"></span> +380937153732</p>
                                 </div>
 

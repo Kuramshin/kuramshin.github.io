@@ -1,14 +1,14 @@
 html {height:100%;
     width: 100%;
     overflow: hidden;}
-body {
-    height:100%;
-    width: 100%;
-    background: black;
-    background: url(../img/bg_big_11.jpg) no-repeat center center fixed;
-    background-size: cover;
-    overflow: hidden;
-}
+/*body {*/
+    /*height:100%;*/
+    /*width: 100%;*/
+    /*background: black;*/
+    /*background: url(../img/bg_big_11.jpg) no-repeat center center fixed;*/
+    /*background-size: cover;*/
+    /*overflow: hidden;*/
+/*}*/
 
 .container-fluid {
     padding-left: 0 !important;
@@ -545,7 +545,7 @@ border-radius: 50%;
     background: rgba(0, 0, 0, 0.75) !important;
 }
 
-.modal_welcome_title, .modal_contacts_title , .modal_sale_title {
+.modal_welcome_title, .modal_contacts_title , .modal_sale_title, .modal_buy_title {
     text-align: center !important;
 }
 .modal_gold_txt {
@@ -568,12 +568,27 @@ border-radius: 50%;
 }
 
 .modal_contacts_phone_item {
-    color:#d6560c;
+    /*color:#d6560c;*/
 }
 .glyphicon-contacts {
     color: inherit;
 }
+/*modal sale title*/
 
+.modal_sale_title, .modal_contacts_title, .modal_welcome_title, .modal_buy_title {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.modal_contacts_viber {
+    color: #800080;
+} .modal_contacts_line {
+    color: #99CC00;
+  }.modal_contacts_whatsapp {
+color: #339966;
+     }
+.close_modal {
+    color:white;
+}
 .bottom_menu_img_1 {
 
     font-size: 1.5em;
