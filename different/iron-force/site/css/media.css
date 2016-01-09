@@ -42,6 +42,11 @@ and (orientation : portrait) {
     .chat_img {width: 25px !important;}
     .cart_img {width: 25px !important;}
     .top-menu-left_1 {width: 100% !important;}
+
+    .btn-welcome {font-size: 12px;
+    width: 100%;}
+    .modal_welcome_title, .modal_gold_txt {font-size: 18px;}
+    .modal_gold_txt {text-align: center;}
 }
 
 /* Extra Small Devices, Phones */
