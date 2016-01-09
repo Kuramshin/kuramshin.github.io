@@ -241,9 +241,9 @@ and (orientation : portrait) {
 
     .nav>li>a>img {height: 18px;}
     .navbar-nav>li>a {
-        line-height: 15px !important;
+        line-height: 20px !important;
         font-size: 15px !important;
-        padding: 10px !important;
+        padding: 20px 10px !important;
     }
 
 
