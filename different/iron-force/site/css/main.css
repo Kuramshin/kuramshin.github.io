@@ -593,3 +593,12 @@ color: #339966;
 
     font-size: 1.5em;
 }
+
+.btn-sale, .btn-buy {
+    background: #315111 !important;
+    color: #E8EBE2 !important;
+    border: 1px solid #315111 !important;
+}
+.btn-buy {
+    margin: 10px 15px 10px 0;
+}

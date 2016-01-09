@@ -10,7 +10,7 @@
 and (max-device-width : 568px)
 and (orientation : portrait) {
     body {
-        height:100%;
+        height: 100%;
         width: 100%;
         background: black;
         background: url(../img/slide04_1_xs.jpg) no-repeat center center fixed;
@@ -22,33 +22,60 @@ and (orientation : portrait) {
         background: url(../img/slide01_xs.jpg) no-repeat center center;
         background-size: cover;
     }
+
     .carousel_item_2 {
         background: url(../img/slide02_xs.jpg) no-repeat center center;
         background-size: cover;
     }
+
     .carousel_item_3 {
         background: url(../img/slide03_xs.jpg) no-repeat center center;
         background-size: cover;
     }
+
     .carousel_item_4 {
         background: url(../img/slide04_xs.jpg) no-repeat center center;
         background-size: cover;
     }
 
-    .top-menu-right {display: none !important;}
+    .top-menu-right {
+        display: none !important;
+    }
 
-    .money-txt {font-size:10px !important;}
+    .money-txt {
+        font-size: 10px !important;
+    }
 
-    .chat_img {width: 25px !important;}
-    .cart_img {width: 25px !important;}
-    .top-menu-left_1 {width: 100% !important;}
+    .chat_img {
+        width: 25px !important;
+    }
 
-    .btn-welcome {font-size: 12px;
-    width: 100%;}
-    .modal_welcome_title, .modal_gold_txt {font-size: 18px;}
-    .modal_gold_txt {text-align: center;}
+    .cart_img {
+        width: 25px !important;
+    }
+
+    .top-menu-left_1 {
+        width: 100% !important;
+    }
+
+    .btn-welcome {
+        font-size: 12px;
+        width: 100%;
+    }
+
+    .modal_welcome_title, .modal_gold_txt {
+        font-size: 18px;
+    }
+
+    .modal_gold_txt {
+        text-align: center;
+    }
+
+    .btn-buy {
+
+        margin: 10px 10px 10px 0;
+    }
 }
-
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
 
