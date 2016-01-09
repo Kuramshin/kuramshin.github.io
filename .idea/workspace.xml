@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/vk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/youtube.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/index.html" afterPath="$PROJECT_DIR$/different/iron-force/site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/css/media.css" afterPath="$PROJECT_DIR$/different/iron-force/site/css/media.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -32,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32803467">
-              <caret line="202" column="58" selection-start-line="202" selection-start-column="39" selection-end-line="202" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.7182081">
+              <caret line="220" column="66" selection-start-line="220" selection-start-column="55" selection-end-line="220" selection-end-column="66" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -47,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/media.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="243" column="23" selection-start-line="243" selection-start-column="23" selection-end-line="243" selection-end-column="23" />
+              <caret line="289" column="5" selection-start-line="289" selection-start-column="5" selection-end-line="289" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -374,12 +372,6 @@
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
     </task>
-    <task id="LOCAL-00137" summary="popup bugfixing">
-      <created>1445580161824</created>
-      <option name="number" value="00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1445580161824</updated>
-    </task>
     <task id="LOCAL-00138" summary="popup bugfixing">
       <created>1445864258453</created>
       <option name="number" value="00138" />
@@ -668,7 +660,13 @@
       <option name="project" value="LOCAL" />
       <updated>1452349621088</updated>
     </task>
-    <option name="localTasksCounter" value="186" />
+    <task id="LOCAL-00186" summary="iron-force media  upd">
+      <created>1452372724171</created>
+      <option name="number" value="00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1452372724171</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1097,15 +1095,15 @@
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/media.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="243" column="23" selection-start-line="243" selection-start-column="23" selection-end-line="243" selection-end-column="23" />
+          <caret line="289" column="5" selection-start-line="289" selection-start-column="5" selection-end-line="289" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32803467">
-          <caret line="202" column="58" selection-start-line="202" selection-start-column="39" selection-end-line="202" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.7182081">
+          <caret line="220" column="66" selection-start-line="220" selection-start-column="55" selection-end-line="220" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#span#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
