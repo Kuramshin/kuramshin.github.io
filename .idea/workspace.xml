@@ -46,8 +46,8 @@
       <file leaf-file-name="media.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/media.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.037037">
-              <caret line="268" column="0" selection-start-line="268" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
+            <state vertical-scroll-proportion="-63.48148">
+              <caret line="264" column="19" selection-start-line="264" selection-start-column="19" selection-end-line="264" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -376,12 +376,6 @@
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
     </task>
-    <task id="LOCAL-00143" summary="testimonial bug fixing">
-      <created>1446414217428</created>
-      <option name="number" value="00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1446414217431</updated>
-    </task>
     <task id="LOCAL-00144" summary="testimonial bug fixing">
       <created>1448624826080</created>
       <option name="number" value="00144" />
@@ -670,7 +664,13 @@
       <option name="project" value="LOCAL" />
       <updated>1452413671863</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="iron-force media  upd">
+      <created>1452413910309</created>
+      <option name="number" value="00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1452413910309</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1102,8 +1102,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.037037">
-          <caret line="268" column="0" selection-start-line="268" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
+        <state vertical-scroll-proportion="-63.48148">
+          <caret line="264" column="19" selection-start-line="264" selection-start-column="19" selection-end-line="264" selection-end-column="19" />
           <folding />
         </state>
       </provider>
