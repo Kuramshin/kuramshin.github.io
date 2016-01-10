@@ -148,7 +148,7 @@ html {height:100%;
     text-align: right;
     padding-right: 10px;
     position: relative;
-    /*top: 10px;*/
+    top: 12px;
 }
 
 .money-txt {
@@ -232,8 +232,8 @@ html {height:100%;
 
 .btn-chat-a  {
     padding: 0 !important;
-    position: relative;
-    top:-12px;
+    /*position: relative;*/
+    /*top:-12px;*/
 }
 
 .btn-chat:hover {
@@ -569,7 +569,7 @@ color: #339966;
 .btn-buy {
     margin: 10px 15px 10px 0;
 }
-/*shine effect for cart*/
+/*shine effect for cart
 .btn-glass {
     -webkit-transition: background-position 2s cubic-bezier(0, 1, 0, 1), border-color 500ms, background-color 500ms;
     transition: background-position 2s cubic-bezier(0, 1, 0, 1), border-color 500ms, background-color 500ms;
@@ -585,3 +585,7 @@ color: #339966;
     background-position: -100vw 0, 0 0 !important;
 }
 
+*/
+.navbar-fixed-bottom .navbar-collapse {
+    max-height: 340px;
+}

@@ -62,6 +62,12 @@ and (orientation : portrait) {
         font-size: 12px;
         width: 100%;
     }
+    .navbar-inverse .navbar-nav>li>a {
+
+        padding: 15px !important;
+
+
+    }
 
     .modal_welcome_title, .modal_gold_txt {
         font-size: 18px;
@@ -161,7 +167,7 @@ and (orientation : portrait) {
     .top-menu-money-b {
 
         padding-right: 0 !important;
-        top:10px;
+        top:12px;
     }
 
     .btn-login {
@@ -242,8 +248,8 @@ and (orientation : portrait) {
     .top-menu-right {
         font-size: 13px;
         width: 50%;
-        /*padding: 5px 0 !important;*/
-        padding: 0 5px;
+        padding: 8px 0 !important;
+
     }
 
 
