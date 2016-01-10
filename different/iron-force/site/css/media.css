@@ -130,7 +130,8 @@ and (orientation : portrait) {
     }
     .top-menu-right {
 
-        padding: 10px !important;
+        /*padding: 10px !important;*/
+        padding: 0 !important;
 
     }
 
@@ -139,7 +140,8 @@ and (orientation : portrait) {
 
     }
 
-    .btn-chat-a {padding: 0;}
+    .btn-chat-a {padding: 0;
+        top: -4px !important;}
 
     span.money-txt {font-size: 12px;}
 
@@ -240,7 +242,8 @@ and (orientation : portrait) {
     .top-menu-right {
         font-size: 13px;
         width: 50%;
-        padding: 5px 0 !important;
+        /*padding: 5px 0 !important;*/
+        padding: 0 5px;
     }
 
 
