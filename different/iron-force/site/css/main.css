@@ -116,7 +116,7 @@ html {height:100%;
 }
 
 .top-menu-right {
-    /*padding: 3px 10px;*/
+    padding: 3px 15px;
     text-align: right;
 }
 
@@ -145,12 +145,13 @@ html {height:100%;
 }
 .top-menu-chat_quantity {
     position: absolute;
+    border-radius: 3px;
     top:-10px;
     right: -10px;
 padding: 0 5px;
 color:white;
 background: red;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 400;
 }
 
@@ -213,6 +214,14 @@ background: red;
 
 
 
+}
+
+.button_bottom_menu {
+    background: #315111;
+}
+
+.button_bottom_menu:hover {
+    background: #69963B !important;
 }
 
 .navbar-nav>li>a {
@@ -302,6 +311,7 @@ background: red;
 
 .chat-body {
     min-height: 340px;
+    margin-right: 15px;
     padding: 20px;
     /*margin-top: 5px;*/
     z-index: 555 !important;
@@ -369,6 +379,7 @@ background: red;
     background-color: rgba(46, 51, 55, 0.85);
     font-size: 11px;
     color: white;
+    margin-left: 15px;
     padding: 10px;
     float: left;
     position: absolute;
@@ -561,12 +572,23 @@ border-radius: 50%;
 
 .btn-welcome {
     margin: 15px 0;
+    width: 100%;
+}
+
+.btn-welcome_b {
+    text-align: center;
 }
 .modal_welcome_item {
 
 }
 .modal_welcome_img {
 
+}
+
+.gid_b {
+    text-align: center;
+margin-top: 20px;
+    margin-bottom: 20px;
 }
 /*modal contacts */
 .contacts-b {
