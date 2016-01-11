@@ -34,45 +34,81 @@
 
 
         <div class="top-menu_1 row">
+            <!--<div class="col-md-1 col-xs-1 col-sm-1">-->
+                <!--<a href="index.html" title="Нome" class="backward_home">-->
+                    <!--<span class="glyphicon glyphicon-backward backward_home_item"></span>-->
+                <!--</a>-->
+            <!--</div>-->
+
+            <div class="top-menu-left_1 col-md-6 col-sm-6 col-xs-12 ">
 
 
-            <div class="top-menu-left_1 col-md-6 col-sm-6 col-xs-12">
+               <div class="top-menu-login-b_1 ">
 
-
-
-
-                <div class="top-menu-login-b_1 ">
-
-                    <a class="btn btn-primary btn-login hidden-xs" role="button" data-toggle="collapse" href="#collapseExample_1" aria-expanded="false" aria-controls="collapseExample_1">
-  Авторизоваться
+                   <!-- <a class="btn btn-primary btn-login hidden-xs" role="button" data-toggle="collapse" href="#collapseExample_1" aria-expanded="false" aria-controls="collapseExample_1">
+ Авторизоваться
 </a>
-                    <a class="btn btn-primary btn-login hidden-md hidden-lg hidden-sm" role="button" data-toggle="collapse" href="#collapseExample_1" aria-expanded="false" aria-controls="collapseExample_1">
-                        <span class="glyphicon glyphicon-user glyph-login" style="color: white;"></span> Login
-                    </a>
+                   <a class="btn btn-primary btn-login hidden-md hidden-lg hidden-sm" role="button" data-toggle="collapse" href="#collapseExample_1" aria-expanded="false" aria-controls="collapseExample_1">
+                       <span class="glyphicon glyphicon-user glyph-login" style="color: white;"></span> Login
+                   </a>
 
 
-                    <div class="collapse" id="collapseExample_1">
+                   <div class="collapse" id="collapseExample_1">
 
-                        <div class="well login-box">
-                            <form role="form">
-                                <div class="form-group">
-                                    <label for="email">Email</label>
-                                    <input type="email" class="form-control" id="email" placeholder="Введите email">
-                                </div>
-                                <div class="form-group">
-                                    <label for="pass">Пароль</label>
-                                    <input type="password" class="form-control" id="pass" placeholder="Пароль">
-                                </div>
+                       <div class="well login-box">
+                           <form role="form">
+                               <div class="form-group">
+                                   <label for="email">Email</label>
+                                   <input type="email" class="form-control" id="email" placeholder="Введите email">
+                               </div>
+                               <div class="form-group">
+                                   <label for="pass">Пароль</label>
+                                   <input type="password" class="form-control" id="pass" placeholder="Пароль">
+                               </div>
 
-                                <button type="submit" class="btn btn-login">Войти</button> <a type="submit" class="btn btn-registration">Регистрация</a>
-                            </form>
+                               <button type="submit" class="btn btn-login">Войти</button> <a type="submit" class="btn btn-registration">Регистрация</a>
+                           </form>
 
-                        </div>
+                       </div>
 
-                    </div>
-
+                   </div>-->
+                   <div class="row login_auth">
+                       <div class="col-md-2 col-sm-2 col-xs-4 login_flag">
+                           <img src="img/Flag_of_Ukraine.png" class="login_flag_img" width="40" alt="flag"/>
+                       </div>
+                       <div class="col-md-5 col-sm-4 col-xs-8 login_name">
+                           <p>Admin</p>
+                       </div>
+                       <div class="col-md-2 col-sm-3 col-xs-2 hidden-xs login_level">
+                           <div class="row">
+                               <div class="col-md-12">
+                                   <span class="glyphicon glyphicon-menu-down login_level_indicator"></span>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <div class="col-md-12">
+                                   LVL.37
+                               </div>
+                           </div>
+                       </div>
+                       <div class="col-md-2 col-sm-3 col-xs-2 hidden-xs login_progres">
+                           <div class="row ">
+                               <div class="col-md-12 login_progres_level">
+                                   20680 <span class="glyphicon glyphicon-arrow-up login_progres_level_indicator"></span>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <div class="col-md-12 prog_bar">
+                                   <div class="prog_bar_white"></div>
+                                   <div class="prog_bar_black"></div>
+                               </div>
+                           </div>
+                       </div>
+                   </div>
 
                 </div>
+
+
                 <div class="top-menu-fuelback_1 ">
 
                     <div class="top-menu-fuelcircul logo_shine">
@@ -90,11 +126,13 @@
                     <div><span class="money-txt">2,500</span> <img src="img/cristalls.png" class="cristalls_img"  title="камни дешевле"></div>
 
                 </div>
-                <div class="top-menu-cart-b btn-glass">
+                <!--<a href="index.html" class="home"><span class="glyphicon glyphicon-home"><br/>Нome</span></a>-->
+
+                <a  href="#" data-toggle="modal" data-target="#myModal_buy" class="top-menu-cart-b btn-glass">
 
                     <img src="img/cart_new.png" class="cart_img " title="в магазин" >
 
-                </div>
+                </a>
 
                 <a class="btn btn-chat-a" role="button" data-toggle="collapse" href="#collapseExample_2" aria-expanded="false" aria-controls="collapseExample_2">
 

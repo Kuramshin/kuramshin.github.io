@@ -34,6 +34,27 @@ html {height:100%;
     background: #2E3337;
 }
 
+.backward_home_item {
+    color: darkolivegreen !important;
+    text-align: center !important;
+    font-size: 2em;
+    padding: 19px;
+}
+.glyphicon-home,
+.home {
+    padding: 10px;
+    font-size: 14px;
+    color: white !important;
+    text-align: center;
+
+}
+.home {
+    padding: 10px;
+    font-size: 1.5em;
+    color: white !important;
+    border: 2px solid #424E1C;
+    height: 55px;
+}
 .top-menu-left_1 {
 
     margin: 0;
@@ -117,6 +138,20 @@ html {height:100%;
 .cart_img,
 .chat_img, .cristalls_img, .dollars_img {
     opacity: 0.8;
+}
+
+.top-menu-chat-b {
+    position: relative;
+}
+.top-menu-chat_quantity {
+    position: absolute;
+    top:-10px;
+    right: -10px;
+padding: 0 5px;
+color:white;
+background: red;
+    font-size: 12px;
+    font-weight: 400;
 }
 
 .fuel_back_img:hover,
@@ -512,6 +547,10 @@ border-radius: 50%;
     background: rgba(0, 0, 0, 0.75) !important;
 }
 
+.modal-content_sdelka {
+    background: rgba(0, 0, 0, 1) !important;
+}
+
 .modal_welcome_title, .modal_contacts_title , .modal_sale_title, .modal_buy_title {
     text-align: center !important;
 }
@@ -569,6 +608,11 @@ color: #339966;
 .btn-buy {
     margin: 10px 15px 10px 0;
 }
+
+.btn-sale {
+    margin: 10px 0;
+}
+
 /*shine effect for cart
 .btn-glass {
     -webkit-transition: background-position 2s cubic-bezier(0, 1, 0, 1), border-color 500ms, background-color 500ms;
@@ -586,6 +630,58 @@ color: #339966;
 }
 
 */
-.navbar-fixed-bottom .navbar-collapse {
-    max-height: 340px;
+
+/*author block*/
+
+.login_auth {color: #ebebeb;}
+
+
+    .login_name {
+    font-size: 1.5em;
+        text-align: left;
 }
+.login-flag {
+    text-align: right !important;
+
+}
+.login_level {
+    text-align: center;
+}
+.login_level_indicator {
+    color: goldenrod;
+    font-size: 1.4em;
+    font-weight: 600;
+}
+
+.prog_bar {
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    height: 5px;
+    border: 1px solid grey;
+}
+
+.login_progresm{
+    text-align: left !important;
+}
+
+.login_progres_level {
+    padding: 0;
+    margin-bottom:10px ;
+}
+.login_progres_level_indicator {
+    color: #ebebeb;
+}
+
+.prog_bar_white {
+    width: 50%;
+    height: 100%;
+    background: #ebebeb;
+}
+.prog_bar_black {
+    width: 50%;
+    height: 100%;
+    background: black;
+}
+
+
