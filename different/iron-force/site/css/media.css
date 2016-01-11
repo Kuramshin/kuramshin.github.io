@@ -13,7 +13,7 @@ and (orientation : portrait) {
         height: 100%;
         width: 100%;
         background: black;
-        background: url(../img/slide04_1_xs.jpg) no-repeat center center fixed;
+        background: url(../img/main_bg_xs.jpg) no-repeat center center fixed;
         background-size: cover;
         overflow: hidden;
     }
@@ -335,7 +335,7 @@ and (orientation : portrait) {
         height:100%;
         width: 100%;
         background: black;
-        background: url(../img/bg_big_11.jpg) no-repeat center center fixed;
+        background: url(../img/main_bg.jpg) no-repeat center center fixed;
         background-size: cover;
         overflow: hidden;
     }
