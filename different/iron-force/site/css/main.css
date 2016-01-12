@@ -1,6 +1,14 @@
-html {height:100%;
+/*@import url(http://fonts.googleapis.com/css?family=Oswald:400,700);*/
+@import url(http://webfonts.ru/import/oswald.css);
+
+
+html {
+    height:100%;
     width: 100%;
-    overflow: hidden;}
+    overflow: hidden;
+}
+
+
 /*body {*/
     /*height:100%;*/
     /*width: 100%;*/
@@ -113,6 +121,7 @@ html {height:100%;
 .top-menu-cart-b,
 .top-menu-chat-b {
     display: inline-block;
+    font-family: 'Oswald', sans-serif !important;
 }
 
 .top-menu-right {
@@ -209,8 +218,8 @@ background: #b30000;
 
 
 .bottom-nav {
-background: black;
-    background: url(../img/footer_bg.jpg);
+    background: black;
+    background: black url(../img/footer_bg.jpg);
 
 
 
@@ -225,6 +234,7 @@ background: black;
 }
 
 .navbar-nav>li>a {
+    font-family: 'Oswald', sans-serif !important;
     font-stretch: extra-condensed !important;
     padding-top: 15px;
     padding-bottom: 15px;

@@ -109,7 +109,7 @@ and (orientation : portrait) {
     .btn-login, .btn-registration {
         display: block;
         margin: 10px;
-        width: 92% !important;
+        /*width: 92% !important;*/
     }
 
     .chevron-1,
