@@ -121,14 +121,15 @@
 
             </div>
             <div class="top-menu-right col-md-6 col-sm-6 col-xs-6">
-                <div class="top-menu-money-b hidden-xs">
+                <button class="btn btn-logout"><span class="glyphicon glyphicon-log-out btn-logout_icon"></span> Logout</button>
+                <div class="top-menu-money-b hidden-xs hidden-sm">
                     <div><span class="money-txt">1,777,700</span> <img src="img/dollars.png" class="dollars_img"  title="скупой платит дважды"></div>
                     <div><span class="money-txt">2,500</span> <img src="img/cristalls.png" class="cristalls_img"  title="камни дешевле"></div>
 
                 </div>
                 <!--<a href="index.html" class="home"><span class="glyphicon glyphicon-home"><br/>Нome</span></a>-->
 
-                <a  href="#" data-toggle="modal" data-target="#myModal_buy" class="top-menu-cart-b btn-glass">
+                <a  href="#"  data-toggle="modal" data-target="#myModal_buy" class="top-menu-cart-b btn" >
 
                     <img src="img/cart_new.png" class="cart_img " title="в магазин" >
 
@@ -230,7 +231,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-
+                    <!--<a class="navbar-brand" href="index.html">Home</a>-->
                 </div>
                 <div class="navbar-collapse collapse">
 
@@ -241,7 +242,7 @@
                         <li ><a href="#" class="item_b_menu" data-toggle="modal" data-target="#myModal_sale"><img src="img/gerb.png" width="50" class="bottom_menu_img" alt=""/> ПРОДАТЬ ТАНК</a></li>
                         <li ><a href="#" class="item_b_menu"><img src="img/factories.png" class="bottom_menu_img" alt=""/> ОБМЕН ТАНКА</a></li>
                         <li ><a href="#" class="item_b_menu"><img src="img/circule.png" class="bottom_menu_img" alt=""/> ИНЫЕ УСЛУГИ</a></li>
-
+                        <!--<li ><a href="#" class="item_b_menu"><span class="glyphicon glyphicon-home bottom_menu_img home_icon"></span> HOME</a></li>-->
                     </ul>
 
                 </div>
@@ -255,7 +256,7 @@
 
     <div class="modal fade bs-example-modal-md" id="myModal_sale" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
         <div class="modal-dialog modal-md">
-            <div class="modal-content">
+            <div class="modal-content modal-dark">
                 <button type="button" class="close close_modal" data-dismiss="modal" aria-label="Close" ><span aria-hidden="true">&times;</span></button>
                 <h3 class="modal_sale_title"><span class="modal_gold_txt">Форма добавления на продажу</span></h3>
                 <form role="form">

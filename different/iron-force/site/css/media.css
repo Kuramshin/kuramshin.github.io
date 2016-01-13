@@ -57,6 +57,10 @@ and (orientation : portrait) {
     .top-menu-left_1 {
         width: 100% !important;
     }
+    .login_auth {
+
+        padding: 5px !important;
+    }
 
     .btn-welcome {
         font-size: 12px;
