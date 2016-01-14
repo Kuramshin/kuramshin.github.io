@@ -20,4 +20,35 @@ for(i=0;i<bylineArr.length;i++){                                    // Loop for 
 */
 // add and remove active class at bottom menu
 
+// Chat
 
+$('.chat-input').on('keypress',function (e) {
+    e.preventDefault
+    if (e.which == 13) {
+        if($(this).val() != ''){
+            var chatItem = $(this).val();
+            createChatItem(chatItem);
+        }else{
+            // some validation
+        }
+    }
+});
+
+function createChatItem(text){
+    var markup = '<strong class="pull-left primary-font chat-name">Guest</strong><small class="pull-right text-muted"><span class="glyphicon glyphicon-time"></span> 2 mins ago</small> </br> <li class="chat-list-item">'+ text +'</li>';
+    $('#chat-list').append(markup);
+    $('.chat-input').val('');
+};
+
+$('.chat-btn-enter').on('click', function(){
+
+    var data = $('.chat-input').val();
+
+    if(data !== ''){
+        createChatItem(data);
+    }
+
+    else {
+        // some validation
+    }
+});

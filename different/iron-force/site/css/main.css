@@ -763,7 +763,21 @@ label {
     background: black;
 }
 
+/* chat items*/
 
-/*.modal-header {*/
-    /*background: red !important;*/
-/*}*/
+.chat-list {
+    list-style: none;
+
+    padding-left: 0px;
+    text-align: left;
+}
+
+.chat-name {
+    color:#ffcd00;
+}
+
+.chat-list-item {
+
+    padding: 10px;
+    /*background-color: #272b2f;*/
+}
