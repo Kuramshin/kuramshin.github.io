@@ -336,6 +336,10 @@ html {
     z-index: 555 !important;
 }
 
+.login-box {
+    z-index: 555 !important;
+}
+
 #collapseExample_1 {
     z-index: 2;
 }
@@ -531,7 +535,7 @@ html {
     background: black;
     background-size: cover;
 }
-
+/*
 .carousel_item_1 {
     background: url(../img/slide01.jpg) no-repeat center center;
     background-size: cover;
@@ -555,7 +559,7 @@ html {
 .carousel {
     z-index: 1 !important;
 }
-
+*/
 .carousel-caption {
     margin-bottom: 200px !important;
 }
