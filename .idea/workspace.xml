@@ -2,149 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/Stvol.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/bashnya.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/bronya.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/dviglo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/haki_shop_item.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/main_bg_shop_v01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/main_bg_shop_v02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/shop_item_v01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/traki.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/css/bootstrap_col_15.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_others.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/css/main_1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/bottle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/form_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/slide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/slide1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/slide2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/slide3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/slide4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/index_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/css/css-reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/css/form.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoBold/RobotoBold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoBold/RobotoBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoBold/RobotoBold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoLight/RobotoLight.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoLight/RobotoLight.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoLight/RobotoLight.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoMedium/RobotoMedium.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoMedium/RobotoMedium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoMedium/RobotoMedium.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoRegular/RobotoRegular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoRegular/RobotoRegular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoRegular/RobotoRegular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/bottle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/form_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/slide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/slide1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/slide2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/slide3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/slide4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/js/cycle2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/js/jquery-1.11.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/css/.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/css/css-reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoBold/RobotoBold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoBold/RobotoBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoBold/RobotoBold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoLight/RobotoLight.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoLight/RobotoLight.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoLight/RobotoLight.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoMedium/RobotoMedium.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoMedium/RobotoMedium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoMedium/RobotoMedium.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoRegular/RobotoRegular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoRegular/RobotoRegular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoRegular/RobotoRegular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/bottle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/form_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/slide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/slide1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/slide2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/slide3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/slide4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/js/cycle2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/js/jquery-1.11.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/css/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/css/get-shit-done.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/css/gsdk-base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/css/gsdk-checkbox-radio-switch.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/css/gsdk-sliders.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/blurred-black-cover.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/carousel_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/carousel_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/carousel_orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/carousel_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/cover_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/cover_4_blur.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/dulau.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/mask.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/mockup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/new_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/slide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/tim_80x80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/get-shit-done.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/gsdk-bootstrapswitch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/gsdk-checkbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/gsdk-radio.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/jquery-ui-1.10.4.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/components.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/jquery/jquery-1.10.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/jquery/jquery-ui.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/navbar-transparent.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/notification.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/tutorial.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/img/exit.png" afterPath="$PROJECT_DIR$/different/iron-force/site/img/exit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/index.html" afterPath="$PROJECT_DIR$/different/iron-force/site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/css/main.css" afterPath="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/css/media.css" afterPath="$PROJECT_DIR$/different/iron-force/site/css/media.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/store.html" afterPath="$PROJECT_DIR$/different/iron-force/site/store.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka/img/knopka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka/img/knopka.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka/knoka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/commercial15.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/Kuramshin_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_11.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_12.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_orange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_orange_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_orange_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_orange_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_orange_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/knopka_orange_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/img/система.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aps/knopka_1/knoka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/arcoboleno_colore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/arcoboleno_gris.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/autumn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/autumn_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/black_slate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/blanko.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/california_gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/falling_leavse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/green_marker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/molto_rossa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/multi_color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/negro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/rustical.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/sahara.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/tan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/bg_stoun/terra_rosso.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/vlast/stoun_grid.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -330,28 +226,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kuramshin.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kuramshin.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="different" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iron-force" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -465,12 +339,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00158" summary="iron force upd top menu pager nav fixing">
-      <created>1449004695411</created>
-      <option name="number" value="00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1449004695411</updated>
     </task>
     <task id="LOCAL-00159" summary="iron force upd b menu icons and logo">
       <created>1449535208183</created>
@@ -760,13 +628,20 @@
       <option name="project" value="LOCAL" />
       <updated>1452796615363</updated>
     </task>
-    <option name="localTasksCounter" value="207" />
+    <task id="LOCAL-00207" summary="iron force upd stors pages">
+      <created>1453290189375</created>
+      <option name="number" value="00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1453290189378</updated>
+    </task>
+    <option name="localTasksCounter" value="208" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="896" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32795697" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -781,7 +656,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32795697" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -819,7 +693,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hw2" />
     <MESSAGE value="hw1" />
     <MESSAGE value="hw3" />
     <MESSAGE value="hw" />
@@ -844,7 +717,8 @@
     <MESSAGE value="iron-force upd fonts" />
     <MESSAGE value="iron force upd" />
     <MESSAGE value="iron force upd chat block" />
-    <option name="LAST_COMMIT_MESSAGE" value="iron force upd chat block" />
+    <MESSAGE value="iron force upd stors pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="iron force upd stors pages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
