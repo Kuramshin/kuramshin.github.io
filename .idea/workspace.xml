@@ -2,9 +2,149 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/Stvol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/bashnya.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/bronya.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/dviglo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/haki_shop_item.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/main_bg_shop_v01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/main_bg_shop_v02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/shop_item_v01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/traki.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/css/bootstrap_col_15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_others.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/css/main_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/bottle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/form_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/slide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/slide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/slide3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/slide4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/img/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/index_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/bootstrap_realization/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/css/css-reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/css/form.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoBold/RobotoBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoBold/RobotoBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoBold/RobotoBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoLight/RobotoLight.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoLight/RobotoLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoLight/RobotoLight.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoMedium/RobotoMedium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoMedium/RobotoMedium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoMedium/RobotoMedium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoRegular/RobotoRegular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoRegular/RobotoRegular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/fonts/RobotoRegular/RobotoRegular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/bottle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/form_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/slide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/slide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/slide3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/slide4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/img/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/js/cycle2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup/js/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/css/.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/css/css-reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoBold/RobotoBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoBold/RobotoBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoBold/RobotoBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoLight/RobotoLight.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoLight/RobotoLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoLight/RobotoLight.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoMedium/RobotoMedium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoMedium/RobotoMedium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoMedium/RobotoMedium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoRegular/RobotoRegular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoRegular/RobotoRegular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/fonts/RobotoRegular/RobotoRegular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/bottle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/form_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/slide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/slide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/slide3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/slide4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/img/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/js/cycle2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/js/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/pure_markup_1/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/css/get-shit-done.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/css/gsdk-base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/css/gsdk-checkbox-radio-switch.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/css/gsdk-sliders.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/blurred-black-cover.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/carousel_blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/carousel_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/carousel_orange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/carousel_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/cover_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/cover_4_blur.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/dulau.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/mask.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/mockup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/new_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/slide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/img/tim_80x80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/get-shit-done.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/gsdk-bootstrapswitch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/gsdk-checkbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/gsdk-radio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/assets/js/jquery-ui-1.10.4.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/bootstrap3/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/components.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/jquery/jquery-1.10.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/jquery/jquery-ui.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/navbar-transparent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/notification.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/test_case_green/x_GSDK_production_1.3/tutorial.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/img/exit.png" afterPath="$PROJECT_DIR$/different/iron-force/site/img/exit.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/index.html" afterPath="$PROJECT_DIR$/different/iron-force/site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/css/main.css" afterPath="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/js/main.js" afterPath="$PROJECT_DIR$/different/iron-force/site/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/css/media.css" afterPath="$PROJECT_DIR$/different/iron-force/site/css/media.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/store.html" afterPath="$PROJECT_DIR$/different/iron-force/site/store.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -31,60 +171,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7225807">
-              <caret line="138" column="52" selection-start-line="138" selection-start-column="52" selection-end-line="138" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.28129032">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
               <folding>
-                <element signature="n#style#0;n#span#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#4;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="media.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/media.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/different/iron-force/site/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="215" selection-start-line="37" selection-start-column="215" selection-end-line="37" selection-end-column="215" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="781" column="32" selection-start-line="781" selection-start-column="6" selection-end-line="781" selection-end-column="32" />
-              <folding>
-                <element signature="e#1584#1723#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="store.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/different/iron-force/site/store.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="184" column="42" selection-start-line="184" selection-start-column="42" selection-end-line="184" selection-end-column="42" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,10 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/home/lesson3/task4.html" />
-        <option value="$PROJECT_DIR$/js/class/lesson4/task3.html" />
-        <option value="$PROJECT_DIR$/js/class/lesson4/task1.html" />
-        <option value="$PROJECT_DIR$/js/class/lesson4/task2.html" />
         <option value="$PROJECT_DIR$/js/home/lesson3/task5.html" />
         <option value="$PROJECT_DIR$/js/home/lesson4/task1.html" />
         <option value="$PROJECT_DIR$/js/home/lesson4/task1_1.html" />
@@ -165,9 +252,13 @@
         <option value="$PROJECT_DIR$/different/iron-force/site/img/force_img.svg" />
         <option value="$PROJECT_DIR$/different/iron-force/site/img/ios.svg" />
         <option value="$PROJECT_DIR$/different/iron-force/site/img/facebook.svg" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/js/main.js" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/Копия buy_tanks_test.html" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/buy_others.html" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/css/media.css" />
         <option value="$PROJECT_DIR$/different/iron-force/site/store.html" />
-        <option value="$PROJECT_DIR$/different/iron-force/site/js/main.js" />
         <option value="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
         <option value="$PROJECT_DIR$/different/iron-force/site/index.html" />
       </list>
@@ -207,8 +298,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -265,6 +354,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -374,12 +465,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00157" summary="iron force upd top menu">
-      <created>1448980238289</created>
-      <option name="number" value="00157" />
-      <option name="project" value="LOCAL" />
-      <updated>1448980238289</updated>
     </task>
     <task id="LOCAL-00158" summary="iron force upd top menu pager nav fixing">
       <created>1449004695411</created>
@@ -669,31 +754,37 @@
       <option name="project" value="LOCAL" />
       <updated>1452650488922</updated>
     </task>
-    <option name="localTasksCounter" value="206" />
+    <task id="LOCAL-00206" summary="iron force upd chat block">
+      <created>1452796615352</created>
+      <option name="number" value="00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1452796615363</updated>
+    </task>
+    <option name="localTasksCounter" value="207" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="896" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22361112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22361112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.5028525" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769045" sideWeight="0.5028525" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32707775" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32795697" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -711,9 +802,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21841891" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -728,7 +819,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="css correct" />
     <MESSAGE value="hw2" />
     <MESSAGE value="hw1" />
     <MESSAGE value="hw3" />
@@ -753,40 +843,18 @@
     <MESSAGE value="iron-force upd" />
     <MESSAGE value="iron-force upd fonts" />
     <MESSAGE value="iron force upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="iron force upd" />
+    <MESSAGE value="iron force upd chat block" />
+    <option name="LAST_COMMIT_MESSAGE" value="iron force upd chat block" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#4;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/media.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,7 +863,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="580" column="20" selection-start-line="580" selection-start-column="20" selection-end-line="580" selection-end-column="20" />
           <folding>
-            <element signature="e#1584#1723#1" expanded="true" />
+            <element signature="e#1435#1574#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -805,9 +873,17 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="184" column="42" selection-start-line="184" selection-start-column="42" selection-end-line="184" selection-end-column="42" />
           <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -817,9 +893,17 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="282" column="104" selection-start-line="282" selection-start-column="60" selection-end-line="282" selection-end-column="104" />
           <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -828,9 +912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -839,7 +920,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="491" column="23" selection-start-line="491" selection-start-column="23" selection-end-line="491" selection-end-column="23" />
           <folding>
-            <element signature="e#1584#1723#1" expanded="true" />
+            <element signature="e#1435#1574#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -849,9 +930,17 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="156" column="42" selection-start-line="156" selection-start-column="42" selection-end-line="156" selection-end-column="42" />
           <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1066,52 +1155,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/media.css">
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <caret line="37" column="215" selection-start-line="37" selection-start-column="215" selection-end-line="37" selection-end-column="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/Копия buy_tanks_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.416666">
+          <caret line="37" column="40" selection-start-line="36" selection-start-column="12" selection-end-line="37" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/slide03.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/shop_item_v01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/main_bg_shop_v01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/main_bg_shop_v02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46632123">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="e#1435#1574#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/store.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="184" column="42" selection-start-line="184" selection-start-column="42" selection-end-line="184" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.059354838">
+          <caret line="143" column="36" selection-start-line="143" selection-start-column="24" selection-end-line="143" selection-end-column="36" />
           <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/js/main.js">
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/buy_others.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="215" selection-start-line="37" selection-start-column="215" selection-end-line="37" selection-end-column="215" />
+        <state vertical-scroll-proportion="0.38064516">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/buy_tanks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36774194">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="154" selection-end-column="14" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/main.css">
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="781" column="32" selection-start-line="781" selection-start-column="6" selection-end-line="781" selection-end-column="32" />
-          <folding>
-            <element signature="e#1584#1723#1" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-0.18523316">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7225807">
-          <caret line="138" column="52" selection-start-line="138" selection-start-column="52" selection-end-line="138" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.28129032">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#4;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
