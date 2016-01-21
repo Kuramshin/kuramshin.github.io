@@ -71,6 +71,9 @@
         background-size: cover;
     }
 
+    .login_flag_img {
+        width: 30px !important;
+    }
     .middle {
 
         bottom: 60px;
@@ -152,6 +155,15 @@
         text-align: right !important;
         padding-top: 5px;
     }
+    .cristalss_buy_others_item {
+        width: 85%;
+    }
+
+    .shop_item_img {
+        padding: 10px 20px;
+        height: 140px;
+        width: 200px;
+    }
 }
 
 @media only screen and (min-width: 650px) {
@@ -164,6 +176,12 @@
 
         bottom: 100px;
     }
+
+    .nav-tabs_buy_others {
+
+        padding: 20px 100px 0;
+    }
+
 }
 
 

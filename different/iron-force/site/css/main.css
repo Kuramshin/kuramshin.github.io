@@ -208,6 +208,19 @@ html {
     background: #69963B !important;
 }
 
+.btn-def {
+
+    background: #315111;
+    color: #EBEBEB !important;
+    border: 1px solid #315111;
+
+}
+
+.btn-def:hover {
+    background: #69963B !important;
+}
+
+
 .btn-logout_icon {
     color: #EBEBEB !important;
 }
@@ -823,14 +836,16 @@ label {
 
 .shop_item_img {
     padding: 10px 20px;
-    height: 200px;
+    height: 150px;
+    width: 220px;
 }
 
 .tank_shop_item_bottom_line_b {
-    background: url(../img/haki_shop_item.jpg) no-repeat center center;
+    background: url(../img/diamond/cristalls_background_top.png) no-repeat center center;
     width: 100%;
     margin: 0;
     padding: 0;
+    background-size: cover !important;
 }
 
 .tank_shop_tank_model,
@@ -910,4 +925,125 @@ label {
 
 .row_bar_fill_move {
     width: 45%;
+}
+
+/* nav tabs */
+
+.row_tab_buy_others {
+    margin-top: 30px;
+}
+.nav-tabs {
+    border-bottom: 1px solid #252d36;
+}
+
+.nav-tabs_buy_others {
+    background: #252d36;
+
+}
+
+
+.nav-tabs>li>a {
+   color: #72854e;
+    margin: 0 10px;
+    background: #151719;
+    font-family: 'Oswald', sans-serif !important;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover, .nav-tabs>li>a:hover  {
+    color: #8bda04 !important;
+    cursor: default;
+    background-color: #436209 !important;
+    border: 1px solid #436209 !important;
+    border-bottom-color: transparent;
+}
+
+.tab-content_buy_others {
+  padding: 15px;
+}
+
+.btn-def {
+    font-family: 'Oswald', sans-serif !important;
+}
+/* nav tabs cristalls */
+
+.cristalss_buy_others {
+    margin-bottom: 20px;
+}
+
+.cristalss_buy_others_item {
+    margin: 20px;
+    text-align: center;
+    border: 3px solid #588302;
+    color: #e9e9d5;
+    font-family: 'Oswald', sans-serif !important;
+    cursor: pointer;
+}
+
+.cristalss_buy_others_item_top_item {
+    padding: 10px;
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.cristalss_buy_others_item_top {
+    background: url(../img/diamond/cristalls_background_top.png) no-repeat center center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.cristalss_buy_others_item_top_img {
+    width: 30px;
+    margin-left: 5px;
+}
+
+.cristalss_buy_others_item:hover .cristalss_buy_others_item_middle_img {
+    opacity: 1;
+}
+
+.cristalss_buy_others_item_middle {
+    background: #1D251D url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
+    height: 100%;
+}
+
+.cristalss_buy_others_item_middle_img {
+    width: 100%;
+    opacity: 0.85;
+    /*padding-top: 50px;*/
+    /*padding-bottom: 50px;*/
+}
+
+
+.cristalss_buy_others_item_bottom_txt {
+    padding: 10px;
+    background: #090909;
+}
+
+.cristalss_buy_others_item_bottom_txt_item {
+    margin: 0;
+}
+
+.cristalss_buy_others_item_bottom_btn_b {
+    background: #272d19;
+    padding: 10px;
+}
+
+.cristalss_buy_others_item_bottom_btn_item {
+    background: url(../img/diamond/EnergyButton_BackGround.png) no-repeat center center;
+    background-size: cover !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    color: black;
+    font-size: 1.2em;
+    padding: 15px;
+    margin: 0;
+}
+
+.cristalss_buy_others_item_bottom_btn_item:hover {
+    background: url(../img/diamond/EnergyButton_Press.png) no-repeat center center;
+    background-size: cover !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
