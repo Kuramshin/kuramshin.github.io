@@ -366,7 +366,7 @@ html {
     z-index: 1 !important;
     width: 100%;
     position: absolute;
-    bottom: 100px;
+    /*bottom: 100px;*/
 }
 
 .top-menu-right {
@@ -525,11 +525,11 @@ html {
     margin-top: -105px !important;
 }
 
-.carousel_store {
+/*.carousel_store {*/
 
-    top:100px;
-    bottom:0;
-}
+    /*top:100px;*/
+    /*bottom:0;*/
+/*}*/
 
 .carousel,
 .carousel-inner

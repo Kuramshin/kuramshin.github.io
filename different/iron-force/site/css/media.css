@@ -70,6 +70,16 @@
         background: url(../img/slide04.jpg) no-repeat center center;
         background-size: cover;
     }
+
+    .middle {
+
+        bottom: 60px;
+    }
+
+    .s-media-item {
+        margin: 5px 10px;
+        width: 40px;
+    }
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
@@ -141,6 +151,18 @@
     .login_flag {
         text-align: right !important;
         padding-top: 5px;
+    }
+}
+
+@media only screen and (min-width: 650px) {
+    .s-media-item {
+        margin: 10px 20px;
+        width: 60px;
+    }
+
+    .middle {
+
+        bottom: 100px;
     }
 }
 
