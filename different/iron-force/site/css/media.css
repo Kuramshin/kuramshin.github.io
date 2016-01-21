@@ -183,7 +183,226 @@
     }
 
 }
+/*new approach*/
 
+@media only screen and (min-device-width: 480px) and (max-device-width: 650px) {
+    .middle {
+        bottom: 60px;
+    }
+    .chevron-1 {
+        display: inline !important;
+        left: -10px;
+    }
+    .chevron-2 {
+        display: inline !important;
+        left: -25px;
+    }
+    .btn-login,
+    .btn-registration {
+        display: block;
+        margin: 10px;
+    }
+    .chevron-1,
+    .chevron-2 {
+        font-size: 1.5em;
+    }
+    .login-box {
+        width: 130%;
+        margin: 10px 0;
+    }
+    .login_name {
+        font-size: 1.2em !important;
+    }
+    .login_flag_img {
+        width: 30px !important;
+    }
+}
+@media only screen and (min-device-width: 651px) and (max-device-width: 768px) {
+    .middle {
+        bottom: 60px;
+    }
+    .statistic {
+        padding: 5px;
+        font-size: 11px;
+    }
+    .s-media-item {
+        margin: 5px 10px;
+        width: 40px;
+    }
+    .top-menu-left_1 {
+        z-index: 555 !important;
+    }
+    .top-menu-right {
+
+        padding: 0 !important;
+    }
+    .top-menu-money-b {
+        padding-right: 0 !important;
+    }
+    .btn-chat-a {
+        padding: 0;
+        top: -4px !important;
+    }
+    span.money-txt {
+        font-size: 12px;
+    }
+    img.cart_img {
+        width: 25px !important;
+    }
+    img.chat_img {
+        width: 36px !important;
+    }
+    img.dollars_img {
+        width: 30px !important;
+    }
+    img.cristalls_img {
+        width: 23px !important;
+    }
+    .top-menu-cart-b,
+    .top-menu-chat-b {
+        width: auto;
+        height: auto;
+    }
+    .top-menu-chat-b {
+        margin: 0 5px 0 0;
+    }
+    .top-menu-cart-b {
+        margin: 0 2px;
+    }
+    .top-menu-money-b {
+        padding-right: 0 !important;
+        top: 12px;
+    }
+    .btn-login {
+        margin: 0 !important;
+    }
+    .btn-registration {
+        margin: 10px 0 !important;
+    }
+    .top-menu,
+    .top-menu_1 {
+        height: 60px;
+    }
+    .logo_img {
+        width: 49px;
+        left: 0;
+        top: 1px;
+    }
+    .top-menu-login-b_1 {
+        padding: 8px;
+    }
+    .top-menu-left_1 {
+        margin: 0;
+        height: 60px;
+        border-radius: 0 30px 30px 0;
+    }
+    .top-menu-fuelback_1 {
+        width: 50px;
+        height: 50px;
+        right: 5px;
+        top: 5px;
+    }
+    .top-menu-fuelcircul {
+        width: 50px !important;
+        height: 48px !important;
+        right: 5px;
+        top: 5px;
+    }
+    .top-menu-fuelcircul_move {
+        width: 45px;
+        height: 45px;
+        right: -6px;
+        top: -6px;
+    }
+    .fuel_back_img {
+        margin: 0 2px;
+        width: 20px;
+    }
+    .login-box {
+        width: 130%;
+        margin: 10px 0;
+    }
+}
+
+@media only screen and (min-device-width: 769px) and (max-device-width: 801px) {
+    .top-menu-right {
+        font-size: 13px;
+        width: 50%;
+        padding: 8px 5px 8px 0 !important;
+    }
+    .top-menu-money-b {
+        padding-right: 0 !important;
+    }
+    .top-menu-login-b_1 {
+        width: 66%;
+    }
+    .top-menu-left_1 {
+        z-index: 555 !important;
+        width: 50%;
+    }
+    .nav>li>a>img {
+        height: 18px;
+    }
+    .navbar-nav>li>a {
+        line-height: 20px !important;
+        font-size: 15px !important;
+        padding: 20px 10px !important;
+    }
+    .tank_shop_item_img {
+        width: 80px;
+    }
+    .tank_shop_item_bottom_b {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (min-device-width: 802px) and (max-device-width: 992px) {
+    .navbar-nav>li>a {
+        padding-top: 13px;
+        padding-bottom: 13px;
+        font-size: 1.0em;
+    }
+    .top-menu-login-b_1 {
+        width: 75%;
+    }
+}
+
+@media only screen and (min-device-width: 993px) and (max-device-width: 1090px) {
+    .navbar-nav>li>a {
+        margin: 0 5px;
+        font-size: 1.1em;
+    }
+    .top-menu-login-b_1 {
+        width: 77%;
+    }
+}
+
+@media only screen and (min-device-width: 1091px) and (max-device-width: 1200px) {
+    .navbar-nav>li>a {
+        margin: 0 8px;
+        font-size: 1.2em;
+    }
+    .bottom_menu_img {
+        height: 25px;
+        width: initial;
+    }
+    .btn-welcome {
+        width: 75%;
+    }
+}
+
+@media only screen and (min-width: 1201px) {
+    .bottom_menu_img {
+        height: 38px;
+    }
+    .navbar-nav>li>a {
+        margin: 0 8px;
+        font-size: 1.2em;
+    }
+    .top-menu-left_1 {
+        z-index: 555 !important;
+    }
+}
 
 /* Extra Small Devices, Phones
 

@@ -988,6 +988,7 @@ label {
 .cristalss_buy_others_item_top {
     background: url(../img/diamond/cristalls_background_top.png) no-repeat center center;
     width: 100%;
+    background-size: cover !important;
     margin: 0;
     padding: 0;
 }
