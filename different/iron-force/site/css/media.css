@@ -1,26 +1,30 @@
+
 /*==========  Mobile First Method  ==========*/
 
-
 /* Custom, iPhone Retina */
-
-@media only screen and (min-width: 320px) {
-    body,
-    html {
-        height: 100%;
-        min-height: 100%;
+@media only screen and (min-width : 320px) {
+    body{
+        height:100%;
         width: 100%;
+       
+       
+       
     }
-    .wrapper_home {
+	.wrapper_home {
+		 background: url(../img/main_bg.jpg) no-repeat center center fixed;
+       min-height: 100% !important;
         width: 100%;
-        min-height: 100% !important;
-        background: black;
-        background: url(../img/main_bg.jpg) no-repeat center center fixed;
-        background-size: cover;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-    }
-    .wrapper_shop, .wrapper_shop_others {
+		background-size: cover;
+	}
+		
+	.wrapper_tank_shop {
+	background: url(../img/slide03.jpg) no-repeat center center fixed;
+	min-height: 100% !important;
+        width: 100%;
+		background-size: cover;
+        
+}
+  .wrapper_shop, .wrapper_shop_others {
 
         width: 100%;
         min-height: 100% !important;
@@ -31,461 +35,379 @@
         -o-background-size: cover;
 
     }
-    .wrapper_tank_shop  {
+}
+
+
+@media only screen and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : portrait) {
+    body {
+        height: 100%;
         width: 100%;
-        min-height: 100% !important;
-        background: url(../img/slide03.jpg) no-repeat center center fixed;
+        background: black;
+        background: url(../img/main_bg_xs.jpg) no-repeat center center fixed;
         background-size: cover;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-    }
-
-    .carousel_item {
-        margin: 0;
-        padding: 0;
-        width: 100%;
-        min-height: 100%;
-
-        background-size: cover !important;
+        overflow: hidden;
     }
 
     .carousel_item_1 {
-
-        background: url(../img/slide01.jpg) no-repeat center center;
+        background: url(../img/slide01_xs.jpg) no-repeat center center;
         background-size: cover;
     }
 
     .carousel_item_2 {
-        background: url(../img/slide02.jpg) no-repeat center center;
+        background: url(../img/slide02_xs.jpg) no-repeat center center;
         background-size: cover;
     }
 
     .carousel_item_3 {
-        background: url(../img/slide03.jpg) no-repeat center center;
+        background: url(../img/slide03_xs.jpg) no-repeat center center;
         background-size: cover;
     }
 
     .carousel_item_4 {
-        background: url(../img/slide04.jpg) no-repeat center center;
+        background: url(../img/slide04_xs.jpg) no-repeat center center;
         background-size: cover;
     }
 
-    .login_flag_img {
-        width: 30px !important;
+    .top-menu-right {
+        display: none !important;
     }
-    .middle {
 
-        bottom: 60px;
+    .money-txt {
+        font-size: 10px !important;
+    }
+
+    .chat_img {
+        width: 25px !important;
+    }
+
+    .cart_img {
+        width: 25px !important;
+    }
+
+    .top-menu-left_1 {
+        width: 100% !important;
+    }
+    .login_auth {
+
+        padding: 5px !important;
+    }
+
+    .btn-welcome {
+        font-size: 12px;
+        width: 100%;
+    }
+    .navbar-inverse .navbar-nav>li>a {
+
+        padding: 15px !important;
+
+
+    }
+
+    .modal_welcome_title, .modal_gold_txt {
+        font-size: 18px;
+    }
+
+    .modal_gold_txt {
+        text-align: center;
+    }
+
+    .btn-buy {
+
+        margin: 10px 10px 10px 0;
+    }
+    .login_name {
+        font-size: 1.2em !important;
+        padding-top: 5px;
+
+    }
+    .login_flag {text-align: right !important;
+    padding-top: 5px;}
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+
+    .middle {
+        bottom:60px;
+    }
+
+    .chevron-1 {
+        display: inline !important;
+        left:-10px;
+    }
+
+    .chevron-2 {
+        display: inline !important;
+        left:-25px;
+    }
+    .btn-login, .btn-registration {
+        display: block;
+        margin: 10px;
+        /*width: 92% !important;*/
+    }
+
+    .chevron-1,
+    .chevron-2 {
+
+        font-size: 1.5em;}
+
+    .login-box {width: 130%;
+        margin: 10px 0;}
+
+    .login_name {
+        font-size: 1.2em !important;
+
+    }
+
+    .login_flag_img {width: 30px !important;}
+
+
+}
+
+
+@media only screen and (max-width : 650px) {
+    .middle {
+        bottom:60px;
+    }
+    .statistic {
+
+        padding: 5px;
+        font-size: 11px;
     }
 
     .s-media-item {
         margin: 5px 10px;
         width: 40px;
     }
-    .top-menu,
-    .top-menu_1 {
-        height: 60px;
+    .top-menu-left_1 {
+        z-index: 555 !important;
+
     }
+    .top-menu-right {
+
+        /*padding: 10px !important;*/
+        padding: 0 !important;
+
+    }
+
+    .top-menu-money-b {
+        padding-right: 0 !important;
+
+    }
+
+    .btn-chat-a {padding: 0;
+        top: -4px !important;}
+
+    span.money-txt {font-size: 12px;}
+
+    img.cart_img {width: 25px !important;}
+    img.chat_img {width: 36px !important;}
+    img.dollars_img {width: 30px !important;}
+    img.cristalls_img {width: 23px !important;}
+
+    .top-menu-cart-b, .top-menu-chat-b {
+        width: auto;
+        height: auto;
+
+    }
+    .top-menu-chat-b {margin: 0 5px 0 0;}
+    .top-menu-cart-b {  margin: 0 2px;}
+
+    .top-menu-money-b {
+
+        padding-right: 0 !important;
+        top:12px;
+    }
+
+    .btn-login {
+        margin: 0 !important;
+    }
+    .btn-registration {
+        margin: 10px 0 !important;
+    }
+
+
+
+    .top-menu, .top-menu_1 {
+        height: 60px;
+
+    }
+
+    .logo_img {width: 49px;
+        left:0;
+        top:1px;
+    }
+    .top-menu-login-b_1 {
+
+        padding: 8px;}
 
     .top-menu-left_1 {
         margin: 0;
         height: 60px;
         border-radius: 0 30px 30px 0;
     }
+
     .top-menu-fuelback_1 {
         width: 50px;
         height: 50px;
         right: 5px;
         top: 5px;
     }
+
     .top-menu-fuelcircul {
-        width: 46px !important;
-        height: 46px !important;
+        width: 50px !important;
+        height: 48px !important;
         right: 5px;
         top: 5px;
     }
-    .logo_img {
-        width: 48px !important;
 
-    }
-    .top-menu-login-b_1 {
-        width: 82%;
-      height: 100%;
-        padding: 8px;
-    }
-    img.cart_img {
-        width: 25px !important;
-    }
-    img.chat_img {
-        width: 36px !important;
-    }
-    img.dollars_img {
-        width: 30px !important;
-    }
-    img.cristalls_img {
-        width: 23px !important;
-    }
-    .top-menu-cart-b, .top-menu-chat-b {
-         width: auto;
-         height: auto;
-margin: 5px 0;
-    }
-
-}
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
-
-
-.wrapper_home {
-    width: 100%;
-    min-height: 100% !important;
-        background: black;
-        background: url(../img/main_bg_xs.jpg) no-repeat center center fixed;
-        background-size: cover;
-        /*overflow: hidden;*/
-    }
-    .carousel_item_1 {
-        background: url(../img/slide01_xs.jpg) no-repeat center center;
-        background-size: cover;
-    }
-    .carousel_item_2 {
-        background: url(../img/slide02_xs.jpg) no-repeat center center;
-        background-size: cover;
-    }
-    .carousel_item_3 {
-        background: url(../img/slide03_xs.jpg) no-repeat center center;
-        background-size: cover;
-    }
-    .carousel_item_4 {
-        background: url(../img/slide04_xs.jpg) no-repeat center center;
-        background-size: cover;
-    }
-    .top-menu-right {
-        display: none !important;
-    }
-    .money-txt {
-        font-size: 10px !important;
-    }
-    .chat_img {
-        width: 25px !important;
-    }
-    .cart_img {
-        width: 25px !important;
-    }
-    .top-menu-left_1 {
-        width: 100% !important;
-    }
-    .login_auth {
-        padding: 5px !important;
-    }
-    .btn-welcome {
-        font-size: 12px;
-        width: 100%;
-    }
-    .navbar-inverse .navbar-nav>li>a {
-        padding: 15px !important;
-    }
-    .modal_welcome_title,
-    .modal_gold_txt {
-        font-size: 18px;
-    }
-    .modal_gold_txt {
-        text-align: center;
-    }
-    .btn-buy {
-        margin: 10px 10px 10px 0;
-    }
-    .login_name {
-        font-size: 1.2em !important;
-        padding-top: 5px;
-    }
-    .login_flag {
-        text-align: right !important;
-        padding-top: 5px;
-    }
-    .cristalss_buy_others_item {
-        width: 85%;
-    }
-
-    .shop_item_img {
-        padding: 10px 20px;
-        height: 140px;
-        width: 200px;
-    }
-
-    .top-menu_1 {
-        height: 60px;
-    }
-    .logo_img {
-        width: 48px !important;
-
-    }
-}
-
-/*new approach*/
-
-@media only screen and (min-width: 480px) {
-    .top-menu-fuelcircul {
-        width: 46px !important;
-        height: 46px !important;
-        box-sizing: border-box;
-    }
-
-    .top-menu-fuelback_1 {
-        width: 60px;
-        height: 60px;
-        border-radius: 50%;
-        right: 10px;
-        top: 10px;
-        position: absolute;
-    }
-
-    .logo_img {
-        width: 48px !important;
-        position: relative;
-        left: 16px;
-        top: -2px;
-        opacity: 0.8;
-    }
-
-    .middle {
-        bottom: 60px;
-    }
-    .chevron-1 {
-        display: inline !important;
-        left: -10px;
-    }
-    .chevron-2 {
-        display: inline !important;
-        left: -25px;
-    }
-    .btn-login,
-    .btn-registration {
-        display: block;
-        /*margin: 10px;*/
-    }
-    .chevron-1,
-    .chevron-2 {
-        font-size: 1.5em;
-    }
-    .login-box {
-        width: 130%;
-        margin: 10px 0;
-    }
-    .login_name {
-        font-size: 1.2em !important;
-    }
-    .login_flag_img {
-        width: 30px !important;
-    }
-}
-@media only screen and (min-width: 650px)  {
-
-
-
-    .middle {
-        bottom: 60px;
-    }
-    .statistic {
-        padding: 5px;
-        font-size: 11px;
-    }
-    .s-media-item {
-        margin: 5px 10px;
-        width: 40px;
-    }
-    .top-menu-left_1 {
-        z-index: 555 !important;
-    }
-    .top-menu-right {
-
-        padding: 0 !important;
-    }
-    .top-menu-money-b {
-        padding-right: 0 !important;
-    }
-    .btn-login {
-        width: 50%;
-    }
-    .btn-chat-a {
-        padding: 0;
-        top: -4px !important;
-    }
-    span.money-txt {
-        font-size: 12px;
-    }
-    img.cart_img {
-        width: 25px !important;
-    }
-    img.chat_img {
-        width: 36px !important;
-    }
-    img.dollars_img {
-        width: 30px !important;
-    }
-    img.cristalls_img {
-        width: 23px !important;
-    }
-    .top-menu-cart-b,
-    .top-menu-chat-b {
-        width: auto;
-        height: auto;
-    }
-    .top-menu-chat-b {
-        margin: 0 5px 0 0;
-    }
-    .top-menu-cart-b {
-        margin: 0 2px;
-    }
-    .top-menu-money-b {
-        padding-right: 0 !important;
-        top: 12px;
-    }
-    .btn-login {
-        margin: 0 !important;
-    }
-    .btn-registration {
-        margin: 10px 0 !important;
-        /*width: 40%;*/
-    }
-    .top-menu,
-    .top-menu_1 {
-        height: 60px;
-    }
-    .logo_img {
-        width: 60px !important;
-        left: 0;
-        top: 2px;
-    }
-    .top-menu-login-b_1 {
-        padding: 8px;
+    .top-menu-fuelcircul_move {
+        width: 45px;
+        height: 45px;
+        right: -6px;
+        top: -6px;
     }
 
     .fuel_back_img {
         margin: 0 2px;
         width: 20px;
     }
-    .login-box {
-        width: 100%;
-        margin: 10px 0;
-    }
 
-    .s-media-item {
-        margin: 10px 20px;
-        width: 60px;
-    }
 
-    .middle {
+    .login-box {width: 130%;
+        margin: 10px 0;}
 
-        bottom: 100px;
-    }
-
-    .nav-tabs_buy_others {
-
-        padding: 20px 100px 0;
-    }
 }
 
-@media only screen and (min-width: 768px)  {
-
-    .top-menu,
-    .top-menu_1 {
-
-        height: 80px;
-
-    }
-    .btn-registration {
-
-        width: 40%;
-    }
-
-    .top-menu-left_1 {
-        margin: 0;
-        padding: 5px;
-        height: 80px;
-        border-radius: 0 40px 40px 0;
-    }
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
 
     .top-menu-right {
         font-size: 13px;
         width: 50%;
         padding: 8px 5px 8px 0 !important;
+
     }
+
+
     .top-menu-money-b {
         padding-right: 0 !important;
+
     }
     .top-menu-login-b_1 {
-        width: 75%;
-    }
+        width: 66%;}
+
     .top-menu-left_1 {
         z-index: 555 !important;
         width: 50%;
     }
-    .nav>li>a>img {
-        height: 25px;
-        width: 25px;
-    }
+
+
+    .nav>li>a>img {height: 18px;}
     .navbar-nav>li>a {
         line-height: 20px !important;
         font-size: 15px !important;
         padding: 20px 10px !important;
-        margin: 0 8px !important;
     }
-    .tank_shop_item_img {
-        width: 150px;
-    }
-    .tank_shop_item_bottom_b {
-        font-size: 10px;
-    }
-}
+.tank_shop_item_img {
+	width:80px;
+	}
+	.tank_shop_item_bottom_b {
+		font-size:10px;
+	}
 
-@media only screen and (min-width: 802px)  {
+
+}
+@media only screen and (max-width : 801px) {
     .navbar-nav>li>a {
         padding-top: 13px;
         padding-bottom: 13px;
         font-size: 1.0em;
     }
 
+    .top-menu-login-b_1 {
+        width: 75%;}
 }
-
-@media only screen and (min-width: 992px)  {
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
     .navbar-nav>li>a {
         margin: 0 5px;
         font-size: 1.1em;
     }
+
     .top-menu-login-b_1 {
-        width: 77%;
-    }
-    .btn-login {
-        width: 40%;
-    }
+        width: 77%;}
+		
+
 
 }
-
-@media only screen and (min-width: 1090px)  {
+@media only screen and (max-width : 1090px) {
     .navbar-nav>li>a {
         margin: 0 8px;
-        font-size: 1.2em;
-    }
+        font-size: 1.2em;}
+
     .bottom_menu_img {
         height: 25px;
         width: initial;
     }
-    .btn-welcome {
-        width: 75%;
-    }
+
+    .btn-welcome {width: 75%;}
+	
+	.tank_shop_item_img {width:70%; height:auto;}
+	
+
 }
 
-/*@media only screen and (min-width: 1200px) {*/
-    /*.bottom_menu_img {*/
-        /*height: 38px;*/
-    /*}*/
-    /*.navbar-nav>li>a {*/
-        /*margin: 0 8px;*/
-        /*font-size: 1.2em;*/
-    /*}*/
-    /*.top-menu-left_1 {*/
-        /*z-index: 555 !important;*/
-    /*}*/
-/*}*/
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+
+    .bottom_menu_img {
+        height: 38px;
+    }
+
+    .navbar-nav>li>a {
+        margin: 0 8px;
+        font-size: 1.2em;}
+
+.top-menu-left_1 {
+    z-index: 555 !important;
+
+}
+
+}
+
+@media only screen and (max-width : 1400px) { 
+
+}
+
+    /*==========  Desktop First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
