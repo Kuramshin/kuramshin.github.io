@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/stvol_1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -351,12 +352,6 @@
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
     </task>
-    <task id="LOCAL-00170" summary="iron-force upd home page">
-      <created>1450878557264</created>
-      <option name="number" value="00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1450878557264</updated>
-    </task>
     <task id="LOCAL-00171" summary="iron-force upd home page">
       <created>1450878680739</created>
       <option name="number" value="00171" />
@@ -645,7 +640,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453609548045</updated>
     </task>
-    <option name="localTasksCounter" value="219" />
+    <task id="LOCAL-00219" summary="iron force upd">
+      <created>1453609752449</created>
+      <option name="number" value="00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1453609752449</updated>
+    </task>
+    <option name="localTasksCounter" value="220" />
     <servers />
   </component>
   <component name="ToolWindowManager">
