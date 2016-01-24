@@ -124,6 +124,20 @@ and (orientation : portrait) {
     }
     .login_flag {text-align: right !important;
     padding-top: 5px;}
+
+    .cristalss_buy_others_item {
+        width: 90%;
+        margin: 15px !important;
+    }
+    .nav-tabs>li>a {
+        margin: 10px 10px 0;
+
+    }
+
+    .btn_buy_others_page_buy_tank {
+
+        margin-right: 10px;
+    }
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {

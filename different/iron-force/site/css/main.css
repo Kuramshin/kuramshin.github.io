@@ -265,14 +265,21 @@ background: #b30000;
     border: 2px solid #5C8C2B;
 }
 
+.navbar-nav>li>a:visited {
+    outline: #54711E;
+}
 
 .bottom_menu_img {
-    height:45px;}
+    height:45px;
+}
 
-/*.glyphicon {*/
-    /*margin-right: 5px;*/
-    /*color: #315111;*/
-/*}*/
+
+
+button.btn.btn-welcome, a:active, button:active, a:visited, button:visited {
+    outline: #54711E !important;
+
+}
+
 
 .home_icon {
     font-size: 1.3em !important;
@@ -842,8 +849,8 @@ font-family: 'Oswald', sans-serif !important;
 
 .tank_shop_item_container {
 	
-	position:relative;
-	bottom:50px;
+	/*position:relative;*/
+	/*bottom:50px;*/
 	
 }
 
@@ -893,8 +900,8 @@ font-family: 'Oswald', sans-serif !important;
 
 .shop_item_img {
     padding: 10px 20px;
-    height: 150px;
-    width: 220px;
+    /*height: 150px;*/
+    width: 180px;
 }
 
 .tank_shop_item_bottom_line_b {
@@ -989,8 +996,8 @@ font-family: 'Oswald', sans-serif !important;
 
 /* nav tabs */
 
-.row_tab_buy_others {
-    margin-top: 30px;
+ .tab_menu  {
+    padding: 15px;
 }
 .nav-tabs {
     border-bottom: 1px solid #252d36;
@@ -1127,7 +1134,7 @@ font-family: 'Oswald', sans-serif !important;
     -moz-background-size: cover;
     -o-background-size: cover;
 }
-.buy_others_page_buy_suvenirs {
+.buy_others_page_buy_suvenirs, #forward_top_buy_others, #nabit_nal_buy_others {
 	font-family: 'Oswald', sans-serif !important;
 	color: #e9e9d5;
 }
@@ -1136,5 +1143,14 @@ font-family: 'Oswald', sans-serif !important;
     margin: 10px !important;
     
 }
+    #money_buy_others {
+        text-align: center;
+    }
 
-
+.buy_others_page_buy_suvenirs {
+    font-size: 1.5em;
+}
+.tabpanel_title_buy_others {
+    color: gold;
+    line-height: 1.3;
+}
