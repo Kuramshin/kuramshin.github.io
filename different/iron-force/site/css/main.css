@@ -792,16 +792,16 @@ label {
 	
 }
 
-.tank_shop_item_link_b  {
-	color:#EBEBEB;
-	opacity:0.9;
-	max-width:220px;
-text-align:center;
-display:block;
-border:2px solid #9FBB54;
-text-align:center !important;
-background:rgba(46, 51, 55, 0.95);
-border-radius:4px;}
+/*.tank_shop_item_link_b  {*/
+	/*color:#EBEBEB;*/
+	/*opacity:0.9;*/
+	/*max-width:220px;*/
+/*text-align:center;*/
+/*display:block;*/
+/*border:2px solid #9FBB54;*/
+/*text-align:center !important;*/
+/*background:rgba(46, 51, 55, 0.95);*/
+/*border-radius:4px;}*/
 
 .tank_shop_item_link_b:hover {
 	text-decoration:none;
@@ -874,7 +874,7 @@ font-family: 'Oswald', sans-serif !important;
     opacity: 0.9;
     text-align: center;
     border: 2px solid #315111;
-    background: rgba(46, 51, 55, 0.75);
+    background: rgba(0, 0, 0, 0.7);
     border-radius: 4px;
 }
 
@@ -969,7 +969,7 @@ font-family: 'Oswald', sans-serif !important;
 
 .tank_shop_item_prop_left_row_bar_body {
     height: 5px;
-    background: black;
+    background: #555;
     padding: 0;
 }
 
@@ -1099,6 +1099,7 @@ font-family: 'Oswald', sans-serif !important;
 
 .cristalss_buy_others_item_bottom_btn_item {
     background: url(../img/diamond/EnergyButton_BackGround.png) no-repeat center center;
+
     background-size: cover !important;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1111,7 +1112,8 @@ font-family: 'Oswald', sans-serif !important;
 }
 
 .btn_buy_others_page_buy_tank {
-	 background: url(../img/diamond/EnergyButton_BackGround.png) no-repeat center center;
+
+    background: url(../img/diamond/Buy_Button.png) no-repeat center center;
     background-size: cover !important;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1124,7 +1126,8 @@ font-family: 'Oswald', sans-serif !important;
 }
 
 .btn_buy_others_page_buy_tank:hover {
-	 background: url(../img/diamond/EnergyButton_Press.png) no-repeat center center;
+
+    background: url(../img/diamond/Buy_Button_Pressed.png) no-repeat center center;
 }
 
 .cristalss_buy_others_item_bottom_btn_item:hover {
@@ -1134,6 +1137,11 @@ font-family: 'Oswald', sans-serif !important;
     -moz-background-size: cover;
     -o-background-size: cover;
 }
+
+
+
+/*buy others*/
+
 .buy_others_page_buy_suvenirs, #forward_top_buy_others, #nabit_nal_buy_others {
 	font-family: 'Oswald', sans-serif !important;
 	color: #e9e9d5;
@@ -1153,4 +1161,42 @@ font-family: 'Oswald', sans-serif !important;
 .tabpanel_title_buy_others {
     color: gold;
     line-height: 1.3;
+}
+
+/*buy tanks item*/
+
+.btn_buy_tank_item {
+    background: url(../img/btn_buy_tank_item.png) no-repeat center center;
+    background-size: cover !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    color: black;
+    font-size: 1.2em;
+    padding: 10px 15px;
+    margin-right:20px;
+    border: 1px solid black;
+}
+.btn_buy_tank_item:hover {
+    opacity: 0.95;
+}
+
+.tank_shop_item_prop_right_title {
+    color:#C6EE08;
+}
+
+.tank_shop_item_prop_right_img_inner_txt {
+    text-align: left;
+}
+
+.tank_shop_item_prop_right_img {
+    margin-right:10px;
+    width:30px;
+}
+.tank_shop_item_prop_right_middle_inner_txt {
+    text-align: left;
+}
+
+.tank_shop_item_link_b:visited, .tank_shop_item_link_b:focus, .tank_shop_item_link_b:hover, .tank_shop_item_link_b:active {
+    color: #8bda04 !important;
 }
