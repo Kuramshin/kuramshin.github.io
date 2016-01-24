@@ -138,6 +138,10 @@ and (orientation : portrait) {
 
         margin-right: 10px;
     }
+
+    .tank_shop_item_preview {
+        width: 100% !important;
+    }
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {

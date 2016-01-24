@@ -817,16 +817,16 @@ label {
 }
 .shop_item_img {padding:10px 20px;}
 
-.tank_shop_item_bottom_line_b {
-	background: url(../img/haki_shop_item.jpg) no-repeat center center;
-	width:100%;
-	margin:0;
-	padding:0;
-}
+/*.tank_shop_item_bottom_line_b {*/
+	/*background: url(../img/haki_shop_item.jpg) no-repeat center center;*/
+	/*width:100%;*/
+	/*margin:0;*/
+	/*padding:0;*/
+/*}*/
 
 .tank_shop_tank_model, .tank_shop_tank_type {
 	 font-family: 'Oswald', sans-serif !important;
-	padding:8px;
+	padding:10px;
 }
 
 .tank_shop_tank_model {
@@ -839,6 +839,7 @@ label {
 	width:100%;
 	margin:0;
 	padding:0;
+    background-size: cover;
 }
 
 .tank_shop_item_b {
@@ -915,7 +916,7 @@ font-family: 'Oswald', sans-serif !important;
 .tank_shop_tank_model,
 .tank_shop_tank_type {
     font-family: 'Oswald', sans-serif !important;
-    padding: 8px;
+    padding: 10px;
 }
 
 .tank_shop_tank_model {
@@ -1199,4 +1200,54 @@ font-family: 'Oswald', sans-serif !important;
 
 .tank_shop_item_link_b:visited, .tank_shop_item_link_b:focus, .tank_shop_item_link_b:hover, .tank_shop_item_link_b:active {
     color: #8bda04 !important;
+}
+
+/*tanks shop*/
+
+.tank_shop_item_preview_description_inner {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.tank_shop_item_preview_description_inner_txt {
+    text-align: left;
+    padding-top: 15px;
+    font-size: 1.1em;
+}
+
+.tanks_shop_description_icon_android {
+    width: 20px;
+}
+
+.tanks_shop_description_icon_dollars {
+    width: 30px;
+    margin-right: 5px;
+    height: 16px;
+}
+
+.tanks_shop_description_icon_cristalls {
+    width: 30px;
+    margin-right: 5px;
+    height: 25px;
+}
+
+.tank_shop_item_preview_price_txt {
+    font-size: 1.2em;
+    color:gold;
+}
+
+.tank_shop_item_preview {
+    position: relative;
+}
+
+.sales {
+    position: absolute;
+    color:red !important;
+    padding: 5px;
+    border:1px solid red !important;
+    top:30px;
+    left: 10px;
+    z-index: 9999;
+    font-size: 18px;
+    font-weight: 600;
 }
