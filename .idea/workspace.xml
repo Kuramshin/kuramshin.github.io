@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/img/btn_buy_tank_item.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_tank_item_copy.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/iron-force/site/img/Stvol_1.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/buy_others.html" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_others.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/index.html" afterPath="$PROJECT_DIR$/different/iron-force/site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/css/main.css" afterPath="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/store.html" afterPath="$PROJECT_DIR$/different/iron-force/site/store.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -359,12 +351,6 @@
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
     </task>
-    <task id="LOCAL-00169" summary="iron-force upd home page">
-      <created>1450874965519</created>
-      <option name="number" value="00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1450874965520</updated>
-    </task>
     <task id="LOCAL-00170" summary="iron-force upd home page">
       <created>1450878557264</created>
       <option name="number" value="00170" />
@@ -653,7 +639,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453599280752</updated>
     </task>
-    <option name="localTasksCounter" value="218" />
+    <task id="LOCAL-00218" summary="iron force upd">
+      <created>1453609548044</created>
+      <option name="number" value="00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1453609548045</updated>
+    </task>
+    <option name="localTasksCounter" value="219" />
     <servers />
   </component>
   <component name="ToolWindowManager">
