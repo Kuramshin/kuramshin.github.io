@@ -126,10 +126,9 @@ and (orientation : portrait) {
     padding-top: 5px;}
 
     .cristalss_buy_others_item {
-        /*width: 90%;*/
-        /*margin: 15px !important;*/
+
         width: 39%;
-        margin: 5px 10px !important;
+        margin: 5px !important;
         font-size: 10px !important;
     }
 
@@ -140,16 +139,24 @@ and (orientation : portrait) {
     .cristalss_buy_others_item_top_img {
         width: 15px;
     }
+    .sales {
+        font-size: 15px;
+    top:22px;
+    }
 
     .tank_shop_tank_model, .tank_shop_tank_type {
-
+font-size: 10px;
         padding: 5px;
     }
 
     .tanks_shop_description_icon_cristalls, .tanks_shop_description_icon_dollars {
-        width: 20px;
+        width: 16px;
         height: auto;
 
+    }
+    .tank_shop_item_preview_description_inner_txt {
+        font-size: 1.2em;
+        padding-left: 0;
     }
     .nav-tabs>li>a {
         margin: 10px 10px 0;

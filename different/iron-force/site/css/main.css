@@ -920,7 +920,8 @@ font-family: 'Oswald', sans-serif !important;
 .tank_shop_tank_model,
 .tank_shop_tank_type {
     font-family: 'Oswald', sans-serif !important;
-    padding: 10px;
+    padding: 5px;
+    font-size: 12px;
 }
 
 .tank_shop_tank_model {
@@ -1218,23 +1219,25 @@ font-family: 'Oswald', sans-serif !important;
 .tank_shop_item_preview_description_inner_txt {
     text-align: left;
     padding-top: 15px;
-    font-size: 1.1em;
+    font-size: 1.0em;
 }
 
 .tanks_shop_description_icon_android {
-    width: 20px;
+    width: 18px;
+    vertical-align: inherit;
 }
 
 .tanks_shop_description_icon_dollars {
-    width: 30px;
+    width: 20px;
     margin-right: 5px;
-    height: 16px;
+
 }
 
 .tanks_shop_description_icon_cristalls {
-    width: 30px;
+    width: 20px;
     margin-right: 5px;
-    height: 25px;
+    vertical-align: inherit;
+
 }
 
 .tank_shop_item_preview_price_txt {
@@ -1256,4 +1259,8 @@ font-family: 'Oswald', sans-serif !important;
     z-index: 9999;
     font-size: 18px;
     font-weight: 600;
+}
+.tanks_shop_description_icon_gliph {
+    margin-right: 5px;
+    font-size: 1.2em;
 }
