@@ -52,3 +52,12 @@ $('.chat-btn-enter').on('click', function(){
         // some validation
     }
 });
+
+/* active item at tanks shop*/
+
+$(function() {
+    $('.tank_shop_item_section').on('click', '.tank_shop_item_b', function(event) {
+        $(this).addClass("active_tanks_shop").siblings().removeClass("active_tanks_shop");
+        event.preventDefault();
+    });
+});
