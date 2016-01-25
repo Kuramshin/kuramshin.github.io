@@ -1205,9 +1205,9 @@ font-family: 'Oswald', sans-serif !important;
     text-align: left;
 }
 
-/*.tank_shop_item_link_b:visited, .tank_shop_item_link_b:focus, .tank_shop_item_link_b:hover, .tank_shop_item_link_b:active {*/
-    /*color: #8bda04 !important;*/
-/*}*/
+ .tank_shop_item_link_b:focus, .tank_shop_item_link_b:hover, .tank_shop_item_link_b:active {
+    color: #8bda04 !important;
+}
 
 
     /*tanks shop*/
@@ -1284,7 +1284,7 @@ font-family: 'Oswald', sans-serif !important;
     border-top: 10px solid #BEE313;
     position: absolute;
     content: " ";
-    top:-10px;
+    top:-7px;
     left:50%;
     margin-left: -10px;
 }
