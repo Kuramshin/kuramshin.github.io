@@ -876,7 +876,7 @@ font-family: 'Oswald', sans-serif !important;
 .tank_shop_item_prop_left,
 .tank_shop_item_prop_right {
     color: #EBEBEB;
-    opacity: 0.9;
+    /*opacity: 0.9;*/
     text-align: center;
     border: 2px solid #315111;
     background: rgba(0, 0, 0, 0.7);
