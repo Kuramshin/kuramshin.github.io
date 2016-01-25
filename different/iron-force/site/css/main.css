@@ -1003,6 +1003,8 @@ font-family: 'Oswald', sans-serif !important;
 
  .tab_menu  {
     padding: 15px;
+     margin-right: 0;
+     margin-left: 0;
 }
 .nav-tabs {
     border-bottom: 1px solid #252d36;
