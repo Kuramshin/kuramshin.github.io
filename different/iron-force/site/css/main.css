@@ -111,6 +111,10 @@ html {
     margin: 0px 2px;
 }
 
+.row_chat {
+    margin-right: 0 !important;
+}
+
 .top-menu-money-b,
 .top-menu-cart-b,
 .top-menu-chat-b {
@@ -341,7 +345,7 @@ button.btn.btn-welcome, a:active, button:active, a:visited, button:visited {
 
 .chat-body {
     min-height: 340px;
-    margin-right: 15px;
+    /*margin-right: 15px;*/
     padding: 20px;
     /*margin-top: 5px;*/
     z-index: 555 !important;
