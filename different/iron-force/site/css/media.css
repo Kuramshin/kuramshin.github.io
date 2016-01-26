@@ -171,6 +171,14 @@ font-size: 10px;
     .tank_shop_item_preview {
         width: 100% !important;
     }
+
+    .btn_buy_tank_item {
+        padding: 5px 10px;
+    margin: 0;
+    }
+    .tank_shop_main_title {
+        font-size: 18px !important;
+    }
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
@@ -364,6 +372,12 @@ font-size: 10px;
 	.tank_shop_item_bottom_b {
 		font-size:10px;
 	}
+
+    /*.tank_shop_item_prop_left,*/
+    /*.tank_shop_item_prop_right {*/
+        /**/
+        /*margin-bottom: 10px;*/
+    /*}*/
 
 
 }

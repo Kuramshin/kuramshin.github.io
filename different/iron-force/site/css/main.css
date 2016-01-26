@@ -888,9 +888,7 @@ font-family: 'Oswald', sans-serif !important;
     text-align: center !important;
 }
 
-.tank_shop_item_link_b:hover,
-.tank_shop_item_prop_left:hover,
-.tank_shop_item_prop_right:hover {
+.tank_shop_item_link_b:hover {
     text-decoration: none;
     color: #EBEBEB;
     background: rgba(46, 51, 55, 0.8);
@@ -953,8 +951,8 @@ font-family: 'Oswald', sans-serif !important;
 .tank_shop_item_prop_right {
     font-family: 'Oswald', sans-serif !important;
     padding: 20px 15px 50px;
-    margin-top: 60px;
-    margin-bottom: 70px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .tank_shop_item_prop_left_row_txt {
@@ -1191,11 +1189,81 @@ font-family: 'Oswald', sans-serif !important;
 
 .tank_shop_item_prop_right_title {
     color:#C6EE08;
+    margin-bottom: 20px;
+    padding: 3px 5px;
+    background: black;
+    position: relative;
 }
+
+/*.tank_shop_item_prop_right_title:before {*/
+    /*width: 25px;*/
+    /*height: 100%;*/
+    /*content: "";*/
+    /*background: #242a2d;*/
+    /*position: absolute;*/
+    /*top:0;*/
+    /*left:0;*/
+/*}*/
+/*.tank_shop_item_prop_right_title:after {*/
+    /*width: 25px;*/
+    /*height: 100%;*/
+    /*content: "";*/
+    /*background: #242a2d;*/
+    /*position: absolute;*/
+    /*right:0;*/
+    /*top:0;*/
+/*}*/
+.tank_shop_span_left {
+    border: 10px solid transparent;
+border-right: 10px solid black;
+width: 20px;
+height: 20px;
+position: absolute;
+left: -3px;
+}
+
+.tank_shop_span_right {
+    border: 10px solid transparent;
+    border-left: 10px solid black;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: -3px;
+}
+
+.tank_shop_span_left_wrapper {
+    background: #242a2d;
+    width: 28px;
+    height: 29px !important;
+    position: absolute;
+    left: 0;
+    top: -1px;
+    padding: 3px;
+    border: 1px solid #333;
+    border-radius: 2px;
+    border: 1px solid rgba(0,0,0,0.6);
+    box-shadow: 0 0 3px 2px inset;
+    color: rgb(53, 54, 56);
+}
+
+.tank_shop_span_right_wrapper {
+    background: #242a2d;
+    width: 28px;
+    height: 29px !important;
+    position: absolute;
+    right: 0;
+    top: -1px;
+    padding: 3px;
+    border: 1px solid #333;
+    border-radius: 2px;
+    border: 1px solid rgba(0,0,0,0.6);
+    box-shadow: 0 0 3px 2px inset;
+    color: rgb(53, 54, 56);
+}
+
 
 .tank_shop_item_prop_right_img_inner_txt {
     text-align: left;
-    color: #a19265;
     color: #a19231;
 }
 
