@@ -191,7 +191,7 @@ background: #b30000;
 
 .top-menu-money-b {
     text-align: right;
-    padding-right: 10px;
+    /*padding-right: 10px;*/
     position: relative;
     top: 12px;
 }
