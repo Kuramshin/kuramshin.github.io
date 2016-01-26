@@ -1195,6 +1195,8 @@ font-family: 'Oswald', sans-serif !important;
 
 .tank_shop_item_prop_right_img_inner_txt {
     text-align: left;
+    color: #a19265;
+    color: #a19231;
 }
 
 .tank_shop_item_prop_right_img {
@@ -1267,14 +1269,6 @@ font-family: 'Oswald', sans-serif !important;
 }
 
 .active_tanks_shop:before {
-    /*width:100%;*/
-    /*height: 30px;*/
-    /*background: rgba(0, 0, 0, 0.7);*/
-    /*content: "ascaca";*/
-    /*color: white;*/
-    /*top:-30px;*/
-    /*left:0;*/
-    /*position: absolute;*/
 
     width: 0;
     height: 0;
@@ -1288,3 +1282,4 @@ font-family: 'Oswald', sans-serif !important;
     left:50%;
     margin-left: -10px;
 }
+
