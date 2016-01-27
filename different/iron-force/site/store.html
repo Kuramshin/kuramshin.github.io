@@ -215,8 +215,16 @@
                             <li>
                                 <a href="#" class="item_b_menu"><img src="img/factories_12.png" class="bottom_menu_img" alt="change tank" /> ОБМЕН ТАНКА</a>
                             </li>
-                            <li>
-                                <a href="buy_others.html" class="item_b_menu"><img src="img/others_serv.png" class="bottom_menu_img" alt="others services" /> ИНЫЕ УСЛУГИ</a>
+                            <li class="dropup">
+                                <a href="#" class="item_b_menu dropdown-toggle" data-toggle="dropdown"><img src="img/others_serv.png" class="bottom_menu_img" alt="others services" /> ИНЫЕ УСЛУГИ</a>
+
+                                <ul class="dropdown-menu" style="background: black; color: #E8EBE2; left:10px !important;">
+                                    <li class="dropdown-submenu"><a href="buy_others.html">iOS <img src="img/ios.svg" height="20" alt="ios"/></a></li>
+                                    <li class="dropdown-submenu"><a href="buy_others.html"> Android <img src="img/android.svg" height="20" alt="android"/></a></li>
+
+                                </ul>
+
+
                             </li>
                             <li>
                                 <a href="buy_others.html" class="item_b_menu"><img src="img/painting.png" class="bottom_menu_img" alt="suvenirs" /> СУВЕНИРЫ</a>
@@ -361,6 +369,28 @@
         </div>
     </div>
     <!-- / modal buy-->
+    <!--Modal choose platforma-->
+    <div class="modal fade bs-example-modal-md" id="myModal_choose_platforma" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+        <div class="modal-dialog modal-md">
+            <div class="modal-content">
+                <button type="button" class="close close_modal" data-dismiss="modal" aria-label="Close" ><span aria-hidden="true">&times;</span></button>
+
+                <h3 class="modal_buy_title"><span class="modal_gold_txt">Выбери платформу:</span></h3>
+                <a href="buy_others.html" class=" btn btn_def btn-choose_platforma">
+
+                        iOS <img src="img/ios.svg" height="20" alt="ios"/>
+
+                </a>
+
+                <a href="buy_others.html" class="  btn btn_def btn-choose_platforma">
+
+                        Android <img src="img/android.svg" height="20" alt="android"/>
+
+                </a>
+            </div>
+        </div>
+    </div>
+    <!--Modal choose platforma-->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>-->
     <script src="js/jquery-1.12.0.min.js"></script>

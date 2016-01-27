@@ -293,7 +293,7 @@ button.btn.btn-welcome, a:active, button:active, a:visited, button:visited {
 
 .btn-login,
 .btn-registration,
-.btn-chat, .btn-welcome {
+.btn-chat, .btn-welcome, .btn_def {
     background: #315111 !important;
     color: #E8EBE2 !important;
     border: 1px solid #315111 !important;
@@ -327,8 +327,9 @@ button.btn.btn-welcome, a:active, button:active, a:visited, button:visited {
 }
 
 .btn-login:hover,
-.btn-registration:hover, .btn-welcome:hover {
+.btn-registration:hover, .btn-welcome:hover, .btn_def:hover {
     background: #69963B !important;
+    color: #A7D81A !important;
 }
 
 .btn-login:active,
@@ -1349,5 +1350,19 @@ left: -3px;
     top:-7px;
     left:50%;
     margin-left: -10px;
+}
+
+/*question-answer*/
+
+.question_answer_row, .testimonial_row {
+    /*font-family: 'Oswald', sans-serif !important;*/
+    color: #e9e9d5;
+}
+.q_a_title_description, .testimonial_title_description {
+    font-size: 18px;
+}
+
+.btn-choose_platforma {
+    margin-right: 10px;
 }
 
