@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="about me upd">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/aboutme/img/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/aboutme/img/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/aboutme/img/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/aboutme/img/gs_printscreen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/aboutme/img/printscreen_IF.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aboutme/img/02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aboutme/img/03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/aboutme/img/04.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/01.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/07_2.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/07_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/07_7.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/07_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/08.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/08.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/09.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/09.jpg" />
+    <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/index.html" afterPath="$PROJECT_DIR$/different/aboutme/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -42,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/different/aboutme/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3018617">
-              <caret line="53" column="83" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="83" />
+            <state vertical-scroll-proportion="0.6409575">
+              <caret line="137" column="90" selection-start-line="137" selection-start-column="90" selection-end-line="137" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -362,12 +349,6 @@
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
     </task>
-    <task id="LOCAL-00189" summary="iron-force media  upd">
-      <created>1452388760634</created>
-      <option name="number" value="00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1452388760634</updated>
-    </task>
     <task id="LOCAL-00190" summary="iron-force media  upd">
       <created>1452389249516</created>
       <option name="number" value="00190" />
@@ -656,7 +637,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453976484896</updated>
     </task>
-    <option name="localTasksCounter" value="238" />
+    <task id="LOCAL-00238" summary="about me upd">
+      <created>1453994413122</created>
+      <option name="number" value="00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1453994413122</updated>
+    </task>
+    <option name="localTasksCounter" value="239" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -715,7 +702,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hw" />
     <MESSAGE value="new" />
     <MESSAGE value="upd" />
     <MESSAGE value="popup added" />
@@ -740,7 +726,8 @@
     <MESSAGE value="iron force upd mediaquery" />
     <MESSAGE value="iron force upd tanks form filter" />
     <MESSAGE value="iron force upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="iron force upd" />
+    <MESSAGE value="about me upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="about me upd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1153,8 +1140,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/different/aboutme/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3018617">
-          <caret line="53" column="83" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="83" />
+        <state vertical-scroll-proportion="0.6409575">
+          <caret line="137" column="90" selection-start-line="137" selection-start-column="90" selection-end-line="137" selection-end-column="90" />
           <folding />
         </state>
       </provider>
