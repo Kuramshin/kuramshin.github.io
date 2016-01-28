@@ -16,6 +16,10 @@
         width: 100%;
 		background-size: cover;
 	}
+
+    .wrapper_store {
+        height: 100%;
+    }
 		
 	.wrapper_tank_shop {
 	background: url(../img/slide03.jpg) no-repeat center center fixed;
@@ -70,6 +74,11 @@ and (orientation : portrait) {
         background-size: cover;
     }
 
+    .top-menu-pager-item_link {
+        height:60px;
+        line-height:60px;
+    }
+
     .top-menu-right {
         display: none !important;
     }
@@ -105,6 +114,12 @@ and (orientation : portrait) {
 
     }
 
+    .modal-content {
+        margin: 0 10px;
+        padding: 10px;
+
+    }
+
     .modal_welcome_title, .modal_gold_txt {
         font-size: 18px;
     }
@@ -112,7 +127,9 @@ and (orientation : portrait) {
     .modal_gold_txt {
         text-align: center;
     }
-
+.modal_gold_txt_advantages {
+    text-align: left;
+}
     .btn-buy {
 
         margin: 10px 10px 10px 0;
@@ -404,7 +421,7 @@ font-size: 10px;
     }
 
     .top-menu-login-b_1 {
-        width: 77%;}
+        width: 70%;}
 		
 
 

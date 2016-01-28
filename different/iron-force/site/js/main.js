@@ -61,3 +61,12 @@ $(function() {
         event.preventDefault();
     });
 });
+
+/*backward for top menu*/
+
+
+$('.top-menu-pager-item_link').on('click', function(){
+
+    history.back();
+
+});

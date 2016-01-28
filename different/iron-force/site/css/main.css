@@ -8,18 +8,27 @@ html {
 
 }
 
-.container-fluid {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+/*.container-fluid {*/
+    /*padding-left: 0 !important;*/
+    /*padding-right: 0 !important;*/
+/*}*/
+
+/*common style*/
+
+.tytle_gold_txt {
+    color: #ffcd00;
+    line-height: 1.3em;
 }
 
 .wrapper {
-    box-sizing: border-box;
-    height: 100%;
-    width: 100%;
-    background-origin: content-box;
-    background-position: center;
-    background-size: cover !important;
+    /*box-sizing: border-box;*/
+    /*height: 100%;*/
+    /*width: 100%;*/
+    /*background-origin: content-box;*/
+    /*background-position: center;*/
+    /*background-size: cover !important;*/
+    padding-left: 0 !important;
+    padding-right: 0 !important;
 }
 
 .top-menu,
@@ -27,7 +36,7 @@ html {
     width: 100%;
     box-sizing: border-box;
     margin: 0 auto;
-    max-width: 1600px;
+    /*max-width: 1600px;*/
     height: 80px;
     background: #2E3337;
 }
@@ -61,6 +70,26 @@ html {
     height: 80px;
     border-radius: 0 40px 40px 0;
 
+}
+
+.top-menu-pager-b {
+    display:inline-block;
+    width:30px;
+    height:100%;
+    float: left;
+    padding: 0 5px 0 0;
+}
+
+.top-menu-pager-item_link {
+    width:100%; height:80px; line-height:80px; display:block; float: left; vertical-align:middle; text-align:center;
+}
+
+.top-menu-pager-item_glyph {
+    color:#69963B; opacity:0.7; font-size:1.5em !important;
+}
+
+.top-menu-pager-item_link:hover .top-menu-pager-item_glyph {
+    opacity:1;
 }
 
 .top-menu-login-b,
