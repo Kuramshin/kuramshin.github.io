@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/01.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/02.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/03.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/04.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/07_2.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/07_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/07_7.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/07_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/08.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/08.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/09.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/09.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/gs_printscreen.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/gs_printscreen.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/img/printscreen_IF.jpg" afterPath="$PROJECT_DIR$/different/aboutme/img/printscreen_IF.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/aboutme/css/style.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/index.html" afterPath="$PROJECT_DIR$/different/aboutme/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -38,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/different/aboutme/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6409575">
-              <caret line="137" column="90" selection-start-line="137" selection-start-column="90" selection-end-line="137" selection-end-column="90" />
+            <state vertical-scroll-proportion="1.9946809">
+              <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -231,7 +223,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -357,12 +349,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00191" summary="iron-force media  upd">
-      <created>1452413671863</created>
-      <option name="number" value="00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1452413671863</updated>
     </task>
     <task id="LOCAL-00192" summary="iron-force media  upd">
       <created>1452413910309</created>
@@ -652,7 +638,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453994543207</updated>
     </task>
-    <option name="localTasksCounter" value="240" />
+    <task id="LOCAL-00240" summary="about me upd">
+      <created>1454002354522</created>
+      <option name="number" value="00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1454002354522</updated>
+    </task>
+    <option name="localTasksCounter" value="241" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1149,8 +1141,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/different/aboutme/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6409575">
-          <caret line="137" column="90" selection-start-line="137" selection-start-column="90" selection-end-line="137" selection-end-column="90" />
+        <state vertical-scroll-proportion="1.9946809">
+          <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
           <folding />
         </state>
       </provider>
