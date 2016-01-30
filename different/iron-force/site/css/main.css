@@ -1146,8 +1146,11 @@ font-family: 'Oswald', sans-serif !important;
     padding: 5px;
     margin: 0;
 }
-
-.btn_buy_others_page_buy_tank {
+.read-more {
+    text-decoration: none !important;
+    color: black !important;
+}
+.btn_buy_others_page_buy_tank, .read-more {
 
     background: url(../img/diamond/Buy_Button.png) no-repeat center center;
     background-size: cover !important;
@@ -1161,9 +1164,10 @@ font-family: 'Oswald', sans-serif !important;
    
 }
 
-.btn_buy_others_page_buy_tank:hover {
+.btn_buy_others_page_buy_tank:hover, .read-more:hover {
 
     background: url(../img/diamond/Buy_Button_Pressed.png) no-repeat center center;
+    color: #EBEBEB !important;
 }
 
 .cristalss_buy_others_item_bottom_btn_item:hover {
@@ -1172,6 +1176,7 @@ font-family: 'Oswald', sans-serif !important;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+
 }
 
 
