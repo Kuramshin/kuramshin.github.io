@@ -28,7 +28,7 @@
 		background-size: cover;
         
 }
-  .wrapper_shop, .wrapper_shop_others, .wrapper_question_answer, .wrapper_testimonial {
+  .wrapper_shop, .wrapper_shop_others, .wrapper_question_answer, .wrapper_testimonial, .wrapper_news {
 
         width: 100%;
         min-height: 100% !important;
