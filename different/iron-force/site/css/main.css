@@ -1399,4 +1399,29 @@ left: -3px;
 .btn-choose_platforma {
     margin-right: 10px;
 }
+/*news*/
+
+.last_commens_list_item_link, .last_tank_goods_item_link {
+    text-decoration: none !important;
+    color: #EBEBEB !important;
+}
+
+.last_commens_list_item_link:hover, .last_tank_goods_item_link:hover {
+    color: #BEE313 !important;
+    text-decoration: none;
+}
+
+.last_commens_list_item_link:visited, .last_tank_goods_item_link:visited {
+    color: inherit;
+    text-decoration: none !important;
+}
+
+.last_tank_goods_item {
+    margin-bottom: 10px;
+}
+
+.last_comments_list {list-style: none;}
+
+.last_commens_list_item {margin-bottom: 20px;}
+
 
