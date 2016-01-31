@@ -308,7 +308,7 @@ background: #b30000;
 
 
 
-button.btn.btn-welcome, a:active, button:active, a:visited, button:visited {
+button, button.btn.btn-welcome, a:active, button:active, a:visited, button:visited {
     outline: #54711E !important;
 
 }
@@ -449,6 +449,18 @@ button.btn.btn-welcome, a:active, button:active, a:visited, button:visited {
     position: absolute;
     bottom: 0;
 }
+.btn_statistic {
+    background-color: rgba(0, 0, 0, 0.7);
+    border:1px solid #315111;
+    color:#9d9d9d;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+}
+
+.btn_statistic:hover, .btn_statistic:active, .btn_statistic:focus {
+    color: #BEE313 !important;
+}
+
 
 .statistic-item {
     padding: 2px 10px;
