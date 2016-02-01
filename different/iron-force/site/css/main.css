@@ -10,17 +10,6 @@ html {
 }
 
 
-/*.container-fluid {*/
-
-
-/*padding-left: 0 !important;*/
-
-
-/*padding-right: 0 !important;*/
-
-
-/*}*/
-
 
 /*common style*/
 
@@ -31,12 +20,6 @@ html {
 
 .wrapper {
     padding-right: 0 !important;
-    /*box-sizing: border-box;*/
-    /*height: 100%;*/
-    /*width: 100%;*/
-    /*background-origin: content-box;*/
-    /*background-position: center;*/
-    /*background-size: cover !important;*/
     padding-left: 0 !important;
 }
 
@@ -45,7 +28,6 @@ html {
     box-sizing: border-box;
     margin: 0 auto;
     width: 100%;
-    /*max-width: 1600px;*/
     height: 80px;
     background: #2E3337;
 }
@@ -183,12 +165,16 @@ html {
 
 .top-menu-cart-b {
     margin: 0 5px;
-    padding: 5px;
+    padding: 0px;
     /*top:12px;*/
 }
 
+.cart_img {
+    padding: 5px;
+}
+
 .fuel_back_img,
-.cart_img,
+/*.cart_img,*/
 .chat_img,
 .cristalls_img,
 .dollars_img {
@@ -239,7 +225,6 @@ html {
 }
 
 .top-menu-money-b {
-    /*padding-right: 10px;*/
     position: relative;
     top: 12px;
     text-align: right;
@@ -360,8 +345,6 @@ button:visited {
 
 .btn-chat-a {
     padding: 0 !important;
-    /*position: relative;*/
-    /*top:-12px;*/
 }
 
 .btn-chat:hover {
@@ -706,7 +689,7 @@ button:visited {
 }
 
 .modal_contacts_phone_item {
-    /*color:#d6560c;*/
+
 }
 
 .glyphicon-contacts {
@@ -772,24 +755,15 @@ label {
     margin: 10px 0;
 }
 
-
-/*.input_custom:focus, .form-control:focus {*/
-
-
-/*background: #a3a5a4 !important;*/
+/*start shining btn*/
 
 
-/*color: white !important;*/
 
 
-/*}*/
-
-
-/*shine effect for cart
 .btn-glass {
     -webkit-transition: background-position 2s cubic-bezier(0, 1, 0, 1), border-color 500ms, background-color 500ms;
     transition: background-position 2s cubic-bezier(0, 1, 0, 1), border-color 500ms, background-color 500ms;
-    position: relative;
+
     background-attachment: fixed, scroll;
     background-size: 100vw 100vh, cover;
     background-position: center center, 0 0;
@@ -801,8 +775,8 @@ label {
     background-position: -100vw 0, 0 0 !important;
 }
 
-*/
 
+/*finish shining btn*/
 
 /*author block*/
 

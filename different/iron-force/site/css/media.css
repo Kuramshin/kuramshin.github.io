@@ -280,7 +280,8 @@ font-size: 10px;
 
     span.money-txt {font-size: 12px;}
 
-    img.cart_img {width: 25px !important;}
+    /*img.cart_img {width: 25px !important;}*/
+    img.cart_img {width: 35px !important;}
     img.chat_img {width: 36px !important;}
     img.dollars_img {width: 30px !important;}
     img.cristalls_img {width: 23px !important;}
