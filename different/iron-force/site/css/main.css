@@ -169,7 +169,7 @@ html {
 .top-menu-cart-b {
     margin: 0 5px;
     padding: 5px;
-    top:12px;
+    /*top:12px;*/
 }
 
 .fuel_back_img,
@@ -1453,4 +1453,34 @@ left: -3px;
 .form-control_comments:focus, .form-control_comments:active {
     box-shadow: 0 0 5px #BEE313;
     border: 1px solid #BEE313;
+}
+.top-menu-cart-b-title {
+    color: gold;
+    text-decoration: none;
+}
+.dropdown_link:hover {
+    color: gold;
+    text-decoration: none;
+}
+
+.dropdown-menu-btn-buy-others, .dropdown-menu-cart-b {
+    background: rgba(0,0,0,0.75);
+    padding: 5px 10px;
+
+}
+
+.dropdown-menu-cart-b {
+    left: -107px;
+}
+
+.dropdown-menu-btn-buy-others {
+    left: 20px;
+}
+.dropdown-menu-item {
+    color: #EBEBEB !important;
+}
+
+.dropdown-menu-item:hover {
+    color: black !important;
+    background: grey !important;
 }
