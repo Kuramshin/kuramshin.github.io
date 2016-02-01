@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/index.html" afterPath="$PROJECT_DIR$/different/iron-force/site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/css/main.css" afterPath="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
@@ -29,16 +30,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71143615">
-              <caret line="106" column="22" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
+            <state vertical-scroll-proportion="-5.019608">
+              <caret line="96" column="97" selection-start-line="96" selection-start-column="97" selection-end-line="96" selection-end-column="97" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#a#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -48,21 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buy_tanks.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/different/iron-force/site/buy_tanks.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
-              <caret line="104" column="41" selection-start-line="104" selection-start-column="41" selection-end-line="104" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="news_item.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/news_item.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="192" column="57" selection-start-line="192" selection-start-column="57" selection-end-line="192" selection-end-column="57" />
+            <state vertical-scroll-proportion="-7.372549">
+              <caret line="202" column="38" selection-start-line="199" selection-start-column="32" selection-end-line="202" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#article#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#article#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -75,13 +67,12 @@
       <file leaf-file-name="store.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/store.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-27.5">
-              <caret line="114" column="22" selection-start-line="103" selection-start-column="16" selection-end-line="114" selection-end-column="22" />
+            <state vertical-scroll-proportion="-11.875">
+              <caret line="228" column="62" selection-start-line="228" selection-start-column="51" selection-end-line="228" selection-end-column="62" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -100,8 +91,8 @@
       <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/news.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="196" column="51" selection-start-line="196" selection-start-column="51" selection-end-line="196" selection-end-column="51" />
+            <state vertical-scroll-proportion="-7.9607844">
+              <caret line="141" column="30" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -132,11 +123,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1477" column="1" selection-start-line="1477" selection-start-column="1" selection-end-line="1477" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.69072163">
+              <caret line="302" column="36" selection-start-line="302" selection-start-column="36" selection-end-line="302" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -209,7 +200,6 @@
         <option value="$PROJECT_DIR$/different/iron-force/site/Копия buy_tanks_test.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/buy_tank_item_copy.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/fonts/oswald/oswald.css" />
-        <option value="$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/buy_others.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/js/main.js" />
         <option value="$PROJECT_DIR$/different/iron-force/site/question_answer.html" />
@@ -218,10 +208,11 @@
         <option value="$PROJECT_DIR$/different/iron-force/site/news.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/news_item.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/css/media.css" />
-        <option value="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/store.html" />
-        <option value="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/index.html" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
       </list>
     </option>
   </component>
@@ -436,12 +427,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00204" summary="iron-force upd fonts">
-      <created>1452587514731</created>
-      <option name="number" value="00204" />
-      <option name="project" value="LOCAL" />
-      <updated>1452587514731</updated>
     </task>
     <task id="LOCAL-00205" summary="iron force upd">
       <created>1452650488921</created>
@@ -731,7 +716,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454333438752</updated>
     </task>
-    <option name="localTasksCounter" value="253" />
+    <task id="LOCAL-00253" summary="iron force shop upd">
+      <created>1454336678089</created>
+      <option name="number" value="00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1454336678090</updated>
+    </task>
+    <option name="localTasksCounter" value="254" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -744,6 +735,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944812" sideWeight="0.4950249" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24170965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944812" sideWeight="0.50497514" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32650602" sideWeight="0.5028525" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32648125" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -751,11 +744,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -822,13 +813,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/markup/project1/blocks/testimonials.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8114525">
-          <caret line="101" column="1" selection-start-line="101" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/advanced/class/lesson8/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -973,13 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57712764">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/question_answer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14361702">
@@ -1087,10 +1064,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.148149">
+          <caret line="404" column="42" selection-start-line="404" selection-start-column="42" selection-end-line="404" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/old_version/store_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8869681">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="196" column="51" selection-start-line="196" selection-start-column="51" selection-end-line="196" selection-end-column="51" />
+        <state vertical-scroll-proportion="-7.9607844">
+          <caret line="141" column="30" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1107,8 +1100,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/news_item.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="192" column="57" selection-start-line="192" selection-start-column="57" selection-end-line="192" selection-end-column="57" />
+        <state vertical-scroll-proportion="-7.372549">
+          <caret line="202" column="38" selection-start-line="199" selection-start-column="32" selection-end-line="202" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#article#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#article#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1119,55 +1112,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/buy_tanks.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="104" column="41" selection-start-line="104" selection-start-column="41" selection-end-line="104" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/media.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.148149">
-          <caret line="404" column="42" selection-start-line="404" selection-start-column="42" selection-end-line="404" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1477" column="1" selection-start-line="1477" selection-start-column="1" selection-end-line="1477" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/store.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-27.5">
-          <caret line="114" column="22" selection-start-line="103" selection-start-column="16" selection-end-line="114" selection-end-column="22" />
+        <state vertical-scroll-proportion="-10.980392">
+          <caret line="240" column="82" selection-start-line="240" selection-start-column="36" selection-end-line="240" selection-end-column="82" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#button#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/buy_tank_item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5611702">
+          <caret line="315" column="120" selection-start-line="315" selection-start-column="120" selection-end-line="315" selection-end-column="120" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71143615">
-          <caret line="106" column="22" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
+        <state vertical-scroll-proportion="-5.019608">
+          <caret line="96" column="97" selection-start-line="96" selection-start-column="97" selection-end-line="96" selection-end-column="97" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#a#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/store.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="228" column="62" selection-start-line="228" selection-start-column="51" selection-end-line="228" selection-end-column="62" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.69072163">
+          <caret line="302" column="36" selection-start-line="302" selection-start-column="36" selection-end-line="302" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>

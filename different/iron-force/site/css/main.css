@@ -298,8 +298,10 @@ background: #b30000;
     border: 2px solid #5C8C2B;
 }
 
-.navbar-nav>li>a:visited {
-    outline: #54711E;
+.navbar-nav>li>a:visited, .navbar-nav>li>a:hover {
+    outline: #54711E !important;
+    border-color: #54711E !important;
+
 }
 
 .bottom_menu_img {
@@ -1374,7 +1376,7 @@ left: -3px;
     border:1px solid red !important;
     top:30px;
     left: 10px;
-    z-index: 9999;
+    z-index: 555;
     font-size: 18px;
     font-weight: 600;
 }
@@ -1439,7 +1441,7 @@ left: -3px;
 
 /*news items*/
 
-.form-control_comments {
+.form-control_sale_tank, .form-control_comments {
     background: rgba(0,0,0,0.3);
     color:#EBEBEB;
 }
@@ -1450,7 +1452,7 @@ left: -3px;
     border: 1px solid #EBEBEB;
 
 }
-.form-control_comments:focus, .form-control_comments:active {
+.form-control_sale_tank:focus, .form-control_sale_tank:active, .form-control_comments:focus, .form-control_comments:active {
     box-shadow: 0 0 5px #BEE313;
     border: 1px solid #BEE313;
 }
@@ -1484,3 +1486,9 @@ left: -3px;
     color: black !important;
     background: grey !important;
 }
+
+/*modal buy tank*/
+.modal-content_buy_tank {
+    background: #272b2f !important;
+}
+

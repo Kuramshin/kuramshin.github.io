@@ -258,7 +258,7 @@
                 <form role="form">
                     <div class="form-group">
                         <label for="name">Наименование обявления:</label>
-                        <input type="text" class="form-control" id="name">
+                        <input type="text" class="form-control form-control_sale_tank" id="name">
                     </div>
                     <p>Выберите платформу:</p>
                     <div class="checkbox">
@@ -269,11 +269,11 @@
                     </div>
                     <div class="form-group">
                         <label for="description">Описание:</label>
-                        <textarea class="form-control" rows="5" id="description"></textarea>
+                        <textarea class="form-control form-control_sale_tank" rows="5" id="description"></textarea>
                     </div>
                     <div class="form-group">
                         <label for="select1">Класс танка:</label>
-                        <select class="form-control" id="select1">
+                        <select class="form-control form-control_sale_tank" id="select1">
                             <option value="">Все</option>
                             <option value="Линкс">Линкс</option>
                             <option value="Линкс S">Линкс S</option>
@@ -291,15 +291,15 @@
                     </div>
                     <div class="form-group">
                         <label for="upload">Добавить фото каждой прокачки танка(качественно и не менее 5ти):</label>
-                        <input type="file" class="form-control" id="upload">
+                        <input type="file" class="form-control form-control_sale_tank" id="upload">
                     </div>
                     <div class="form-group">
                         <label for="client-name">Ваше имя:</label>
-                        <input type="text" class="form-control" id="client-name">
+                        <input type="text" class="form-control form-control_sale_tank" id="client-name">
                     </div>
                     <div class="form-group">
                         <label for="client-phone">Телефон (Обязательно в международном формате!):</label>
-                        <input type="text" class="form-control" id="client-phone" placeholder="+12345678912">
+                        <input type="text" class="form-control form-control_sale_tank" id="client-phone" placeholder="+12345678912">
                     </div>
                     <p>Дополнительные способы связи:</p>
                     <div class="checkbox">
@@ -313,15 +313,15 @@
                     </div>
                     <div class="form-group">
                         <label for="client-email">Ваш e-mail:</label>
-                        <input type="email" class="form-control" id="client-email">
+                        <input type="email" class="form-control form-control_sale_tank" id="client-email">
                     </div>
                     <div class="form-group">
                         <label for="client-price">Цена:</label>
-                        <input type="number" class="form-control" id="client-price" min="0" value="0">
+                        <input type="number" class="form-control form-control_sale_tank" id="client-price" min="0" value="0">
                     </div>
                     <div class="form-group">
                         <label for="comments">Комментарий:</label>
-                        <textarea class="form-control" rows="5" id="comments"></textarea>
+                        <textarea class="form-control form-control_sale_tank" rows="5" id="comments"></textarea>
                     </div>
                     <button type="submit" class="btn btn-sale">Отправить на модерацию</button>
                 </form>
@@ -336,43 +336,38 @@
         <div class="modal-dialog modal-md">
             <div class="modal-content">
                 <button type="button" class="close close_modal" data-dismiss="modal" aria-label="Close" ><span aria-hidden="true">&times;</span></button>
-                <h3 class="modal_buy_title"><span class="modal_gold_txt">Задайте желаемые параметры:</span></h3>
+                <h3 class="modal_buy_title"><span class="modal_gold_txt">Форма заявки на покупку танка</span></h3>
                 <form role="form">
-                    <p>Выберите платформу:</p>
+
+                    <div class="form-group">
+                        <label for="client-name_buyer">Ваше имя:</label>
+                        <input type="text" class="form-control form-control_sale_tank" id="client-name_buyer">
+                    </div>
+                    <div class="form-group">
+                        <label for="client-phone_buyer">Телефон (Обязательно в международном формате!):</label>
+                        <input type="text" class="form-control form-control_sale_tank" id="client-phone_buyer" placeholder="+12345678912">
+                    </div>
+                    <p>Дополнительные способы связи:</p>
                     <div class="checkbox">
-                        <label><input type="checkbox"> iOS <img src="img/ios.svg" height="20" alt="ios"/></label>
+                        <label><input type="checkbox"> Viber <img src="img/viber.svg" height="20" alt=""/></label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox"> Android <img src="img/android.svg" height="20" alt="android"/></label>
+                        <label><input type="checkbox"> WhatsAPP <img src="img/whatsapp.svg" height="20" alt=""/></label>
+                    </div>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> Line <img src="img/line.svg" height="20" alt=""/></label>
                     </div>
                     <div class="form-group">
-                        <label for="select2">Класс танка:</label>
-                        <select class="form-control" id="select2">
-                            <option value="">Все</option>
-                            <option value="Линкс">Линкс</option>
-                            <option value="Линкс S">Линкс S</option>
-                            <option value="Лиса">Лиса</option>
-                            <option value="Лиса S">Лиса S</option>
-                            <option value="Лачерта">Лачерта</option>
-                            <option value="Лачерта S">Лачерта S</option>
-                            <option value="Скорпиус">Скорпиус</option>
-                            <option value="Скорпиус S">Скорпиус S</option>
-                            <option value="Павлин">Павлин</option>
-                            <option value="Павлин S">Павлин S</option>
-                            <option value="Единорог">Единорог</option>
-                            <option value="Единорог S">Единорог S</option>
-                        </select>
+                        <label for="message_buyer">Комментарий:</label>
+                        <textarea class="form-control form-control_comments" rows="5" id="message_buyer" placeholder="Введите сообщение"></textarea>
                     </div>
                     <div class="form-group">
-                        <label for="client-price-start">Цена от:</label>
-                        <input type="number" class="form-control" id="client-price-start" min="0" value="0">
+                        <label for="client-email_buyer">Ваш e-mail:</label>
+                        <input type="email" class="form-control form-control_sale_tank" id="client-email_buyer">
                     </div>
-                    <div class="form-group">
-                        <label for="client-price-finish">до:</label>
-                        <input type="number" class="form-control" id="client-price-finish" min="0" value="0">
-                    </div>
-                    <button type="submit" class="btn btn-buy">Ок</button>
-                    <button type="reset" class="btn btn-buy">Сбросить фильтр</button>
+
+                    <button type="submit" class="btn btn-buy">Купить танк</button>
+
                 </form>
 
             </div>

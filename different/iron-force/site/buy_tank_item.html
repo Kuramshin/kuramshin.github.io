@@ -313,7 +313,7 @@
 
                 <div  class="row" style="text-align: center;">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <a class="btn btn-def btn_buy_tank_item" href="#">КУПИТЬ ТАНК</a>
+                        <a class="btn btn-def btn_buy_tank_item" href="#" data-toggle="modal" data-target="#myModal_buy">КУПИТЬ ТАНК</a>
                         <a class="btn btn-def btn_buy_tank_item" href="buy_tanks.html">НАЗАД В КАТАЛОГ</a>
                     </div>
                 </div>
@@ -387,7 +387,50 @@
     </div>
 
 
+    <!--  modal buy -->
 
+    <div class="modal fade bs-example-modal-md" id="myModal_buy" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+        <div class="modal-dialog modal-md">
+            <div class="modal-content modal-content_buy_tank" style="background: #272b2f !important;">
+                <button type="button" class="close close_modal" data-dismiss="modal" aria-label="Close" ><span aria-hidden="true">&times;</span></button>
+                <h3 class="modal_buy_title"><span class="modal_gold_txt">Форма заявки на покупку танка</span></h3>
+                <form role="form">
+
+                    <div class="form-group">
+                        <label for="client-name_buyer">Ваше имя:</label>
+                        <input type="text" class="form-control form-control_sale_tank" id="client-name_buyer">
+                    </div>
+                    <div class="form-group">
+                        <label for="client-phone_buyer">Телефон (Обязательно в международном формате!):</label>
+                        <input type="text" class="form-control form-control_sale_tank" id="client-phone_buyer" placeholder="+12345678912">
+                    </div>
+                    <p>Дополнительные способы связи:</p>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> Viber <img src="img/viber.svg" height="20" alt=""/></label>
+                    </div>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> WhatsAPP <img src="img/whatsapp.svg" height="20" alt=""/></label>
+                    </div>
+                    <div class="checkbox">
+                        <label><input type="checkbox"> Line <img src="img/line.svg" height="20" alt=""/></label>
+                    </div>
+                    <div class="form-group">
+                        <label for="message_buyer">Комментарий:</label>
+                        <textarea class="form-control form-control_comments" rows="5" id="message_buyer" placeholder="Введите сообщение"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="client-email_buyer">Ваш e-mail:</label>
+                        <input type="email" class="form-control form-control_sale_tank" id="client-email_buyer">
+                    </div>
+
+                    <button type="submit" class="btn btn-buy">Купить танк</button>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <!-- / modal buy-->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>-->
