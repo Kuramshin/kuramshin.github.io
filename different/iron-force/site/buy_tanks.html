@@ -152,7 +152,7 @@
 
                 <h3 class="modal_buy_title"><span class="modal_gold_txt">Задайте желаемые параметры:</span></h3>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form_sort_tanks_body" style="text-align: center;">
-                    <form role="form" class="form-inline" style="background: rgba(0,0,0,0.65); color: #e9e9d5; padding: 15px 20px;">
+                    <form role="form" class="form-inline form_filter_buy_tank">
 
                         <div class="platforma form-group" style="text-align: left;">
                            <p><label for="select2">Выберите платформу:</label></p>
@@ -167,9 +167,9 @@
 
 
 
-                        <div class="form-group" style="margin-left: 10px; text-align: left;">
+                        <div class="form-group form-group_class_tank">
                            <p> <label for="select2">Класс танка:</label></p>
-                            <select class="form-control" id="select2" style="width:110px;">
+                            <select class="form-control form-control_filter_buy form-control_class_tank" id="select2">
                                 <option value="">Все</option>
                                 <option value="Линкс">Линкс</option>
                                 <option value="Линкс S">Линкс S</option>
@@ -188,18 +188,18 @@
 
                         <div class="form-group" style="margin-left: 10px; text-align: left;">
                            <p> <label for="client-price-start">Цена от:</label></p>
-                            <input type="number" class="form-control" id="client-price-start" min="0" value="0" style="width:60px !important;">
+                            <input type="number" class="form-control form-control_filter_buy form-control_filter_buy_price_from" id="client-price-start" min="0" value="0" >
                         </div>
 
 
                         <div class="form-group " style="margin:10px; text-align: left;">
                            <p> <label for="client-price-finish">Цена до:</label></p>
-                            <input type="number" class="form-control" id="client-price-finish" min="0" value="0" style="width:60px !important;">
+                            <input type="number" class="form-control form-control_filter_buy form-control_filter_buy_price_to" id="client-price-finish" min="0" value="0" >
                         </div>
 
 
-                        <button type="submit" class="btn btn-buy" style="margin: 0;">Ок</button>
-                        <button type="reset" class="btn btn-buy" style="margin: 0;">Сбросить фильтр</button>
+                        <button type="submit" class="btn btn-buy btn_filter_buy">Ок</button>
+                        <button type="reset" class="btn btn-buy  btn_filter_reset">Сбросить фильтр</button>
 
                     </form>
                 </div>
@@ -308,7 +308,7 @@
 
                         <div class="form-group">
                             <label for="client-name_buyer">Ваше имя:</label>
-                            <input type="text" class="form-control form-control_sale_tank" id="client-name_buyer">
+                            <input type="text" class="form-control form-control_sale_tank" id="client-name_buyer" placeholder="Имя">
                         </div>
                         <div class="form-group">
                             <label for="client-phone_buyer">Телефон (Обязательно в международном формате!):</label>
@@ -325,12 +325,12 @@
                             <label><input type="checkbox"> Line <img src="img/line.svg" height="20" alt=""/></label>
                         </div>
                         <div class="form-group">
-                            <label for="message_buyer">Комментарий:</label>
+                            <label for="message_buyer">Сообщение:</label>
                             <textarea class="form-control form-control_comments" rows="5" id="message_buyer" placeholder="Введите сообщение"></textarea>
                         </div>
                         <div class="form-group">
                             <label for="client-email_buyer">Ваш e-mail:</label>
-                            <input type="email" class="form-control form-control_sale_tank" id="client-email_buyer">
+                            <input type="email" class="form-control form-control_sale_tank" id="client-email_buyer" placeholder="e-mail">
                         </div>
 
                         <button type="submit" class="btn btn-buy">Купить танк</button>
@@ -342,21 +342,7 @@
         </div>
         <!-- / modal buy-->
 
-        <!-- other type of row tanks-->
-      <!--  <div class="col-md-3 col-sm-6 col-xs-6 tank_shop_item_b">
-            <a href="buy_tank_item.html" class="tank_shop_item_link_b">
-                <div class="row tank_shop_item_img_b">
-                    <img class="shop_item_img" src="img/tanks/TankPhoto_21.png">
-                </div>
-                <div class="row tank_shop_item_bottom_line_b">
-                    <div class="col-md-5 col-sm-5 col-xs-5 tank_shop_tank_model">МОДЕЛЬ 5s</div>
-                    <div class="col-md-7 col-sm-7 col-xs-7 tank_shop_tank_type">S.Скорпиус</div>
-                </div>
-            </a>
-        </div> -->
-        <!-- / other type of row tanks-->
 
-        <!-- / buy_tanks -->
     </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>-->

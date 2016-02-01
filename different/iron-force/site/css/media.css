@@ -431,8 +431,14 @@ font-size: 10px;
 
     .top-menu-login-b_1 {
         width: 70%;}
-		
 
+    .btn_filter_buy, .btn_filter_reset {
+        margin: 0;
+    }
+    .form_filter_buy_tank {
+
+        padding: 15px;
+    }
 
 }
 @media only screen and (max-width : 1090px) {

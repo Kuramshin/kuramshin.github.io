@@ -6,6 +6,7 @@ html {
     height:100%;
     width: 100%;
 
+
 }
 
 /*.container-fluid {*/
@@ -1441,7 +1442,7 @@ left: -3px;
 
 /*news items*/
 
-.form-control_sale_tank, .form-control_comments {
+.form-control_sale_tank, .form-control_comments, .form-control_filter_buy {
     background: rgba(0,0,0,0.3);
     color:#EBEBEB;
 }
@@ -1452,7 +1453,7 @@ left: -3px;
     border: 1px solid #EBEBEB;
 
 }
-.form-control_sale_tank:focus, .form-control_sale_tank:active, .form-control_comments:focus, .form-control_comments:active {
+.form-control_filter_buy:focus, .form-control_filter_buy:active, .form-control_sale_tank:focus, .form-control_sale_tank:active, .form-control_comments:focus, .form-control_comments:active {
     box-shadow: 0 0 5px #BEE313;
     border: 1px solid #BEE313;
 }
@@ -1492,3 +1493,22 @@ left: -3px;
     background: #272b2f !important;
 }
 
+/*form filter buy tank*/
+
+.form_filter_buy_tank {
+    background: rgba(0,0,0,0.3); color: #EBEBEB; padding: 15px 20px;
+}
+
+.form-group_class_tank {
+    margin-left: 10px; text-align: left;
+}
+
+.form-control_class_tank {
+    width:110px;
+}
+
+.form-control_filter_buy_price_from, .form-control_filter_buy_price_to {width: 80px !important;}
+
+.btn_filter_buy, .btn_filter_reset {
+    margin: 0 5px;
+}
