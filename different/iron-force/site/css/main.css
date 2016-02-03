@@ -13,6 +13,14 @@ html {
 
 /*common style*/
 
+.top-menu_1 {
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0);
+}
+
 .tytle_gold_txt {
     color: #ffcd00;
     line-height: 1.3em;
