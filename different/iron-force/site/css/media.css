@@ -384,7 +384,14 @@ font-size: 10px;
     }
 
 
-    .nav>li>a>img {height: 18px;}
+    /*.nav>li>a>img {height: 18px;}*/
+
+    .nav>li>a>img {
+
+        width: 30px;
+        height: auto;
+    }
+
     .navbar-nav>li>a {
         line-height: 20px !important;
         font-size: 15px !important;
