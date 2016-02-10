@@ -200,6 +200,10 @@ font-size: 10px;
     .tank_shop_main_title {
         font-size: 18px !important;
     }
+    .cristalss_buy_others_item {
+
+        padding: 0 !important;
+    }
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
