@@ -70,3 +70,15 @@ $('.top-menu-pager-item_link').on('click', function(){
     history.back();
 
 });
+
+/*black list*/
+
+$('#filter_black_list').keyup(function () {
+
+    var rex = new RegExp($(this).val(), 'i');
+    $('.searchable_black_list tr').hide();
+    $('.searchable_black_list tr').filter(function () {
+        return rex.test($(this).text());
+    }).show();
+
+});

@@ -1691,3 +1691,48 @@ label {
     border:3px solid #588302;
     margin: 5px 0 !important;
 }
+
+/*black list*/
+
+.black_list_container {
+    color:#ebebeb;
+    font-family:'Oswald', sans-serif;
+    letter-spacing:0.8px;
+}
+.black_lisr_row_title {
+    color:gold;
+    font-family:'Oswald', sans-serif;
+}
+.black_list_order_modal {
+    background: url(../img/diamond/EnergyButton_BackGround.png) no-repeat center center;
+    background-size: cover !important;
+    padding:5px 10px;
+    color:black;
+    margin:30px 0;
+}
+.black_list_order_modal:hover {
+    background: url(../img/diamond/EnergyButton_Press.png) no-repeat center center;
+    background-size: cover !important;
+    text-decoration:none;
+    color:#ebebeb;
+}
+.black_list_order_modal:visited, .black_list_order_modal:active, .black_list_order_modal:focus  {
+    text-decoration:none !important;
+    color:black !important;
+    outline:none;
+    border:none;
+}
+
+.input-group-addon_black_list {
+    background:#54711E;
+    color:#ebebeb;
+}
+#filter_black_list {
+    background: rgba(0,0,0,0.3);
+    color:#ebebeb;
+}
+
+#filter_black_list:focus,#filter_black_list:active  {
+    border: 1px solid #BEE313;
+    box-shadow: 0 0 5px #BEE313;
+}
