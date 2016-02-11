@@ -1736,3 +1736,8 @@ label {
     border: 1px solid #BEE313;
     box-shadow: 0 0 5px #BEE313;
 }
+
+.table_black_list_thead_item {
+    color: gold;
+    font-weight: 400;
+}
