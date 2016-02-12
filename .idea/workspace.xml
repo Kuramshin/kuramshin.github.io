@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/black_list.html" afterPath="$PROJECT_DIR$/different/iron-force/site/black_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" afterPath="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/index.html" afterPath="$PROJECT_DIR$/different/iron-force/site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/css/main.css" afterPath="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/iron-force/site/useful.html" afterPath="$PROJECT_DIR$/different/iron-force/site/useful.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -68,20 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1714" column="18" selection-start-line="1714" selection-start-column="18" selection-end-line="1714" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.4974227">
+              <caret line="1850" column="35" selection-start-line="1850" selection-start-column="35" selection-end-line="1850" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="black_list.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="black_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/iron-force/site/black_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31914893">
+            <state vertical-scroll-proportion="-10.0">
               <caret line="161" column="58" selection-start-line="161" selection-start-column="58" selection-end-line="161" selection-end-column="58" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -212,8 +208,8 @@
         <option value="$PROJECT_DIR$/different/iron-force/site/index.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/test_sprite.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" />
-        <option value="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
         <option value="$PROJECT_DIR$/different/iron-force/site/black_list.html" />
+        <option value="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
       </list>
     </option>
   </component>
@@ -428,12 +424,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00222" summary="iron force upd">
-      <created>1453712032261</created>
-      <option name="number" value="00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1453712032261</updated>
     </task>
     <task id="LOCAL-00223" summary="iron force upd">
       <created>1453716862368</created>
@@ -723,7 +713,13 @@
       <option name="project" value="LOCAL" />
       <updated>1455186132428</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="iron force shop upd green-btn">
+      <created>1455270728161</created>
+      <option name="number" value="00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1455270728161</updated>
+    </task>
+    <option name="localTasksCounter" value="272" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -782,7 +778,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="iron force upd top menu pager nav fixing" />
     <MESSAGE value="iron force upd b menu icons and logo" />
     <MESSAGE value="Alex-Studio start project" />
     <MESSAGE value="iron-force upd home page" />
@@ -807,7 +802,8 @@
     <MESSAGE value="iron force shop upd sale tanks form relocate from modal window to another pages" />
     <MESSAGE value="iron force shop upd others pages" />
     <MESSAGE value="iron force shop upd black-list page" />
-    <option name="LAST_COMMIT_MESSAGE" value="iron force shop upd black-list page" />
+    <MESSAGE value="iron force shop upd green-btn" />
+    <option name="LAST_COMMIT_MESSAGE" value="iron force shop upd green-btn" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1145,6 +1141,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/buy_tanks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.1960783">
+          <caret line="346" column="51" selection-start-line="346" selection-start-column="51" selection-end-line="346" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/iron-force/site/black_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="161" column="58" selection-start-line="161" selection-start-column="58" selection-end-line="161" selection-end-column="58" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/test_sprite.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.875">
@@ -1156,30 +1171,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/buy_tanks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1960783">
-          <caret line="346" column="51" selection-start-line="346" selection-start-column="51" selection-end-line="346" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1714" column="18" selection-start-line="1714" selection-start-column="18" selection-end-line="1714" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.4974227">
+          <caret line="1850" column="35" selection-start-line="1850" selection-start-column="35" selection-end-line="1850" selection-end-column="35" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/black_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31914893">
-          <caret line="161" column="58" selection-start-line="161" selection-start-column="58" selection-end-line="161" selection-end-column="58" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

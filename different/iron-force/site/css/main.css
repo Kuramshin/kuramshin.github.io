@@ -1840,9 +1840,15 @@ p.btn-green {
     color: #000;
     text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
     background-color: #89C006;
+    background-image: -moz-linear-gradient(top, #61840C, #89C006);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#61840C), to(#89C006));
+    background-image: -webkit-linear-gradient(top, #61840C, #89C006);
+    background-image: -o-linear-gradient(top, #61840C, #89C006);
+    background-image: linear-gradient(to bottom, #61840C, #89C006);
+    background-repeat: repeat-x;
     padding:5px;
 }
-.btn-green:hover {
+.btn-green:hover, .btn-green:active {
     background-color: #EAF900;
     background-image: -moz-linear-gradient(top, #89C006, #61840C);
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#89C006), to(#61840C));
