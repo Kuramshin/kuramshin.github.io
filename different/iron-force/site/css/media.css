@@ -161,8 +161,9 @@ and (orientation : portrait) {
         width: 15px;
     }
     .sales {
-        font-size: 15px;
-    top:22px;
+        font-size: 12px;
+        left:10px;
+    /*top:22px;*/
     }
 
     .tank_shop_tank_model, .tank_shop_tank_type {

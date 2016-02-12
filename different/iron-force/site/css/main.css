@@ -1501,14 +1501,14 @@ label {
 
 .sales {
     position: absolute;
-    top: 50px;
+    top: 60px;
     left: 25px;
     z-index: 555;
     padding: 5px;
     border: 1px solid red !important;
     color: red !important;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .tanks_shop_description_icon_gliph {
@@ -1745,7 +1745,7 @@ label {
     color: gold;
     font-weight: 400;
 }
-.diamond_sprite_b, .money_sprite_b {background: red; height: 256px; border:1px solid yellow;}
+
 /*diamond sprite*/
 
 .StoreDiamond_1, .StoreDiamond_2, .StoreDiamond_3, .StoreDiamond_4, .StoreDiamond_5, .StoreDiamond_6{
