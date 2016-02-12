@@ -1710,6 +1710,10 @@ label {
     color:black;
     margin:30px 0;
 }
+
+.btn-green_black_list {
+    margin:30px 0;
+}
 .black_list_order_modal:hover {
     background: url(../img/diamond/EnergyButton_Press.png) no-repeat center center;
     background-size: cover !important;
@@ -1740,4 +1744,122 @@ label {
 .table_black_list_thead_item {
     color: gold;
     font-weight: 400;
+}
+.diamond_sprite_b, .money_sprite_b {background: red; height: 256px; border:1px solid yellow;}
+/*diamond sprite*/
+
+.StoreDiamond_1, .StoreDiamond_2, .StoreDiamond_3, .StoreDiamond_4, .StoreDiamond_5, .StoreDiamond_6{
+    background: url(../img/diamond/sprites_diamonds.png) no-repeat;
+}
+
+.StoreDiamond_1{
+    background-position: 0 0;
+    width: 256px;
+    height: 256px;
+}
+
+.StoreDiamond_2{
+    background-position: -256px 0;
+    width: 256px;
+    height: 256px;
+}
+
+.StoreDiamond_3{
+    background-position: -512px 0;
+    width: 256px;
+    height: 256px;
+}
+
+.StoreDiamond_4{
+    background-position: 0 -256px ;
+    width: 256px;
+    height: 256px;
+}
+
+.StoreDiamond_5{
+    background-position: -256px -256px ;
+    width: 256px;
+    height: 256px;
+}
+
+.StoreDiamond_6{
+    background-position: -512px -256px ;
+    width: 256px;
+    height: 256px;
+}
+
+
+/*money sprite*/
+.StoreFund_1, .StoreFund_2, .StoreFund_3, .StoreFund_4, .StoreFund_5, .StoreFund_6{
+    background: url(../img/diamond/sprites_money.png) no-repeat;
+}
+
+.StoreFund_1{
+    background-position: 0 0;
+    width: 256px;
+    height: 256px;
+}
+
+.StoreFund_2{
+    background-position: -256px 0;
+    width: 256px;
+    height: 256px;
+}
+
+.StoreFund_3{
+    background-position: -512px 0;
+    width: 256px;
+    height: 256px;
+}
+
+.StoreFund_4{
+    background-position: 0 -256px ;
+    width: 256px;
+    height: 256px;
+}
+
+.StoreFund_5{
+    background-position: -256px -256px ;
+    width: 256px;
+    height: 256px;
+}
+
+.StoreFund_6{
+    background-position: -512px -256px ;
+    width: 256px;
+    height: 256px;
+}
+
+/*btn light green*/
+
+p.btn-green {
+    margin-bottom:0;
+}
+
+.btn-green {
+    color: #000;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    background-color: #89C006;
+    padding:5px;
+}
+.btn-green:hover {
+    background-color: #EAF900;
+    background-image: -moz-linear-gradient(top, #89C006, #61840C);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#89C006), to(#61840C));
+    background-image: -webkit-linear-gradient(top, #89C006, #61840C);
+    background-image: -o-linear-gradient(top, #89C006, #61840C);
+    background-image: linear-gradient(to bottom, #89C006, #61840C);
+    background-repeat: repeat-x;
+    text-shadow: none;
+    text-decoration: none;
+    color:#000;
+
+
+}
+
+.btn-green:visited, .btn-green:focus, .btn-green:active {
+    text-decoration:none !important;
+    color:#000 !important;
+    outline:none;
+    border:none;
 }
