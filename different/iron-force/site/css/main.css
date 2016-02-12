@@ -1749,86 +1749,124 @@ label {
 /*diamond sprite*/
 
 .StoreDiamond_1, .StoreDiamond_2, .StoreDiamond_3, .StoreDiamond_4, .StoreDiamond_5, .StoreDiamond_6{
+
     background: url(../img/diamond/sprites_diamonds.png) no-repeat;
+    background-size: 300%;
+
+
 }
 
 .StoreDiamond_1{
     background-position: 0 0;
-    width: 256px;
-    height: 256px;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
+
 }
 
 .StoreDiamond_2{
-    background-position: -256px 0;
-    width: 256px;
-    height: 256px;
+    background-position: 50% 0;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
 }
 
 .StoreDiamond_3{
-    background-position: -512px 0;
-    width: 256px;
-    height: 256px;
+    background-position: 100% 0;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
+
 }
 
 .StoreDiamond_4{
-    background-position: 0 -256px ;
-    width: 256px;
-    height: 256px;
+    background-position: 0 100%;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
 }
 
 .StoreDiamond_5{
-    background-position: -256px -256px ;
-    width: 256px;
-    height: 256px;
+    background-position: 50% 100%;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
+
 }
 
 .StoreDiamond_6{
-    background-position: -512px -256px ;
-    width: 256px;
-    height: 256px;
+    background-position: 100% 100%;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
+
 }
 
 
 /*money sprite*/
 .StoreFund_1, .StoreFund_2, .StoreFund_3, .StoreFund_4, .StoreFund_5, .StoreFund_6{
     background: url(../img/diamond/sprites_money.png) no-repeat;
+    background-size: 300%;
 }
 
-.StoreFund_1{
+.StoreFund_1 {
     background-position: 0 0;
-    width: 256px;
-    height: 256px;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
+
 }
 
-.StoreFund_2{
-    background-position: -256px 0;
-    width: 256px;
-    height: 256px;
+.StoreFund_2 {
+    background-position: 50% 0;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
 }
 
-.StoreFund_3{
-    background-position: -512px 0;
-    width: 256px;
-    height: 256px;
+.StoreFund_3 {
+    background-position: 100% 0;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
+
 }
 
-.StoreFund_4{
-    background-position: 0 -256px ;
-    width: 256px;
-    height: 256px;
+.StoreFund_4 {
+    background-position: 0 100%;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
 }
 
-.StoreFund_5{
-    background-position: -256px -256px ;
-    width: 256px;
-    height: 256px;
+.StoreFund_5 {
+    background-position: 50% 100%;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
+
 }
 
-.StoreFund_6{
-    background-position: -512px -256px ;
-    width: 256px;
-    height: 256px;
+.StoreFund_6 {
+    background-position: 100% 100%;
+    width: 100%;
+    height: 0;
+    padding-bottom:100%;
+
+
 }
+
 
 /*btn light green*/
 
