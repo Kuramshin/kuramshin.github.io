@@ -1289,7 +1289,8 @@ label {
 .cristalss_buy_others_item_bottom_btn_item {
     /*margin: 0;*/
     padding: 5px;
-    /*width: 100%;*/
+    width: 100% !important;
+    display: block;
     /*background: url(../img/diamond/EnergyButton_BackGround.png) no-repeat center center;*/
     /*-webkit-background-size: cover;*/
     /*-moz-background-size: cover;*/
