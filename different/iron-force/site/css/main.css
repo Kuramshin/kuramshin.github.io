@@ -216,8 +216,8 @@ html {
 
 .top-menu-chat-b:active,
 .top-menu-cart-b:active {
-    border: 2px solid #C5CC00;
-    box-shadow: 0 0 10px #E7EF00;
+    /*border: 2px solid #C5CC00;*/
+    /*box-shadow: 0 0 10px #E7EF00;*/
 }
 
 .fuel_back_img:active {
@@ -343,7 +343,7 @@ button:visited {
 }
 
 .btn-registration {
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 .btn-chat {
@@ -821,6 +821,10 @@ label {
 
 .login_level {
     text-align: center;
+}
+
+.login_level_rank_img {
+    width: 20px;
 }
 
 .login_level_indicator {

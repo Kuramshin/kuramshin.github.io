@@ -66,8 +66,12 @@
                                     <label for="pass">Пароль</label>
                                     <input type="password" class="form-control" id="pass" placeholder="Пароль">
                                 </div>
-
-                                <button type="submit" class="btn btn-login">Войти</button> <a type="submit" class="btn btn-registration">Регистрация</a>
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox"> запомнить меня
+                                    </label>
+                                </div>
+                                <button type="submit" class="btn btn-login">Войти</button> <a href="#" data-toggle="modal" data-target="#myModal_registration" class="btn btn-registration">Регистрация</a>
                             </form>
 
                         </div>
@@ -89,7 +93,7 @@
             </div>
             <div class="top-menu-right col-md-6 col-sm-6 col-xs-6">
                 <a href="black_list.html" class="btn btn_def">Black-list</a>
-                <div class="top-menu-money-b hidden-xs">
+                <div class="top-menu-money-b hidden-sm hidden-xs">
                     <div><span class="money-txt">1,777,700</span> <img src="img/dollars.png" class="dollars_img" title="скупой платит дважды"></div>
                     <div><span class="money-txt">2,500</span> <img src="img/cristalls.png" class="cristalls_img" title="камни дешевле"></div>
 
@@ -400,6 +404,51 @@
         </div>
 
     </div>
+    <!-- modal registration-->
+    <div class="modal fade bs-example-modal-md" id="myModal_registration" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+        <div class="modal-dialog modal-md">
+            <div class="modal-content contacts-b registration-b">
+                <button type="button" class="close close_modal" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <div class="row ">
+                    <h3 class="modal_contacts_title"> <span class="modal_gold_txt">РЕГИСТРАЦИЯ</span></h3>
+                    <div class="col-md-12 col-sm-12">
+
+                        <form role="form">
+                            <div class="form-group">
+                                <label for="email">Имя</label>
+                                <input type="text" class="form-control" id="name_registration" placeholder="Введите имя">
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" class="form-control" id="email_registration" placeholder="Введите email">
+                            </div>
+                            <div class="form-group">
+                                <label for="pass">Пароль</label>
+                                <input type="password" class="form-control" id="pass_registration" placeholder="Пароль">
+                            </div>
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox"> запомнить меня
+                                </label>
+                            </div>
+
+                            <button type="submit" class="btn btn-login">Войти</button> <a type="submit"  class="btn btn-registration">Регистрация</a>
+                        </form>
+                    </div>
+
+
+
+                </div>
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+    <!-- / modal registration-->
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>-->
     <script src="js/jquery-1.12.0.min.js"></script>
