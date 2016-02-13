@@ -7,6 +7,11 @@
 html {
     width: 100%;
     height: 100%;
+
+}
+body {
+    font-family: 'Oswald', sans-serif !important;
+    letter-spacing: 0.8px;
 }
 
 
@@ -1589,7 +1594,8 @@ label {
 
 .form-control_sale_tank,
 .form-control_comments,
-.form-control_filter_buy {
+.form-control_filter_buy,
+.form-control_registration{
     background: rgba(0, 0, 0, 0.3);
     color: #EBEBEB;
 }
@@ -1605,7 +1611,9 @@ label {
 .form-control_sale_tank:focus,
 .form-control_sale_tank:active,
 .form-control_comments:focus,
-.form-control_comments:active {
+.form-control_comments:active,
+.form-control_registration:focus,
+.form-control_registration:active{
     border: 1px solid #BEE313;
     box-shadow: 0 0 5px #BEE313;
 }

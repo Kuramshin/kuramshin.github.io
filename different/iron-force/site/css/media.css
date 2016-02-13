@@ -375,6 +375,8 @@ font-size: 10px;
 
     }
 
+
+
     .btn-registration {
         margin-left: 0px;
     }
@@ -418,6 +420,8 @@ font-size: 10px;
 
     }
 
+
+
     .nav-tabs_buy_others {font-size: 13px;}
 
     /*.tank_shop_item_prop_left,*/
@@ -457,6 +461,11 @@ font-size: 10px;
     .form_filter_buy_tank {
 
         padding: 15px;
+    }
+
+    .navbar-nav>li>a {
+        margin: 0 5px !important;
+
     }
 
 }
