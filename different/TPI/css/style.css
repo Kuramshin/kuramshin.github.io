@@ -1,0 +1,311 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:500,600,700,100,800,900,400,200,300);
+@import url(http://fonts.googleapis.com/css?family=Playball);
+body,
+html {
+    font-family: 'Raleway', sans-serif;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1100px;
+    }
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.main_title {
+    font-size: 28px;
+    line-height: 1.2;
+}
+
+h2 {
+    margin: 0;
+    line-height: 20px;
+}
+
+h4 {
+    margin-bottom: 20px;
+    color: #00AAE9;
+
+    font-weight: 700;
+    font-size: 16px;
+}
+
+p {
+    font-size: 14px;
+
+}
+
+a {
+    -webkit-transition: all 0.8;
+    transition: all 0.8;
+}
+
+a:hover,
+a:focus {
+    text-decoration: none;
+}
+
+.clearfix:after {
+    display: block;
+    visibility: hidden;
+    clear: both;
+    height: 0;
+    content: " ";
+    font-size: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+
+.clearfix {
+    display: block;
+}
+
+
+/* Home Style */
+
+#tf-home {
+    background: url(../images/header_bg.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+#tf-home .overlay,
+#tf-services .overlay {
+    height: auto;
+}
+
+.content {
+    padding: 0% 0 30% 0;
+    text-align: center;
+}
+
+.active {}
+
+
+/*news-container*/
+
+.news-container {
+    padding: 50px 0;
+}
+
+.news-img-item {
+    margin: 0 20px;
+}
+
+.news-img-item img {
+    width: 290px;
+    height: auto;
+}
+
+.news-item-text-left .news-item-text {
+    text-align: left;
+}
+
+.news-item-text-right .news-item-text {
+    text-align: right;
+}
+
+
+/* Navigation */
+
+#tf-menu {
+    margin-bottom: 0;
+    padding: 1% 0;
+    border: 0;
+    background: transparent;
+    color: #fff !important;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+
+#tf-menu.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#tf-menu.navbar-default .navbar-nav > li > a:hover,
+#tf-menu.navbar-default .navbar-nav > li > a:focus {
+    background-color: transparent;
+    border: 1px solid #fff;
+    /*#2F937B;*/
+}
+
+.logo > img {
+    width: 74px;
+    height: auto;
+}
+
+.header-bottom-menu-about-us {
+    padding: 36px;
+    background: #7adeff;
+    font-size: 20px;
+}
+
+.header-bottom-menu-news {
+    padding: 36px;
+    background: #0e4ccc;
+    font-size: 20px;
+}
+
+.active {
+    padding: 38px;
+    box-shadow: 0 0 10px grey;
+}
+
+
+
+button.btn,
+a.btn {
+    margin: 15px 5px;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+button.btn.btn-primary.my-btn,
+a.btn.btn-primary.my-btn {
+    padding: 10px 30px;
+    border-width: 2px;
+    border-color: transparent;
+    border-radius: 0px;
+    background: #00AAE9;
+    /*#2F937B*/
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+button.btn.btn-primary.my-btn:hover,
+a.btn.btn-primary.my-btn:hover {
+    border-color: transparent;
+    background: #FFFFFF;
+    color: #2F937B;
+}
+
+button.btn.btn-primary.my-btn.dark:hover,
+a.btn.btn-primary.my-btn.dark:hover {
+    border-color: transparent;
+    background: #222222;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+#tf-services {
+    background: url(../images/services_bg.jpg);
+    background-attachment: scroll;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+
+#tf-services .overlay {
+    padding: 10% 0;
+    height: auto;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.services_container_title {margin-bottom: 65px;}
+
+.services_title {margin-top:25px;}
+
+.direction {
+    width: 80px;
+    height: 80px;
+background-position: center;
+background-size: 100% 100%;
+background-repeat: no-repeat;}
+
+.direction01 {background: url(../images/direction01.jpg);}
+
+.direction01:hover {background: url(../images/direction01_hover.jpg);}
+
+.direction02 {background: url(../images/direction02.jpg);}
+
+.direction02:hover {background: url(../images/direction02_hover.jpg);}
+
+.direction03 {background: url(../images/direction03.jpg);}
+
+.direction03:hover {background: url(../images/direction03_hover.jpg);}
+
+
+
+.btn-services {
+    margin-top:90px;
+    margin-bottom:100px;
+    padding: 20px 30px;
+    background: #fff;
+    color:#00688a;}
+
+.btn-services:hover {background:#7adeff; color:#fff;}
+
+
+#tf-contact input.form-control {
+    height: 40px;
+}
+
+#tf-contact .form-control {
+    display: block;
+    margin-bottom: 20px;
+    padding: 16px 12px;
+    width: 100%;
+    border: 1px solid #FFF;
+    border-top: 2px solid transparent;
+    border-radius: 0;
+    background-color: #FFF;
+    background-image: none;
+    box-shadow: none;
+    color: #555;
+    font-size: 14px;
+    line-height: 1.42857143;
+    -webkit-transition: none;
+    transition: all 0.8s;
+}
+
+#tf-contact .form-control:focus,
+#tf-contact .form-control:hover {
+    border-top: 2px solid #00AAE9;
+    /*#2F937B;*/
+}
+
+#tf-footer {
+
+    padding: 3% 0 2% 0;
+    background: #000000;
+    color: #308ba8;
+}
+
+
+
+
+
+.form-control {max-width: 330px;}
+
+.fa-phone {
+    margin: 0 10px 0 -10px;
+}
