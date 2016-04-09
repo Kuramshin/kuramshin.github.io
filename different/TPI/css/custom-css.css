@@ -605,19 +605,34 @@ a:focus {
 }
 
 
-/*
-.social {
-    width: 133px;
-    height: 42px;
-    background: url(../images/social.png);
+/*social-media*/
+
+.social-media {
     position: absolute;
-    top: 40px;
-    right: 80px;
-}*/
+top:45px;
+}
+
+.social-media-item {
+    opacity:0.9;
+
+}
+
+.social-media-item:hover {
+
+    opacity:1;
+    -webkit-transition: all 0.7s ease;
+    -moz-transition: all 0.7s ease;
+    -ms-transition: all 0.7s ease;
+    -o-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+}
+
+
 
 .transport {
-    background-image: url(../images/train-railway-s-bahn-transport.jpg);
-    background: red;
+    background-image: url(../images/rail_bg.jpg);
+    background-attachment: fixed;
+     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     color: #000;
@@ -626,3 +641,24 @@ a:focus {
     min-height: 800px;
     text-align: center;
 }
+
+/*scroll up*/
+
+#scrollup {
+    position: fixed; /* фиксированная позиция */
+    opacity: 0.8; /* прозрачность */
+    right: 50px; /* отступ слева */
+    bottom: 50px; /* отступ снизу */
+    display: none; /* спрятать блок */
+    cursor: pointer;
+}
+.scroll-up-inner {width: 30px;
+height: 30px;
+border-radius: 50%;
+background: blue;
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.scroll-up-glyphicon {color: white !important;}

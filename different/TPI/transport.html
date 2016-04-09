@@ -71,9 +71,14 @@
 
     <div class="clearfix"></div>
 
-    <div class="container transport">
+<div class="transport">
+<div class="container ">
 
-    </div>
+
+</div>
+
+</div>
+
 
     <div class="clearfix"></div>
 
@@ -120,9 +125,28 @@
             jQuery('.header-bottom-menu > div').click(function () {
 
 
-
             });
         });
+    </script>
+    <script>
+        function setAsBackground(post_img) {
+
+            var post_img = post_img;
+
+            var img = new Image();
+
+            img.src = post_img;
+
+            img.onload = function() {
+
+                console.log(this.src); //Выводит URL картинки как надо
+
+                document.getElementById('page_background').style.backgroundImage = 'url(' + this.src + ')';
+
+            };
+
+        }
+
     </script>
 </body>
 

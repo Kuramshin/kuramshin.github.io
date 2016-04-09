@@ -2,69 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/Port-Adriano-aerial-view.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/header_bg_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/iss043e303045_lrg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/project_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/project_img_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/project_img_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/project_img_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/road-mountains-street-cliff.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/shutterstock_148708130.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/shutterstock_270244094-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/social.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/train-railway-s-bahn-transport.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/train-railway-s-bahn-transport.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/custom-css.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/project.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/transport.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/css/images.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/css/style.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction01_hover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction02_hover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction03_hover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/Без-имени-1_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/Без-имени-1_05.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/direction01.png" afterPath="$PROJECT_DIR$/different/TPI/images/direction01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/direction02.png" afterPath="$PROJECT_DIR$/different/TPI/images/direction02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/direction03.png" afterPath="$PROJECT_DIR$/different/TPI/images/direction03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/header_bg.jpg" afterPath="$PROJECT_DIR$/different/TPI/images/header_bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/logo.png" afterPath="$PROJECT_DIR$/different/TPI/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/news-img01.png" afterPath="$PROJECT_DIR$/different/TPI/images/news-img01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/news-img02.png" afterPath="$PROJECT_DIR$/different/TPI/images/news-img02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/partners_bg.jpg" afterPath="$PROJECT_DIR$/different/TPI/images/partners_bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/services_bg.jpg" afterPath="$PROJECT_DIR$/different/TPI/images/services_bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/auto_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/fb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/rail_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/sea_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/twiter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/js/main.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/train-railway-s-bahn-transport.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/css/custom-css.css" afterPath="$PROJECT_DIR$/different/TPI/css/custom-css.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/index.html" afterPath="$PROJECT_DIR$/different/TPI/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/css/style.css" afterPath="$PROJECT_DIR$/different/TPI/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/transport.html" afterPath="$PROJECT_DIR$/different/TPI/transport.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -91,18 +38,58 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/TPI/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="174" column="69" selection-start-line="174" selection-start-column="69" selection-end-line="174" selection-end-column="69" />
+            <state vertical-scroll-proportion="-13.208333">
+              <caret line="259" column="116" selection-start-line="259" selection-start-column="97" selection-end-line="259" selection-end-column="116" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/different/TPI/css/style.css">
+      <file leaf-file-name="transport.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/different/TPI/transport.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-28.833334">
+              <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/different/TPI/project.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="78.666664">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom-css.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/different/TPI/css/custom-css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.90335053">
+              <caret line="660" column="22" selection-start-line="660" selection-start-column="22" selection-end-line="660" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/different/aboutme/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/different/TPI/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -137,9 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/class/lesson6/task1.html" />
-        <option value="$PROJECT_DIR$/js/class/lesson6/task2.html" />
-        <option value="$PROJECT_DIR$/js/class/lesson6/task3.html" />
         <option value="$PROJECT_DIR$/js/class/lesson7/task1.html" />
         <option value="$PROJECT_DIR$/aboutme/test.css" />
         <option value="$PROJECT_DIR$/aboutme/hove_efect.css" />
@@ -186,8 +170,11 @@
         <option value="$PROJECT_DIR$/different/iron-force/site/buy_tanks.html" />
         <option value="$PROJECT_DIR$/different/iron-force/site/css/media.css" />
         <option value="$PROJECT_DIR$/different/iron-force/site/css/main.css" />
-        <option value="$PROJECT_DIR$/different/TPI/index.html" />
         <option value="$PROJECT_DIR$/different/TPI/css/style.css" />
+        <option value="$PROJECT_DIR$/different/TPI/transport.html" />
+        <option value="$PROJECT_DIR$/different/TPI/js/main.js" />
+        <option value="$PROJECT_DIR$/different/TPI/index.html" />
+        <option value="$PROJECT_DIR$/different/TPI/css/custom-css.css" />
       </list>
     </option>
   </component>
@@ -255,6 +242,68 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="different" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="different" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="different" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kuramshin.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="different" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,12 +429,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00235" summary="iron force upd">
-      <created>1453975779323</created>
-      <option name="number" value="00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1453975779323</updated>
     </task>
     <task id="LOCAL-00236" summary="iron force upd">
       <created>1453976025700</created>
@@ -675,18 +718,27 @@
       <option name="project" value="LOCAL" />
       <updated>1460002454942</updated>
     </task>
-    <option name="localTasksCounter" value="284" />
+    <task id="LOCAL-00284" summary="TPI start">
+      <created>1460167294325</created>
+      <option name="number" value="00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1460167294328</updated>
+    </task>
+    <option name="localTasksCounter" value="285" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="0" width="1388" height="896" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769045" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944812" sideWeight="0.4950249" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23994148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944812" sideWeight="0.50497514" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32650602" sideWeight="0.5028525" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32648125" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -694,10 +746,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769045" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -734,7 +783,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="iron-force upd slider width" />
     <MESSAGE value="iron-force upd top menu" />
     <MESSAGE value="iron-force media  upd" />
     <MESSAGE value="iron-force upd" />
@@ -759,50 +807,14 @@
     <MESSAGE value="iron force shop upd registration form" />
     <MESSAGE value="iron force shop upd btn-def" />
     <MESSAGE value="iron force shop upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="iron force shop upd" />
+    <MESSAGE value="TPI start" />
+    <option name="LAST_COMMIT_MESSAGE" value="TPI start" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/slide03.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/main_bg_shop_v01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/main_bg_shop_v02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/shop_item_v01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/tanks/TankPhoto_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/dollars.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/iron-force/site/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33290157">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/tanks/TankPhoto_21.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -921,13 +933,6 @@
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/img/avatar_admin.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/different/aboutme/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.33804628">
-          <caret line="155" column="51" selection-start-line="155" selection-start-column="48" selection-end-line="155" selection-end-column="51" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/different/iron-force/site/js/main.js">
@@ -1061,18 +1066,79 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/different/TPI/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="174" column="69" selection-start-line="174" selection-start-column="69" selection-end-line="174" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/different/TPI/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/TPI/images/project_bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/aboutme/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5412234">
+          <caret line="239" column="18" selection-start-line="233" selection-start-column="12" selection-end-line="239" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/TPI/transport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.833334">
+          <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/TPI/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/aboutme/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/TPI/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/TPI/project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="78.666664">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/TPI/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.208333">
+          <caret line="259" column="116" selection-start-line="259" selection-start-column="97" selection-end-line="259" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different/TPI/css/custom-css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.90335053">
+          <caret line="660" column="22" selection-start-line="660" selection-start-column="22" selection-end-line="660" selection-end-column="22" />
           <folding />
         </state>
       </provider>
