@@ -2,29 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/direction01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/direction01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/direction01_hover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/direction02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/direction02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/direction02_hover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/direction03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/direction03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/direction03_hover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/header_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/images.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/news-img01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/news-img02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partners_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/services_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/Без-имени-1_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/Без-имени-1_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/Port-Adriano-aerial-view.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/header_bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/iss043e303045_lrg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/partner07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/project_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/project_img_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/project_img_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/project_img_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/road-mountains-street-cliff.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/shutterstock_148708130.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/shutterstock_270244094-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/social.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/Photos/train-railway-s-bahn-transport.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/train-railway-s-bahn-transport.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/css/custom-css.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/project.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/transport.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/css/images.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/css/style.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction01_hover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction02_hover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/direction03_hover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/Без-имени-1_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/Без-имени-1_05.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/direction01.png" afterPath="$PROJECT_DIR$/different/TPI/images/direction01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/direction02.png" afterPath="$PROJECT_DIR$/different/TPI/images/direction02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/direction03.png" afterPath="$PROJECT_DIR$/different/TPI/images/direction03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/header_bg.jpg" afterPath="$PROJECT_DIR$/different/TPI/images/header_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/logo.png" afterPath="$PROJECT_DIR$/different/TPI/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/news-img01.png" afterPath="$PROJECT_DIR$/different/TPI/images/news-img01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/news-img02.png" afterPath="$PROJECT_DIR$/different/TPI/images/news-img02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/partners_bg.jpg" afterPath="$PROJECT_DIR$/different/TPI/images/partners_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/images/services_bg.jpg" afterPath="$PROJECT_DIR$/different/TPI/images/services_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/different/TPI/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/index.html" afterPath="$PROJECT_DIR$/different/TPI/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/css/style.css" afterPath="$PROJECT_DIR$/different/TPI/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -51,12 +91,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/TPI/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-43.52941">
-              <caret line="176" column="82" selection-start-line="176" selection-start-column="82" selection-end-line="176" selection-end-column="82" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#hr#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="174" column="69" selection-start-line="174" selection-start-column="69" selection-end-line="174" selection-end-column="69" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,8 +101,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/different/TPI/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0796915">
-              <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -189,7 +226,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,68 +258,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kuramshin.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kuramshin.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="different" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TPI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kuramshin.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kuramshin.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="different" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TPI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kuramshin.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kuramshin.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="different" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TPI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope">
@@ -296,6 +270,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -405,12 +380,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00234" summary="iron force upd">
-      <created>1453975637820</created>
-      <option name="number" value="00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1453975637820</updated>
     </task>
     <task id="LOCAL-00235" summary="iron force upd">
       <created>1453975779323</created>
@@ -700,7 +669,13 @@
       <option name="project" value="LOCAL" />
       <updated>1455570022833</updated>
     </task>
-    <option name="localTasksCounter" value="283" />
+    <task id="LOCAL-00283" summary="iron force shop upd">
+      <created>1460002454939</created>
+      <option name="number" value="00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1460002454942</updated>
+    </task>
+    <option name="localTasksCounter" value="284" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -709,22 +684,22 @@
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944812" sideWeight="0.4950249" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23994148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944812" sideWeight="0.50497514" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32650602" sideWeight="0.5028525" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32648125" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769045" sideWeight="0.4971475" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -742,9 +717,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22361112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1029,7 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="380" column="43" selection-start-line="380" selection-start-column="43" selection-end-line="380" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,7 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="95" column="60" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1052,10 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="171" column="31" selection-start-line="171" selection-start-column="31" selection-end-line="171" selection-end-column="31" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h4#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1063,7 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="370" column="138" selection-start-line="370" selection-start-column="138" selection-end-line="370" selection-end-column="138" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,7 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="208" column="39" selection-start-line="208" selection-start-column="39" selection-end-line="208" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1079,7 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1717" column="31" selection-start-line="1716" selection-start-column="6" selection-end-line="1717" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1087,19 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="100" column="18" selection-start-line="100" selection-start-column="18" selection-end-line="100" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#5;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1110,19 +1063,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/different/TPI/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-43.52941">
-          <caret line="176" column="82" selection-start-line="176" selection-start-column="82" selection-end-line="176" selection-end-column="82" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="174" column="69" selection-start-line="174" selection-start-column="69" selection-end-line="174" selection-end-column="69" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/different/TPI/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0796915">
-          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
           <folding />
         </state>
       </provider>
