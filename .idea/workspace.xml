@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/auto_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/rail_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/sea_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/twiter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/js/main.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/different/TPI/images/train-railway-s-bahn-transport.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/css/custom-css.css" afterPath="$PROJECT_DIR$/different/TPI/css/custom-css.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/index.html" afterPath="$PROJECT_DIR$/different/TPI/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/TPI/transport.html" afterPath="$PROJECT_DIR$/different/TPI/transport.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different/TPI/images/vk.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -430,12 +421,6 @@
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
     </task>
-    <task id="LOCAL-00236" summary="iron force upd">
-      <created>1453976025700</created>
-      <option name="number" value="00236" />
-      <option name="project" value="LOCAL" />
-      <updated>1453976025700</updated>
-    </task>
     <task id="LOCAL-00237" summary="iron force upd">
       <created>1453976484896</created>
       <option name="number" value="00237" />
@@ -724,7 +709,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460167294328</updated>
     </task>
-    <option name="localTasksCounter" value="285" />
+    <task id="LOCAL-00285" summary="TPI upd">
+      <created>1460189286679</created>
+      <option name="number" value="00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1460189286679</updated>
+    </task>
+    <option name="localTasksCounter" value="286" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -783,7 +774,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="iron-force upd top menu" />
     <MESSAGE value="iron-force media  upd" />
     <MESSAGE value="iron-force upd" />
     <MESSAGE value="iron-force upd fonts" />
@@ -808,7 +798,8 @@
     <MESSAGE value="iron force shop upd btn-def" />
     <MESSAGE value="iron force shop upd" />
     <MESSAGE value="TPI start" />
-    <option name="LAST_COMMIT_MESSAGE" value="TPI start" />
+    <MESSAGE value="TPI upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="TPI upd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
