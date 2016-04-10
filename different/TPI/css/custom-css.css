@@ -3,7 +3,7 @@
 html {
     width: 100%;
     max-width: 1900px;
-    margin: 0 auto;
+    margin: 0;
 }
 
 h1 {
@@ -109,6 +109,9 @@ a:focus {
 .top-menu-item,
 .header-contact {
     margin: 10px 30px !important;
+}
+.top-menu-link {
+  border: 1px solid transparent !important; // to avoid "jumping" effect
 }
 
 .top-menu-link:hover,
@@ -688,4 +691,3 @@ background: #004efe;
     color: white !important;
     font-weight: bold;
 }
-
