@@ -633,6 +633,8 @@ textarea.form-control {
     box-shadow: -1px 2px 10px grey;
     text-align: left;
     padding-left: 30px;
+    position: absolute;
+    right: 0;
 }
 
 
@@ -754,19 +756,7 @@ background: #004efe;
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-    .navbar-default .navbar-toggle-custom {
-        border-color: #fff !important;
-    }
 
-    .navbar-default .navbar-toggle-custom:focus, .navbar-default .navbar-toggle-custom:hover {
-        background-color: #fff !important;
-        border-color: #fff !important;
-    }
-
-
-    .navbar-header {
-background: #fff;
-    }
 
     .top-menu-item, .header-contact {
         margin: 10px 0px !important;
@@ -795,12 +785,47 @@ background: #fff;
 
     .navbar-toggle {
 
-        float: left !important;}
+        float: left !important;
+    }
+
+    .header-bottom-tr {
+        padding: 36px 0px;
+
+    }
+
+    .header-bottom-menu-sea-tr {
+        font-size: 16px;
+    }
+    .header-bottom-menu-rail-tr {
+        font-size: 16px;
+    }
+    .header-bottom-menu-auto-tr {
+        font-size: 16px;
+    }
+    .header-bottom-menu-tr_active {
+        font-size: 20px;
+        text-align: center;
+
+    }
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-.navbar-brand {
+    .navbar-default .navbar-toggle-custom {
+        border-color: #fff !important;
+    }
+
+    .navbar-default .navbar-toggle-custom:focus, .navbar-default .navbar-toggle-custom:hover {
+        background-color: #fff !important;
+        border-color: #fff !important;
+    }
+
+
+    .navbar-header {
+        background: #fff;
+    }
+
+    .navbar-brand {
     display: none;
 }
 
@@ -873,6 +898,26 @@ background: #fff;
 
     #scrollup {
         right: 25px;
+    }
+
+    .header-bottom-tr {
+        padding: 18px 0px;
+
+    }
+
+    .header-bottom-menu-sea-tr {
+        font-size: 14px;
+    }
+    .header-bottom-menu-rail-tr {
+        font-size: 14px;
+    }
+    .header-bottom-menu-auto-tr {
+        font-size: 14px;
+    }
+    .header-bottom-menu-tr_active {
+        font-size: 15px;
+        text-align: center;
+
     }
 }
 
