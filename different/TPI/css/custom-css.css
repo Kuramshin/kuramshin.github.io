@@ -946,7 +946,19 @@ background: #004efe;
 
     }
 
-    .project-item-description-content {font-size: 13px;}
+    .project-item-description-content {font-size: 13px !important;}
+
+    .project-scope {padding-right: 0 !important;
+    padding-left: 0 !important;}
+
+    .project-item-description {
+
+        width: 65% !important;}
+
+    .project-client-name {
+        font-size: 14px !important;
+        margin-top: 25px;
+    }
 
     #scrollup {
         right: 25px;
