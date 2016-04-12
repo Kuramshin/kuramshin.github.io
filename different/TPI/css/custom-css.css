@@ -111,7 +111,32 @@ a:focus {
     margin: 10px 30px !important;
 }
 .top-menu-link {
-  border: 1px solid transparent !important; // to avoid "jumping" effect
+  border: 1px solid transparent !important; /*to avoid "jumping" effect*/
+}
+
+.dropdown-menu-custom{
+    border: none !important;
+    background: none !important;
+    box-shadow: none !important;
+    min-width: 900px !important;
+    margin-right: -370px !important;
+    text-align: center !important;
+}
+.dropdown-menu-item > a {
+    color: white;
+    font-size: 18px;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    border: 1px solid white !important;
+    background: none !important;
+}
+
+.dropdown-list-inline {
+    margin-top: 20px;
+}
+.dropdown-menu-item > a:hover, .dropdown-menu-item > a:focus {
+    color:white;
 }
 
 .top-menu-link:hover,
@@ -645,6 +670,10 @@ textarea.form-control {
 top:45px;
 }
 
+.social-media-transport {
+    top:78px;
+}
+
 .social-media-item {
     opacity:0.9;
 
@@ -807,6 +836,16 @@ background: #004efe;
         text-align: center;
 
     }
+
+    .navbar-nav>li>a {
+
+        font-size: 16px !important;
+    }
+
+    .dropdown-menu-item > a {
+
+        font-size: 15px;
+    }
 }
 
 /* Extra Small Devices, Phones */
@@ -919,6 +958,38 @@ background: #004efe;
         text-align: center;
 
     }
+
+    .navbar-nav>li>a {
+
+        font-size: 15px !important;
+    }
+
+    .dropdown-menu-custom{
+        min-width: 200px !important;
+        margin-right: -20px !important;
+        text-align: left !important;
+    }
+
+    .dropdown-menu-item > a {
+
+        font-size: 14px;
+    }
+
+    .dropdown-list-inline {
+        margin-top: 5px;
+    }
+    .dropdown-list-inline {
+        margin-left:10px !important;
+    }
+
+    .dropdown-menu-item {
+        margin: 5px 0;
+    }
+
+    .social-media-list > li {
+        padding-right: 0 !important;
+    }
+
 }
 
 /* Custom, iPhone Retina */
