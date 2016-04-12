@@ -26,7 +26,7 @@ jQuery(document).ready(function() {
 
 //header bottom nav menu
 
-/*
+
 jQuery(document).ready(function() {
   jQuery('.header-bottom-menu > div').click(function() {
     jQuery('.news').toggleClass('hide');
@@ -35,7 +35,7 @@ jQuery(document).ready(function() {
     jQuery('.header-bottom').toggleClass('header-bottom-menu_active');
   });
 });
-*/
+
 
 jQuery(document).ready(function() {
   jQuery('.header-bottom-tr').click(function() {

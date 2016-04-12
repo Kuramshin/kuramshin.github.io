@@ -559,7 +559,7 @@ textarea.form-control {
 .social-media {
   position: absolute;
   top: 45px;
-  display: none !important; //temporary
+  /*display: none !important; */
 }
 .social-media-transport {
   top: 78px;
@@ -745,8 +745,15 @@ textarea.form-control {
     text-align: left;
     font-weight: 400;
   }
-  .social-media {
-    top: 63px !important;
+
+  .header-bottom-tr.active {
+    font-size: 110%;
+    padding-left: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .social-media-transport {
+    top: 280px !important;
     right: 0px;
   }
   .header-bottom, .header-bottom-menu-news, .header-bottom-menu-about-us {
@@ -761,7 +768,7 @@ textarea.form-control {
     width: 65%;
   }
   .social-media {
-    top: -40px;
+    top: 63px;
     right: 0;
   }
   .news-item {
