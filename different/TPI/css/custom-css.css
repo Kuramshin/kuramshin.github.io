@@ -716,12 +716,22 @@ textarea.form-control {
     font-size: 20px;
     text-align: center;
   }
+
+  .header-bottom-tr.active {
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
   .navbar-nav>li>a {
     font-size: 16px !important;
   }
   .dropdown-menu-item > a {
     font-size: 15px;
   }
+    .social-media-transport {
+        top: 53px;
+        right: 0;
+    }
 }
 
 /* Extra Small Devices, Phones */
@@ -752,10 +762,10 @@ textarea.form-control {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  .social-media-transport {
-    top: 280px !important;
-    right: 0px;
-  }
+  /*.social-media-transport {*/
+    /*top: 280px !important;*/
+    /*right: 0px;*/
+  /*}*/
   .header-bottom, .header-bottom-menu-news, .header-bottom-menu-about-us {
     font-size: 18px;
   }
@@ -803,9 +813,21 @@ textarea.form-control {
   }
   .project-item-description {
     padding: 5px 5px 0px 5px;
+      width: 65%;
   }
+
+    .project-client-name {
+        font-size: 14px !important;
+        font-weight: 200;
+    }
+
+    .project-scope {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
   .project-item-description-content {
-    font-size: 13px;
+    font-size: 13px !important;
+      font-weight: 200;
   }
   #scrollup {
     right: 25px;
