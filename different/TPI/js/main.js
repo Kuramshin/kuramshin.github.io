@@ -37,20 +37,21 @@ jQuery(document).ready(function() {
 
 //header bottom nav menu transport
 
-//jQuery(document).ready(function() {
-//  jQuery('.header-bottom-menu-tr > div').click(function() {
-//if (jQuery('.header-bottom-tr').hasClass('header-bottom-menu-tr_active')){
-//  jQuery('.header-bottom-tr').removeClass('header-bottom-menu-tr_active');}
-// else {
-// jQuery('.header-bottom-tr').addClass('header-bottom-menu-tr_active');
-// }
-//  });
-//});
+jQuery(document).ready(function() {
+  jQuery('.header-bottom-tr').click(function() {
 
-    //jQuery('.header-bottom-tr').toggleClass('header-bottom-menu-tr_active');
-//
-//  });
-//});
+    var chosen_pane = jQuery(this),
+        all_panes = jQuery('.header-bottom-tr');
+
+    all_panes.removeClass('active');    
+    chosen_pane.addClass('active');
+
+
+
+  });
+
+});
+
 
 
 
