@@ -1,3 +1,19 @@
+
+@font-face {
+	font-family: "NautilusPompiliusRegular";
+	src: url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot");
+	src: url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.woff") format("woff"),
+	url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+.header-logo-txt {
+	font-family: "NautilusPompiliusRegular";
+	font-size: 30px;
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*	GENERAL STYLING
 /*-----------------------------------------------------------------------------------*/
