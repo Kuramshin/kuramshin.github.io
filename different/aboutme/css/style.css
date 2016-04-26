@@ -40,8 +40,8 @@ p{
 
 a { 
 	color: #ffffff;
-	-webkit-transition: all 0.8;
-	transition: all 0.8;
+	-webkit-transition: all 0.8s;
+	transition: all 0.8s;
 }
 a:hover,
 a:focus{
@@ -312,7 +312,7 @@ nav#tf-footer {
 }
 
 .img-responsive {
-    margin-bottom:10px;
+    margin-bottom:25px;
     border: 1px solid grey;
 
 }
