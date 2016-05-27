@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a5dbb8-2a8d-49b3-ac77-593e41b73f65" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/index.html" afterPath="$PROJECT_DIR$/different/aboutme/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/different/aboutme/css/style.css" afterPath="$PROJECT_DIR$/different/aboutme/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="94de92f8-ddc9-4eaa-8e59-55a0fc32d0dc" name="New changelist" comment="" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different/aboutme/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06344827">
+            <state vertical-scroll-proportion="-0.9019608">
               <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/different/aboutme/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.7957276">
+              <caret line="314" column="21" selection-start-line="314" selection-start-column="21" selection-end-line="314" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -127,8 +127,8 @@
         <option value="$PROJECT_DIR$/different/TPI/css/custom-css.css" />
         <option value="$PROJECT_DIR$/different/Alex-Studio/css/style.css" />
         <option value="$PROJECT_DIR$/different/Alex-Studio/index.html" />
-        <option value="$PROJECT_DIR$/different/aboutme/css/style.css" />
         <option value="$PROJECT_DIR$/different/aboutme/index.html" />
+        <option value="$PROJECT_DIR$/different/aboutme/css/style.css" />
       </list>
     </option>
   </component>
@@ -383,12 +383,6 @@
       <created>1428682988575</created>
       <option name="number" value="Default" />
       <updated>1428682988575</updated>
-    </task>
-    <task id="LOCAL-00251" summary="iron force shop upd">
-      <created>1454333138552</created>
-      <option name="number" value="00251" />
-      <option name="project" value="LOCAL" />
-      <updated>1454333138555</updated>
     </task>
     <task id="LOCAL-00252" summary="iron force shop upd">
       <created>1454333438752</created>
@@ -678,7 +672,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464342105397</updated>
     </task>
-    <option name="localTasksCounter" value="300" />
+    <task id="LOCAL-00300" summary="Alex-Studio upd">
+      <created>1464342557406</created>
+      <option name="number" value="00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1464342557407</updated>
+    </task>
+    <option name="localTasksCounter" value="301" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1074,18 +1074,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/different/aboutme/css/style.css">
+    <entry file="file://$PROJECT_DIR$/different/aboutme/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        <state vertical-scroll-proportion="-0.9019608">
+          <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/different/aboutme/index.html">
+    <entry file="file://$PROJECT_DIR$/different/aboutme/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06344827">
-          <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.7957276">
+          <caret line="314" column="21" selection-start-line="314" selection-start-column="21" selection-end-line="314" selection-end-column="21" />
           <folding />
         </state>
       </provider>

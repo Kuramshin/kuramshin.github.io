@@ -312,6 +312,7 @@ nav#tf-footer {
 }
 
 .img-responsive {
+	display: inherit;
     margin-bottom:25px;
     border: 1px solid grey;
 
